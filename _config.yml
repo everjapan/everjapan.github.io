@@ -21,7 +21,7 @@
 title: 日系生活家
 email: everjapan@163.com
 description: >- # this means to ignore newlines until "baseurl:"
-  拥抱理性，心向未来
+  怀抱理性，心向未来
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://everjapan.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -33,10 +33,11 @@ plugins:
 permalink: /:categories/:title/
 show_excerpts: true
 
-
-minima:
-  social_links:
-    - { platform: devto,          user_url: "https://dev.to/jekyll" }
+header_pages:
+  - japanse.md
+  - travel.md
+  - food.md
+  - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
