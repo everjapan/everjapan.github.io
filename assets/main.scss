@@ -4,6 +4,28 @@
 
 @import "minima";
 
+.post-content {
+    h2 {
+        color: #541B1B;
+        font-weight: bold;
+        font-size: 21px;
+        margin: 32px 0 16px 0;
+        border-bottom: 1px solid #EADADA;
+    }
+      
+    h3 {
+        font-size: 19px;
+        border-left: 4px solid #541B1B;
+        padding: 4px 8px;
+        background-color: #EADADA;
+        margin-bottom: 16px;
+    }
+      
+    ul {
+        margin-bottom: 24px;
+    }
+}
+
 .post-wx-appealing {
     display: flex;
     flex-direction: column;
