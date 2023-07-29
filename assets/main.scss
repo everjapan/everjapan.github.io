@@ -8,16 +8,16 @@
     h2 {
         color: #541B1B;
         font-weight: bold;
-        font-size: 21px;
+        font-size: 1.4rem;
         margin: 32px 0 16px 0;
-        border-bottom: 1px solid #EADADA;
+        border-bottom: 1px solid #f6f1ea;
     }
       
     h3 {
-        font-size: 19px;
-        border-left: 4px solid #541B1B;
-        padding: 4px 8px;
-        background-color: #EADADA;
+        font-size: 1.1rem;
+        border-left: 6px solid #541B1B;
+        padding: .5em 0 .5em 16px;
+        background-color: #f6f1ea;
         margin-bottom: 16px;
     }
       
@@ -27,6 +27,20 @@
 
     blockquote {
         font-size: 1rem;
+        background: #f1f0eb;
+        border-color: #dbdbdb;
+        border-radius: 8px;
+        color: #333;
+        line-height: 1.6;
+        max-width: 560px;
+        padding: 1em;
+        position: relative;
+        font-style: normal;
+        border-left: none;
+    }
+
+    strong {
+        background: linear-gradient(transparent 64%, #f7ecc8 0%);
     }
 }
 
