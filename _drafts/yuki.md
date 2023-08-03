@@ -1,7 +1,5 @@
 # 雪の異称、異名、別名、呼び名。雪を表す言葉とは？
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAIzAQAAAAC7Vg4RAAAAAnRSTlMAAHaTzTgAAABbSURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCjARUpAAEdkVT+AAAAAElFTkSuQmCC)
-
 冬になると降る真っ白で美しい「雪」。
 
 昔の人は雪を表現するために色々な名前を付けていました。
@@ -10,93 +8,55 @@
 
 また、合わせて雪の降り方や積もり方、種類など、雪を表す言葉についてもご紹介します。
 
-  
-
-スポンサーリンク
-
-  
-
 ## 雪の異称、異名、別名、呼び名
 
 雪の異称、異名、別名、呼び名をご紹介します。
 
-  
-
 ### 六花または六華（ろっか・りっか）
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGrAQAAAAB4NRvmAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cExAQAAAMKg9U/tbQegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AyHGwABJ2xdRQAAAABJRU5ErkJggg==)
-
 雪の結晶が六角形をしているところから。
-
-  
 
 ### 六辺香(ろくへんこう)
 
 雪の結晶が六角形をしているところから。
 
-  
-
 ### 銀花または銀華（ぎんか）
 
 雪の結晶が花のように見えることから。
-
-  
 
 ### 六出（りくしゅつ）または六出花（りくしゅつか）
 
 雪の結晶が六角形で六つの花弁を持つ花に似ていることから。
 
-  
-
 ### 雪花（せっか）
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAHgAQAAAAAdquFJAAAAAnRSTlMAAHaTzTgAAAA9SURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODPAJfgAAFLzBtKAAAAAElFTkSuQmCC)
-
 雪を花にたとえている。
-
-  
 
 ### 雪の華、雪の花（ゆきのはな）
 
 雪を花にたとえている。
 
-  
-
 ### 不香の花（ふきょうのはな）
 
 雪を香りの無い花にたとえている。
-
-  
 
 ### 天花（てんか）
 
 「天華（てんげ・てんけ）」とも書き、天上界に咲く花にたとえている。仏教用語。
 
-  
-
 ### 白雪（しらゆき）
 
 白い雪
 
-  
-
 ### 素雪（そせつ）
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGrAQAAAAB4NRvmAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cExAQAAAMKg9U/tbQegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AyHGwABJ2xdRQAAAABJRU5ErkJggg==)
-
 白い雪の意味
-
-  
 
 ### 寒花（かんか）
 
 雪を冬の花に見立てている。
 
-  
-
 ### 瑞花（ずいか）
-
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGrAQAAAAB4NRvmAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cExAQAAAMKg9U/tbQegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AyHGwABJ2xdRQAAAABJRU5ErkJggg==)
 
 豊年の兆しとなるめでたい花。また転じて、雪のこと。
 
@@ -104,43 +64,25 @@
 
 瑞花は豊年の瑞相
 
-  
-
 ### 玉屑（ぎょくせつ）
 
 玉を砕いた粉末のこと。降る雪のことをいいます。
-
-  
 
 ### 白魔（はくま）
 
 災害になるほどの大雪を悪魔に見立てている。
 
-  
-
 ### 青女（せいじょ）
 
 古代中国で、雪を降らせる女神のことを指し、雪を形容する言葉となった。
-
-  
-
-スポンサーリンク
-
-  
 
 ## 雪の降り方やつもり方、種類を表す言葉
 
 雪の降り方や積もり方、種類など、雪を表す言葉をご紹介します。  
   
-  
-
 ### 吹雪（ふぶき）
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAHgAQAAAAAdquFJAAAAAnRSTlMAAHaTzTgAAAA9SURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAODPAJfgAAFLzBtKAAAAAElFTkSuQmCC)
-
 雪が強風で巻きあげられ、視界が悪くなるほどの状態。
-
-  
 
 ### 風花（かざはな・かざばな）
 
@@ -308,18 +250,3 @@
 雪の結晶が六角形で花に見えることや、雪が舞い降りてくる様子が、花びらが舞うように見えることから、昔の人々はそこから「花」を連想して美しい名前を付けたんですね。
 
 雪が降った時は今回紹介した雪の異称を思い出しながら、雪の降る様子をゆっくり観察してみると楽しいかもしれませんね。
-
-  
-
-関連：[大寒とは？2023年はいつ？大寒卵って何？読み方と意味](https://jpnculture.net/daikan/)
-
-関連：[「寒の戻り」「花冷え」とは？意味や時期、使い方。反対語は何？](https://jpnculture.net/kannomodori/)
-
-関連：[旧暦（陰暦）1月～12月の名称・別名・異名・異称一覧](https://jpnculture.net/inreki-meisyou/)
-
-  
-
-スポンサーリンク
-
-スポンサーリンク
-
