@@ -62,7 +62,7 @@ tags:
 
 ### UKIYO-E
 
-<ruby>浮<rt>うき</rt>世<rt>よ</rt>絵<rt>え</rt></ruby>（浮世绘）
+<ruby>浮<rt>うき</rt>世<rt>よ</rt>絵<rt>え</rt></ruby><span class='more'>（浮世绘）</span>
 
 ![](/assets/images/japanese-english/ukiyoe.jpeg)
 
