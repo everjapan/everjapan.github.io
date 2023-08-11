@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 学习日语，感受歌曲之美！解析经典歌曲《上を向いて歩こう》
+title: 【日语】听歌学日语之『上を向いて歩こう』
 categories: japanese
 tags:
     - 日本语

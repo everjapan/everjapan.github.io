@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  干货满满的日语自学经验
+title: 【日语】干货满满的日语自学经验
 excerpt: 熟练掌握一门外语的重要性无需赘述，这篇文章简单分享一下我的日语自学经验，全文干货，可实操可执行。
 categories: japanese
 tags:

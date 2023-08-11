@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 从汉字到假名：日语自创文字的发展历程与特点
+title: 【日语】从汉字到假名：日语自创文字的发展历程与特点
 excerpt: 在汉字传入日本之前，日语并没有独立的文字系统。汉字传入之后，其实用方式也变得有些特殊。
 categories: japanese
 tags:
