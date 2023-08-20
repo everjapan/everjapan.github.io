@@ -101,7 +101,7 @@ tags:
 
 中间的「そ」字是通过将汉字「楚」进行拆解得到的变体假名 ![](/assets/images/hentai-kana/so-chu.jpg)。
 
-最左侧的「は」字是通过将汉字「者」进行拆解，然后加上浊音符号得到的变体假名 ![](/assets/images/hentai-kana/ha-zhe.jpg)。。
+最左侧的「は」字是通过将汉字「者」进行拆解，然后加上浊音符号得到的变体假名 ![](/assets/images/hentai-kana/ha-zhe.jpg)。
 
 ## 总结
 
