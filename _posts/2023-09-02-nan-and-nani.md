@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: single
 title: 日语「なん」和「なに」的区别
 excerpt:
 categories: japanese
 tags:
     - 日本语
+toc: false
 ---
 
 「なん」和「なに」都可以表示「什么」的意思。

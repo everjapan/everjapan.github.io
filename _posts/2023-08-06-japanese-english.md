@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 【日语】英语世界中的日文词（多图）
 categories: japanese
 tags:

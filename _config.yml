@@ -46,14 +46,14 @@ minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark"
 locale                   : "zh-CN"
 title                    : "日系生活家"
 title_separator          : "-"
-subtitle                 :
+subtitle                 : "怀抱理性，心向未来"
 name                     : &name "日系生活家" # &name is a YAML anchor which can be *referenced later
 description              : &description "怀抱理性、心向未来"
 url                      : https://everjapan.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 # words_per_minute         : 100
@@ -66,8 +66,8 @@ breadcrumbs              : false # true, false (default)
 
 author:
   name                   : "微信公众号"
-  avatar                 : "/assets/images/wx-qrcode.jpg"
-  email                  : "senluoshe@qq.com"
+  avatar                 : "/assets/images/qrcode_for_gh.jpg"
+  email                  : "everjapan@163.com"
   bio                    : "关注日系生活家，带你了解日本"
   links:
     - label              : "微博"
@@ -156,8 +156,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      permalink: /blogs/:categories/:title/
-  # _figures
+      permalink: /:categories/:title/
+  # _grammer
   - scope:
       path: ""
       type: grammer
@@ -171,16 +171,12 @@ defaults:
         nav: "figures"
       toc: true
       toc_label: '目录'
-  # _events
   - scope:
       path: ""
-      type: vocabulary
+      type: jlpt
     values:
       layout: single
       read_time: false
-      author_profile: false
-      sidebar:
-        nav: "events"
       toc: true
       toc_label: '目录'
 

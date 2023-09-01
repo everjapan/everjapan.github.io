@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 详解日语条件助词「と、ば、たら、なら」用法
 excerpt: 
 categories: japanese

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 如何区分日语中寿司的三种写法：寿司、鮨、鮓
 excerpt: 日语中的寿司，用平假名可写成「すし」，对应的汉字有三个：「寿司、鮨、鮓」，其中「寿司」最为常见。
 categories: food

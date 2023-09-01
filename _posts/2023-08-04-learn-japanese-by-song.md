@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 【日语】听歌学日语之『上を向いて歩こう』
 categories: japanese
 tags:

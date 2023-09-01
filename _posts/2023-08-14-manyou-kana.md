@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 【日语】「万叶假名」的极简介绍，原来日语假名是这么来的！
 categories: japanese
 tags:

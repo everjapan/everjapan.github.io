@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 【日语】游玩日本必备：20句实用日语短句
 categories: japanese
 tags:

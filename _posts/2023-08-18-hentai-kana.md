@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 【日语】日语假名知多少？变体假名的极简介绍
 excerpt: 
 categories: japanese

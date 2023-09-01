@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 掌握日语发音：词调（アクセント）和语调（イントネーション）的区别
 excerpt: 
 categories: japanese

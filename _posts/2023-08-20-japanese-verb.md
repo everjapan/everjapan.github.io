@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 【日语】浅析日语中的自动词和他动词，日语初学者必会！
 excerpt: 
 categories: japanese

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 【日语】动词分类的极简介绍
 excerpt: 
 categories: japanese
