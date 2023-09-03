@@ -6,16 +6,69 @@ search: false
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+
+$h-size-1: 36px !default;
+$h-size-2: 30px !default;
+$h-size-3: 24px !default;
+$h-size-4: 18px !default;
+$h-size-5: 16px !default;
+$h-size-6: 14px !default;
+
 @import "minimal-mistakes"; // main partials
 
 .page__content {
+    background-color: white;
+
     p,
     li,
     dl {
         font-style: normal;
         font-size: 16px;
         letter-spacing: 0.5px;
-        line-height: 26px;
+        // margin: 4px 0 4px 0;
+    }
+
+    h2 {
+        color: #541B1B;
+        font-weight: bold;
+        margin: 32px 0 16px 0;
+        border-bottom: 1px solid #f6f1ea;
+    }
+
+    h3 {
+        border-left: 6px solid #541B1B;
+        padding: .5em 0 .5em 16px;
+        background-color: #f6f1ea;
+        margin-bottom: 16px;
+    }
+
+    ul {
+        margin-bottom: 24px;
+    }
+
+    blockquote {
+        p {
+            margin: 4px 0;
+        }
+        width: 100%;
+        background: #f1f0eb;
+        border-color: #dbdbdb;
+        border-radius: 8px;
+        color: #333;
+        display: flex;
+        padding: 4px 8px;
+        flex-direction: column;
+        text-align: start;
+        justify-content: center;
+        border-left: none;
+    }
+
+    strong {
+        background: linear-gradient(transparent 64%, #f7ecc8 0%);
+    }
+
+    .more {
+        color: gray
     }
 }
 

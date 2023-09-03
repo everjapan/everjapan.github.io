@@ -40,7 +40,7 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "zh-CN"
@@ -130,13 +130,13 @@ kramdown:
 
 # Collections
 collections:
-  grammer:
+  proverbs:
     output: true
     permalink: /:collection/:path/
   vocabulary:
     output: true
     permalink: /:collection/:path/
-  jlpt:
+  jlpt-grammar:
     output: true
     permalink: /:collection/:path/
 
@@ -160,25 +160,20 @@ defaults:
   # _grammer
   - scope:
       path: ""
-      type: grammer
-    values:
-      layout: figure
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "figures"
-      toc: true
-      toc_label: '目录'
-  - scope:
-      path: ""
-      type: jlpt
+      type: proverbs
     values:
       layout: single
+      author_profile: true
+      toc: false
+  - scope:
+      path: ""
+      type: jlpt-grammar
+    values:
+      layout: grammer
       read_time: false
-      toc: true
-      toc_label: '目录'
+      author_profile: true
+      toc: false
+      classes: wide
 
 # Sass/SCSS
 sass:

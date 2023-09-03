@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 【日语】进阶篇：辨析动词的「时」与「态」
+title: 日语进阶篇：辨析动词的「时」与「态」
 excerpt: 
 categories: japanese
 tags:

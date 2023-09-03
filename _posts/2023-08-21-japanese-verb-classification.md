@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 【日语】动词分类的极简介绍
+title: 日语动词分类的极简介绍
 excerpt: 
 categories: japanese
 tags:

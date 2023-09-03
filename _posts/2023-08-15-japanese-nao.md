@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 【日语】「なお」vs「また」，你用对了吗？
+title: 「なお」vs「また」，你用对了吗？
 categories: japanese
 tags:
     - 日本语

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 【日语】浅析日语中的自动词和他动词，日语初学者必会！
+title: 浅析日语中的自动词和他动词
 excerpt: 
 categories: japanese
 tags:

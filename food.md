@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: 日本料理
 ---
+
 寿司<br> sushi | ![](/assets/images/food/sushi.jpg)
 鶏の唐揚げ<br> niwatori-no-karaage | ![](/assets/images/food/niwatori-no-karaage.jpg)
 天ぷら<br> tenpura | ![](/assets/images/food/tenpura.jpg)

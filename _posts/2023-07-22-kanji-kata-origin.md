@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 【日语】一文读懂日语汉字、平假名和片假名的起源
+title: 一文读懂日语汉字、平假名和片假名的起源
 categories: japanese
 tags:
     - 日本语

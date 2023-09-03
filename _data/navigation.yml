@@ -1,7 +1,9 @@
 main:
   - title: "最新文章"
     url: /
-  - title: "JLPT"
-    url: /jlpt/
+  - title: "JLPT文法"
+    url: /jlpt-grammar/
+  - title: "日语谚语"
+    url: /proverbs/
   - title: "关于"
     url: /about/

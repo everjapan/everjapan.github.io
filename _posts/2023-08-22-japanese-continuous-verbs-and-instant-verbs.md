@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 【日语】动词分类之「持续动词」和「瞬时动词」
+title: 日语动词分类之「持续动词」和「瞬时动词」
 excerpt: 
 categories: japanese
 tags:

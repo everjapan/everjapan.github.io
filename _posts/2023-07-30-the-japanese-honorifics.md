@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 【日语】详解五种敬语：尊敬语、谦让语、郑重语、礼貌语和美化语
+title: 详解日语五种敬语：尊敬语、谦让语、郑重语、礼貌语和美化语
 excerpt: 真正熟练掌握日语，就必需根据不同的对象和场景灵活运用各类敬语
 categories: japanese
 tags:
