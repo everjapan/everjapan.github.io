@@ -172,8 +172,7 @@ defaults:
       layout: grammer
       read_time: false
       author_profile: true
-      toc: false
-      classes: wide
+      toc: true
 
 # Sass/SCSS
 sass:

@@ -7,12 +7,9 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 
-$h-size-1: 36px !default;
-$h-size-2: 30px !default;
-$h-size-3: 24px !default;
-$h-size-4: 18px !default;
-$h-size-5: 16px !default;
-$h-size-6: 14px !default;
+$h-size-1: 30px !default;
+$h-size-2: 24px !default;
+$h-size-3: 18px !default;
 
 @import "minimal-mistakes"; // main partials
 
@@ -50,6 +47,7 @@ $h-size-6: 14px !default;
         p {
             margin: 4px 0;
         }
+        margin: 1em 0;
         width: 100%;
         background: #f1f0eb;
         border-color: #dbdbdb;
