@@ -1,8 +1,8 @@
 ---
 title: JLPT
 layout: collection
-collection: jlpt-grammar
-permalink: /jlpt-grammar/
+collection: jlpt
+permalink: /jlpt/
 entries_layout: list
 classes: wide
 ---

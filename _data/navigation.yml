@@ -1,25 +1,15 @@
 main:
   - title: "最新文章"
     url: /
-  - title: "JLPT文法"
-    url: /jlpt-grammar/
+  - title: "JLPT"
+    url: /jlpt/
   - title: "日语谚语"
     url: /proverbs/
   - title: "关于"
     url: /about/
 
-jlpt-grammars:
-  - title: "级别"
+jlpt:
+  - title: 'JLPT'
     children:
-      - title: N1
-        url: /jlpt/n1-grammars/
-      - title: N2
-        url: /jlpt/n2-grammars/
-      - title: N3
-        url: /jlpt/n3-grammars/
-      - title: N4
-        url: /jlpt/n4-grammars/
-      - title: N5
-        url: /jlpt/n5-grammars/
-      - title: N0
-        url: /jlpt/n0-grammars/
+    - title: "文法"
+      url: /jlpt/grammars

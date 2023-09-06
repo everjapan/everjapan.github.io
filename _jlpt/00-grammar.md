@@ -1,17 +1,8 @@
 ---
-title: 关于
-permalink: /jlpt-grammars/
+title: JLPT语法合集
+excerpt: "涵盖N5到N1的每个语法知识点：中文解释、日文解释、丰富例句"
+permalink: /jlpt/grammars/
 ---
-### N0
-- [〜の上で / 〜上の](/n0-grammar-jouno/)
-- [～すぎです](/n0-grammar-sugidesu/)
-- [～でも](/n0-grammar-demo/)
-- [〜づらい](/n0-grammar-durai/)
-- [とても〜ない](/n0-grammar-totemo-nai/)
-- [～並み](/n0-grammar-nami/)
-- [〜にかけても](/n0-grammar-nikaketemo/)
-- [～まくる](/n0-grammar-makuru/)
-- [～やつ](/n0-grammar-yatsu/)
 
 ### N1
 - [〜あっての・・・](/n1-grammar-atteno/)
@@ -528,3 +519,14 @@ permalink: /jlpt-grammars/
 - [〜ませんか](/n5-grammar-masenka/)
 - [もう〜した](/n5-grammar-mou-mashita/)
 - [〜をください](/n5-grammar-wokudasai/)
+
+### N0
+- [〜の上で / 〜上の](/n0-grammar-jouno/)
+- [～すぎです](/n0-grammar-sugidesu/)
+- [～でも](/n0-grammar-demo/)
+- [〜づらい](/n0-grammar-durai/)
+- [とても〜ない](/n0-grammar-totemo-nai/)
+- [～並み](/n0-grammar-nami/)
+- [〜にかけても](/n0-grammar-nikaketemo/)
+- [～まくる](/n0-grammar-makuru/)
+- [～やつ](/n0-grammar-yatsu/)

@@ -139,6 +139,9 @@ collections:
   jlpt-grammar:
     output: true
     permalink: /:collection/:path/
+  jlpt:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -170,9 +173,20 @@ defaults:
       type: jlpt-grammar
     values:
       layout: grammer
-      read_time: false
       author_profile: true
       toc: true
+      toc_label: '分类'
+  - scope:
+      path: ""
+      type: jlpt
+    values:
+      layout: single
+      author_profile: false
+      toc: true
+      toc_label: '分类'
+      sidebar: 
+        - image: '/assets/images/jlpt/jlpt-logo.png'
+          nav: jlpt
 
 # Sass/SCSS
 sass:
