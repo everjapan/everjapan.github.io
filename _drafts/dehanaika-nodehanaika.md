@@ -4,12 +4,9 @@
 
 「ではないか」と「のではないか」は以下のような違いがあります。
 
-> 「Aではないか」：反論
->
-> 「Aのではないか」：主張のやわらげ
->
-> ただし、Aが名詞・ナ形容詞の場合は「Aではないか」が「Aのではないか」と同じ意味にも使われる。
->
+- 「Aではないか」：反論
+- 「Aのではないか」：主張のやわらげ
+  - ただし、Aが名詞・ナ形容詞の場合は「Aではないか」が「Aのではないか」と同じ意味にも使われる。
 
 以下、これについて例を見ながら考えてみたいと思います。
 
@@ -49,18 +46,3 @@
   * こんなときこそゆっくり休んで考えることが必要なのではないか。
 
 この場合「必要ではないか」は、強く意見をいう意味と、主張をやわらげる意味の両方で使うことができます。（文脈によって意味が変わります）
-
-
-## その他の記事
-
-ご興味があればこちらもご覧ください。
-
-* [「にわたって」と「を通して」の違いについて](http://www.nihongo-appliedlinguistics.net/wp/?cat=877)
-* [「だろう」と「のだろう」の違いについて](http://www.nihongo-appliedlinguistics.net/wp/?cat=877)
-* [「うれしい」と「楽しい」の違いについて](http://www.nihongo-appliedlinguistics.net/wp/?cat=877)
-* [「ーまい」と「ものか」の違いについて](http://www.nihongo-appliedlinguistics.net/wp/?cat=877)
-* [「に対して」と「について・に関して」の違いについて](http://www.nihongo-appliedlinguistics.net/wp/?p=4279)
-* [「にくい」「つらい」「がたい」の違いについて](http://www.nihongo-appliedlinguistics.net/wp/?cat=877)
-* [「にしては」と「わりには」の違いについて](http://www.nihongo-appliedlinguistics.net/wp/?cat=877)
-* [「ものですから」「んです」「ですから」の違いについて](http://www.nihongo-appliedlinguistics.net/wp/?p=2124)
-* [その他の日本語の文法などの説明](http://www.nihongo-appliedlinguistics.net/wp/?cat=877)
