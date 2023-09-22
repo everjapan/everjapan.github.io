@@ -78,8 +78,8 @@
 
 ## 雪の降り方やつもり方、種類を表す言葉
 
-雪の降り方や積もり方、種類など、雪を表す言葉をご紹介します。  
-  
+雪の降り方や積もり方、種類など、雪を表す言葉をご紹介します。 
+
 ### 吹雪（ふぶき）
 
 雪が強風で巻きあげられ、視界が悪くなるほどの状態。
@@ -90,160 +90,103 @@
 
 または、山などに積もった雪が風に飛ばされて小雪が散らつく様子。
 
-  
-
 ### 細雪（ささめゆき）
 
 細やかに降る雪のこと。
-
-  
 
 ### 灰雪（はいゆき）
 
 灰が降るようにふわふわ舞う雪のこと。
 
-  
-
 ### 粉雪（こなゆき）
 
 粉のようにさらさらとした雪のこと。
-
-  
 
 ### 牡丹雪（ぼたんゆき）
 
 降ってくる雪のひとつひとつが大きな雪のこと。
 
-  
-
 ### 淡雪、泡雪（あわゆき）
 
 うっすらと積もってすぐに溶けてしまう雪のこと。
-
-  
 
 ### 水雪（みずゆき）
 
 水分を多く含んだ雪のこと。
 
-  
-
 ### 銀世界（ぎんせかい）、雪化粧（ゆきげしょう）
 
 雪が降り積もり、一面真っ白になった様子。
-
-  
 
 ### ドカ雪（どかゆき）
 
 短時間にたくさん降り積もった雪のこと。
 
-  
-
 ### 綿帽子（わたぼうし）
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGqAQAAAACzachDAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cEBDQAAAMKg909tDjegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+DaGygABYQdEywAAAABJRU5ErkJggg==)
-
 木の枝や葉っぱに積もった雪が綿の帽子のように見えること。
-
-  
 
 ### 暮雪（ぼせつ）
 
 夕暮れに降る雪のこと。
 
-  
-
 ### 新雪（しんせつ）
 
 積もったばかりの雪のこと。
-
-  
 
 ### しまり雪（しまりゆき）
 
 雪の上に雪が積もり重みなどによって固くなった雪のこと。
 
-  
-
 ### ざらめ雪（ざらめゆき）
 
 雪が溶けた水を含んで大きくなった丸い氷の粒や、水を含んだ雪が再凍結した氷状の雪のこと。
-
-  
 
 ### 垂り雪（しずりゆき）
 
 家の屋根や、木の枝などから落ちる雪のこと。
 
-  
-
 ### 秋雪（しゅうせつ）
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGrAQAAAAB4NRvmAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cExAQAAAMKg9U/tbQegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AyHGwABJ2xdRQAAAABJRU5ErkJggg==)
-
 秋に降る雪のこと。
-
-  
 
 ### 初雪（はつゆき）
 
 その冬、初めて降る雪のこと。
 
-  
-
 ### 初冠雪（はつかんせつ）
 
 その冬、初めて山々に積もる雪のこと。
-
-  
 
 ### 去年の雪（こぞのゆき）
 
 春になっても残っている雪のこと。
 
-  
-
 ### 涅槃雪（ねはんゆき）
 
 涅槃（ねはん・お釈迦様がお亡くなりになった日）旧暦2月15日の頃に降る雪のこと。
-
-  
 
 ### 根雪（ねゆき）
 
 なかなか溶けずに残る雪、30日以上積雪が続いた状態のこと。
 
-  
-
 ### 名残雪（なごりゆき）
 
 春を迎えようとしている頃に、冬の名残を惜しむように降る雪のこと。
-
-  
 
 ### 万年雪（まんねんゆき）
 
 一年中溶けない雪のこと。
 
-  
-
 ### 三白（さんぱく）
 
 お正月に降る雪のこと。
-
-  
 
 ### 終雪 （しゅうせつ）・忘れ雪（わすれゆき）
 
 春を迎えてから、その冬最後のに降る雪のこと。
 
 「雪の別れ」「雪の果て」「雪の名残」なども同じ意味になります。
-
-  
-  
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAAAAGrAQAAAAB4NRvmAAAAAnRSTlMAAHaTzTgAAAA4SURBVHja7cExAQAAAMKg9U/tbQegAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AyHGwABJ2xdRQAAAABJRU5ErkJggg==)  
-  
 
 雪の異称は、花に例えたものが多かったですね。
 
