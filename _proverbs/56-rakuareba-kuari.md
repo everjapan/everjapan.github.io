@@ -7,8 +7,9 @@ permalink: /proverbs/rakuareba-kuari/
 
 ## 「楽あれば苦あり」の意味
 
-意味| 楽しいことの後には、苦しいこともあるということ。  
-英訳| It means that after the fun comes the pain.  
+らくあればくあり
+
+> 有苦就有乐
   
 ## 同じ意味・似ている意味のことわざ
 

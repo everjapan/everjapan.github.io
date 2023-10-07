@@ -7,6 +7,8 @@ permalink: /proverbs/sannin-yoreba-monjuno-chie/
 
 ## 「三人寄れば文殊の知恵」の意味
 
+> 三个臭皮匠顶一个诸葛亮
+
 ---|---  
 意味| 平凡な人間でも、三人集まって考えれば、よい知恵が浮かぶということ。  
 英訳| Even an ordinary person can come up with good wisdom if three people get together and think about it.  
@@ -23,6 +25,5 @@ permalink: /proverbs/sannin-yoreba-monjuno-chie/
 
 ## 例文
 
-・何か解決策はないか、みんなで集まって話し合おうよ。 **三人寄れば文殊の知恵** っていうし。
-
-・一人では何もアイデアが思い浮かばなかったが、みんなと検討した結果、良いアイデアがいくつも生まれた。 **三人寄れば文殊の知恵** とはことこか。
+- 何か解決策はないか、みんなで集まって話し合おうよ。 **三人寄れば文殊の知恵** っていうし。
+- 一人では何もアイデアが思い浮かばなかったが、みんなと検討した結果、良いアイデアがいくつも生まれた。 **三人寄れば文殊の知恵** とはことこか。

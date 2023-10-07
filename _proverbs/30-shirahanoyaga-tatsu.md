@@ -7,6 +7,8 @@ permalink: /proverbs/shirahanoyaga-tatsu/
 
 ## 「白羽の矢が立つ」の意味
 
+> 在许多人里被选中，当选
+
 意味| たくさんの中から、特に選び出されることのたとえ。  
 英訳| A metaphor for being singled out from among many.  
 
@@ -20,6 +22,5 @@ permalink: /proverbs/shirahanoyaga-tatsu/
 
 ## 例文
 
-・次の生徒会長には、田中くんに **白羽の矢が立った** 。
-
-・次の部長には、試合でいつも活躍している鈴木くんに **白羽の矢が立った** 。
+- 次の生徒会長には、田中くんに **白羽の矢が立った** 。
+- 次の部長には、試合でいつも活躍している鈴木くんに **白羽の矢が立った** 。

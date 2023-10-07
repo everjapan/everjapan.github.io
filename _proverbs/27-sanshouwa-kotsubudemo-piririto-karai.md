@@ -7,6 +7,8 @@ permalink: /proverbs/sanshouwa-kotsubudemo-piririto-karai/
 
 ## 「山椒は小粒でもぴりりと辛い」の意味
 
+> 秤砣虽小压千斤
+
 ---|---  
 意味| 山椒の実は小さいが、非常に辛い。= **体は小さくても、才能や力量が優れているので、ばかにはできないことのたとえ。**  
 英訳| The Japanese pepper (zanthoxylum piperitum) is small but very hot. = **A metaphor for a person who is small in size but has great talent and strength, and therefore cannot be fooled.**  
@@ -15,4 +17,4 @@ permalink: /proverbs/sanshouwa-kotsubudemo-piririto-karai/
 
 ## 例文
 
-・福田君はクラスで一番背が低いが、一番足が速いのでリレーの代表に選ばれた。 **山椒は小粒でもぴりりと辛い** とはまさに彼のことだ。
+- 福田君はクラスで一番背が低いが、一番足が速いのでリレーの代表に選ばれた。 **山椒は小粒でもぴりりと辛い** とはまさに彼のことだ。

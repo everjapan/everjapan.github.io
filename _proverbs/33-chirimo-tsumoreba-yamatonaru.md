@@ -5,8 +5,18 @@ permalink: /proverbs/chirimo-tsumoreba-yamatonaru/
 
 ![](/assets/images/proverbs/chirimo-tsumoreba-yamatonaru-1024x768.png)
 
-## 「塵も積もれば山となる」の意味
+🔈【读音】
 
----|---  
-意味| 塵のようにごくわずかなものでも、積もり積もれば山のように大きくなる。 = **どんなに小さなことでも、積み重ねていけば、いつかきっと大きなことが達成できるので、小さなことを疎かにしてはいけないという教え。**  
-英訳| Even something as small as a speck of dust can become as big as a mountain if it accumulates.  **No matter how small it is, if it keeps accumulating, you will eventually achieve something big, so don't neglect the small things.**  
+ちりもつもればやまとなる
+
+💡【意思】
+
+积少成多
+
+✍️【例句】
+
+- ダイエットのために、毎日20分近所をランニングしている。塵も積もれば山となるように痩せるのも地道な努力が必要だ。
+- 兄はバイクを購入するために500円玉貯金をしているがこの勢いだと塵も積もれば山となる同様、車も夢ではないだろう
+- 友達の口の悪さを今まで我慢していたが、塵も積もれば山となり、とうとう爆発して喧嘩してしまった
+- 毎日やれば良い宿題をサボると塵も積もれば山となって週末にやる羽目になる
+- 塵も積もれば山となるように、毎日練習を欠かさないことで私は大会で優勝できた

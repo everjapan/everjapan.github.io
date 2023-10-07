@@ -5,9 +5,10 @@ permalink: /proverbs/kenenno-naka/
 
 ![](/assets/images/proverbs/kenenno-naka.png)
 
-## 「犬猿の仲」の意味
+## 意思
 
----|---  
+> 水火不容
+
 意味| 非常に仲が悪いことのたとえ。  
 英訳| A metaphor for being very unlikely to get along with someone.  
   
@@ -15,4 +16,4 @@ permalink: /proverbs/kenenno-naka/
 
 ## 例文
 
-・田中さんと鈴木さんは会うといつも喧嘩するし、 **犬猿の仲** である。
+- 田中さんと鈴木さんは会うといつも喧嘩するし、 **犬猿の仲** である。
