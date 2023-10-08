@@ -31,33 +31,16 @@ N + をください
 
 > すみません、お水 **をください** 。
 
-> Excuse me, can I have some water, please?
-
 > ハンバーガー **を** ２つ **ください** 。
-
-> Two hamburgers, please.
 
 > これ **をください** 。
 
-> Please give me this.
-
 > すみません、風邪薬 **をください** 。
-
-> Excuse me, can I have some cold medicine?
 
 > １００円切手 **を** ２枚 **ください** 。
 
-> Two 100 yen stamps, please.
-
 > コーヒー **をください** 。
-
-> Please give me a cup of coffee.
 
 > すみませんが、あと５分 **ください** 。
 
-> I'm sorry, but please give me 5 more minutes.
-
 > 少し考える時間 **をください** 。
-
-> Please give me some time to think.
-

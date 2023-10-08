@@ -31,15 +31,9 @@ V(ます形)ま ~~す~~ \+ せんか
 
 > 週末、一緒に映画を **見** **ませんか** 。
 
-> Would you like to watch a movie together this weekend?
-
 > 今晩、一緒に **食事しませんか** 。
 
-> Would you like to have dinner with me tonight?
-
 > 一緒に **帰りませんか** 。
-
-> Would you like to go home together?
 
 > 一緒に図書館で **勉強しませんか** 。
 
@@ -56,10 +50,10 @@ V(ます形)ま ~~す~~ \+ せんか
 > 一緒に **踊りませんか** 。
 
 > A：もうお昼ご飯を食べましたか。
-
+>
 > B：いいえ、まだです。
 
 > A：じゃあ、一緒に **食べませんか** 。
-
+>
 > B：いいですね。食べましょう。
 

@@ -9,75 +9,66 @@ permalink: /n5-grammar-atode/
 
 > **日文：**
 > 
-> 〜してから **
+> 〜してから
 > 
-> ** 前件の事柄が後件の事柄より先に起こること表す。
+> 前件の事柄が後件の事柄より先に起こること表す。
 
 
 > **英文：**
 > 
 > "after"
 
+> **中文：**
+>
+> 〜之后
 
 ### 接续
 
-V（タ形) + あとでN + のあとで
+- V（タ形) + あとで
+- N + のあとで
 
 ### 例句
 
-> ### 1\. 動詞文
+**动词**
 
 > 図書館で宿題をした **あとで** 、帰ります。
-
-> After doing my homework at the library, I will go home.
+>
+> *在图书馆完成作业 **之后** ，我会回家。*
 
 > 今から少し練習した **あとで** 、前で発表してもらいます。
-
-> After you have practiced a little, I will ask you to make a presentation in
-
-> front of the class.
+>
+> *现在稍微练习一下，然后你会在前面发表演讲。*
 
 > 電車に乗った **あとで** 、学校に忘れ物をしたことに気がつきました。
-
-> After getting on the train, I realized that I forgot something at school.
+>
+> *上了电车 **之后** ，我才注意到在学校忘记了东西。*
 
 > アニメを見た **あとで** 、お風呂に入ります。
-
-> After watching anime, I'm going to take a bath.
+>
+> *看完动画 **之后** ，我会洗澡。*
 
 > スマホで写真を撮った **あとで** 、少し色を変えたり、サイズを変えたりします。
+>
+> *拍完照片 **之后** ，我会稍微调整颜色，或者改变大小。*
 
-> After taking a picture with my phone, I change the color and the size a
-
-> little.
-
-> ### 2\. 名詞文
+**名词**
 
 > 授業 **のあとで** 、カラオケ行かない？
-
-> Do you want to go to karaoke after class?
+>
+> *上完课 **之后** ，要不要去唱卡拉OK？*
 
 > ご飯 **のあとで** 、シャワーを浴びます。
-
-> I'll shower after dinner.
+>
+> *吃完饭 **之后** ，我会洗个淋浴。*
 
 > 仕事 **のあとで** 、飲みに行きませんか。
-
-> Let's go for a drink after work.
+>
+> *下班 **之后** ，要不要去喝点东西？*
 
 > 映画 **のあとで** 、ちょっとカフェでもどう？
-
-> After the movie, do you want to go to a cafe?
+>
+> *看完电影 **之后** ，要不要去咖啡厅？*
 
 > 飲み会 **のあとで** 、同僚とラーメン屋に行った。
-
-> I went to a ramen shop with my colleagues after a drinking party.
-
-> ## 「〜てから」と「〜あとで」の違い
-
-> 以下を参照
-
-> [ _fa-arrow-circle-right_ みん日34課「〜あとで 」](https://nihongokyoshi-
-
-> net.com/2018/02/17/minnano-nihongo-lesson34/#i-5)
-
+>
+> *喝完酒 **之后** ，和同事一起去了家拉面店。*

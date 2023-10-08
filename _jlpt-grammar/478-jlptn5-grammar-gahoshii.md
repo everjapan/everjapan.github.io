@@ -31,45 +31,22 @@ N + が欲しい
 
 > もっとお金 **が欲しいです** 。
 
-> I want more money.
-
 > 彼女 **が欲しいです** 。
-
-> I want a girlfriend.
 
 > Mac Book Pro **が欲しいです** 。
 
-> I want a Mac Book Pro.
-
 > もっと休み **が欲しいです** 。
-
-> I want more time off.
 
 > 先生、あと５分 **欲しいです** 。
 
-> Teacher, I want five more minutes.
-
 > あ〜、どこでもドア **が欲しい** 。
-
-> Oh, I want an “Anywhere door”.
 
 > 誕生日に何 **が欲しいですか** 。
 
-> What do you want for your birthday?
-
 > 今、何 **が欲しいですか** 。
-
-> What do you want now?
 
 > ジェームスさんはどれが **欲しいですか** 。
 
-> Which one do you want, James?
-
 > トムさんはどんな車 **が欲しいですか** 。
 
-> What kind of car do you want, Tom?
-
 > 時間とお金とどちら **が欲しいですか** 。
-
-> Which do you want more, time or money?
-

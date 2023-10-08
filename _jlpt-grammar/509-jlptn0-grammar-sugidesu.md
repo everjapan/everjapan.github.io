@@ -26,23 +26,10 @@ V（ます形） ~~ます~~ \+ すぎです。
 
 > 醤油かけ **すぎですよ** 。
 
-> You put too much soy sauce on it.
-
 > タバコ吸い **すぎですよ** 。
-
-> You smoke too much.
 
 > お酒の飲み **すぎですよ** 。
 
-> You drink too much alcohol.
-
 > え！コーヒーに砂糖３杯は入れ **すぎですよ** 。
 
-> What? Three sugars in your coffee is too much.
-
 > お菓子ばかり食べ **すぎよ** 。あとで晩御飯食べられなくても知らないから。
-
-> You're eating too many sweets. I won’t care if you can't finish your dinner
-
-> later.
-

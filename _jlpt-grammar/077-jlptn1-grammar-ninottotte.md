@@ -22,17 +22,8 @@ N + に則って
 
 > その犯罪者は法 **に則って** 、厳しく処罰されるだろう。
 
-> The criminal will be punished severely according to the law.
-
 > 試合では不正行為は絶対にしないでください。スポーツマンシップ **に則って** 、正々堂々と戦ってください。
-
-> Please do not cheat in the game. Fight fair and square according to the rules.
 
 > 会社の規則 **に則って** 、不正を行った同僚は解雇された。
 
-> In accordance with company rules, the cheating colleague was dismissed.
-
 > 安全のガイドライン **に則って** 、作業を行ってください。
-
-> Please work according to the safety guidelines.
-
