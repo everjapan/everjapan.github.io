@@ -1,4 +1,14 @@
-# 日语中那些「为他人着想」的表达方式
+---
+layout: single
+title: 日语中那些「为他人着想」的表达方式
+excerpt:
+categories: japanese
+tags:
+    - 日本语
+    - 读书笔记
+toc: false
+---
+
 
 这一篇还是关于『日本语』的读书笔记。
 
