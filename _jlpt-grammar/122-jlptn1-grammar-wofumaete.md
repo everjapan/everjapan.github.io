@@ -11,6 +11,13 @@ permalink: /n1-grammar-wofumaete/
 > 
 > 〜を前提として / 〜を考慮に入れて
 
+> **中文：**
+>
+> * 根据〜
+> * 依据〜
+> * 在〜基础上
+> * 立足于〜
+> * 考虑到〜
 
 ### 接续
 
@@ -18,31 +25,26 @@ N + を踏まえて
 
 ### 解释
 
-硬い表現で、会議のような改まった場面で使われることが多い。
+书面用于，多用于会议等正式场合。
 
 ### 例句
 
 > アンケートの結果 **を踏まえて** 、商品のデザインを見直します。
-
-> We will review the design of our products based on the results of the survey.
+>
+> 根据问卷调查的结果，我们会重新审视产品的设计。
 
 > 去年の反省 **を踏まえて** 、今年は別の教科書を使って日本語を教えようと思います。
-
-> Based on last year's mistake, we will use a different textbook to teach
-
-> Japanese this year.
+>
+> 根据去年的反思，我决定今年使用不同的教材来教授日语。
 
 > 今回の事故 **を踏まえて** 、再度安全性の見直しを実施いたします。
-
-> In light of this accident, we will conduct another safety review.
+>
+> 基于这次事故，我们将再次进行安全性的审查。
 
 > 部長の今の報告 **を踏まえて** 、今後の方針について話し合いたいと思います。
-
-> We would like to discuss our future policy in light of the current report by
-
-> the General Manager.
+>
+> 基于部长目前的汇报，我想要讨论未来的方针。
 
 > 模擬試験の結果 **を踏まえて** 、進路先を決めます。
-
-> I will decide where to go based on the results of the mock exam.
-
+>
+> 根据模拟考试的结果，我们将决定进修方向。

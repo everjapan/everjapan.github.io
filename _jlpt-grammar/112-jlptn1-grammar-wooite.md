@@ -5,12 +5,13 @@ permalink: /n1-grammar-wooite/
 
 ## 文型：〜をおいて
 
-### 意思
+### 意思（英文）
 
-> **日文：**
-> 
-> 〜以外にできない
+〜以外にできない
 
+### 意思（中文）
+
+除了〜之外，（没有）〜
 
 ### 接续
 
@@ -18,35 +19,27 @@ Nを + おいて
 
 ### 解释
 
-①高く評価する表現②後件は否定の形が来ることが多い。
+- 表示高度评价
+- 后面多跟否定句
 
 ### 例句
 
 > 次のプロジェクトのリーダー、君 **をおいて** 他に任せられる人がいないんだが、引き受けてくれるかな？
-
-> There's no one else I can entrust to lead the next project other than you,
-
-> will you take it on?
+>
+> 下一个项目的领导，除了你之外没有其他人可以担任，你可以接受吗？ 
 
 > 次の社長にふさわしいのは、木村さん **をおいて** 他にはいない。
-
-> There's no one better to be the next president than you, Mr. Kimura.
+>
+> 下一位适合担任公司总裁的人，除了木村先生以外没有其他人。
 
 > もう３０歳だし、今の仕事が楽しくないし、転職するなら今 **をおいて** 他にない。
-
-> I'm already 30 years old, I don't enjoy my current job, and it's now or never
-
-> if I want to change careers.
+>
+> 我已经 30 岁了，现在的工作不再有趣，如果要换工作的话，现在正是时候，否则别无选择。
 
 > メジャーリーグで３０００本安打を達成できたのは、イチロー **をおいて** 他にはいない。
-
-> There is no one in Major League Baseball who has achieved 3,000 hits except
-
-> Ichiro.
+>
+> 能够在大联盟中达到 3000 支安打的，除了イチロー之外没有其他人。
 
 > この秘密を知るものは我々 **をおいて** 他にはいません。これがどういうことを意味するかわかりますよね。
-
-> There is no one else who knows this secret except us. You know what this
-
-> means, don't you?
-
+>
+> 了解这个秘密的人，除了我们之外没有其他人。你明白这意味着什么，对吧？

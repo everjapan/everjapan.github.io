@@ -13,26 +13,29 @@ permalink: /n1-grammar-nagara/
 > 
 > そのまま状態が変化せずに続く様子を表す。
 
+> **中文：**
+>
+> 一样 / 〜状 / 保持〜的状态
 
 ### 接续
 
-V（ます形） ~~ます~~ \+ ながらN + ながら
+- V（ます形） ~~ます~~ + ながら
+- N + ながら
 
 ### 例句
 
 > この醤油工場では、今でも昔 **ながら** の製法で作っています。
-
-> At this soy sauce factory, they still make it the old-fashioned way.
+> 
+> 这家酱油工厂仍然采用传统的方法来制作。
 
 > 彼女は当時の出来事を涙 **ながら** に語った。
-
-> She tearfully recounted the events of those days.
+> 
+> 她边流泪边讲述了当时的事情。
 
 > キムさんはいつも **ながら** ３０分以上も遅刻して来た。
-
-> Mr. Kim came more than half an hour late as usual.
+> 
+> 金先生总是一边干其他事一边迟到30分钟以上。
 
 > 彼は生まれ **ながら** にして芸術の才能があった。
-
-> He was born with a natural talent for art.
-
+> 
+> 他生来就具备艺术天赋。
