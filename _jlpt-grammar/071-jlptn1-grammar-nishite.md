@@ -5,14 +5,17 @@ permalink: /n1-grammar-nishite/
 
 ## 文型：〜にして
 
-### 意思
+### 意思（日文）
 
-> **日文：**
-> 
-> 〜で / 〜になって
-> 
-> 強調表現で、程度に関して驚きやすごいという気持ちがある。
+- 〜で
+- 〜になって
 
+*強調表現で、程度に関して驚きやすごいという気持ちがある。*
+
+### 意思（中文）
+
+- 与～不符
+- 虽说是～
 
 ### 接续
 
@@ -21,22 +24,21 @@ N + にして
 ### 例句
 
 > 彼はカジノで大勝ちして、一晩 **にして** 大金を手にした。
-
-> He won so much money at the casino that he made a fortune overnight.
+>
+> 他在赌场大获全胜，一夜之间获得了大笔金钱。
 
 > 木村さんは18歳 **にして** 、社長になった。
-
-> Mr. Kimura became a president at the age of 18.
+>
+> 木村在18岁的时候就成为了公司总裁。
 
 > JLPT N1に３回目 **にして** 合格できた。
-
-> I was able to pass the JLPT N1 for the third time.
+>
+> 第三次尝试就通过了JLPT N1考试。
 
 > ３５歳 **にして** ようやく子宝に恵まれた。
-
-> At the age of 35, they were finally blessed with a child.
+>
+> 在35岁的时候，终于迎来了孩子的降生。
 
 > 頼んでいた仕事を彼は一日 **にして** 全て終わらせてしまった。
-
-> He finished all the work I had asked him to do in one day.
-
+>
+> 他一天之内就完成了他托付的所有工作。

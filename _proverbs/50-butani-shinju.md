@@ -5,13 +5,16 @@ permalink: /proverbs/butani-shinju/
 
 ![](/assets/images/proverbs/butani-shinju.png)
 
-## 「豚に真珠」の意味
+
+🔈 读音
 
 ぶたにしんじゅ
 
-> 对牛弹琴
+💡 意思
 
-##  同じ意味・似ている意味のことわざ
+对牛弹琴
+
+👓 类似
 
 * 猫に小判
 * 馬の耳に念仏

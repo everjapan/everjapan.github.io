@@ -12,7 +12,7 @@ permalink: /proverbs/nagaimononiwa-makarero/
 💡【意思】
 
 - 鸡蛋碰不过石头
-- 胳膊扭不过大腿。
+- 胳膊扭不过大腿
 
 ✍️【例句】
 

@@ -5,12 +5,14 @@ permalink: /proverbs/rakuareba-kuari/
 
 ![](/assets/images/proverbs/rakuareba-kuari-1024x768.png)
 
-## 「楽あれば苦あり」の意味
+🔈 读音
 
-らくあればくあり
+- らくあればくあり
 
-> 有苦就有乐
-  
-## 同じ意味・似ている意味のことわざ
+💡 意思
+
+- 有苦就有乐
+
+👓 类似
 
 * 人間万事塞翁が馬

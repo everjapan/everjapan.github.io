@@ -5,18 +5,20 @@ permalink: /proverbs/hanayori-dango/
 
 ![](/assets/images/proverbs/hanayori-dango-962x1024.png)
 
-## 「花より団子」の意味
+🔈 读音
 
 はなよりだんご
 
-> 舍华求实
+💡 意思
 
-## 同じ意味のことわざ
+舍华求实
+
+👓 类似
 
 * 名を捨てて、実を取る
 * 色気より食い気
 
-## 「花」を含むことわざ
+与「花」有关的谚语：
 
 * 言わぬが花
 * 両手に花

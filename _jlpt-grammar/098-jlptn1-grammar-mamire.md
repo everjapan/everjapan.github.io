@@ -5,14 +5,15 @@ permalink: /n1-grammar-mamire/
 
 ## 文型：〜まみれ
 
-### 意思
+### 意思（日文）
 
-> **日文：**
-> 
-> 〜がたくさん付いている
-> 
-> 表面に **汚いもの** がたくさん付いていて、汚れている様子を表す。
+〜がたくさん付いている
+ 
+*表面に **汚いもの** がたくさん付いていて、汚れている様子を表す。*
 
+### 意思（中文）
+
+到处都是〜
 
 ### 接续
 
@@ -21,22 +22,17 @@ N + まみれ
 ### 例句
 
 > 息子が泥 **まみれ** になって帰って来た。
-
-> My son came home covered in mud.
+>
+> 我儿子弄得浑身泥污回家了。
 
 > 二人は血 **まみれ** になるまで、戦った。
-
-> The two of them fought until they were covered in blood.
+>
+> 这两人战斗到浑身是血。
 
 > ずっと使わず隅に置いていたパソコンがいつの間にかホコリ **まみれ** になっていた。
-
-> The computer that had been sitting in the corner unused for a long time had
-
-> become covered in dust before I knew it.
+>
+> 长时间不用一直放在一边的电脑不知何时已经积满了灰尘。
 
 > 工場にはエアコンがなく、社員は毎日汗 **まみれ** になりながら働いている。
-
-> There is no air conditioning in the factory, and the employees work in sweat
-
-> every day.
-
+>
+> 工厂里没有空调，工人每天都在满身大汗的情况下工作。

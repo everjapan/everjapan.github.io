@@ -5,51 +5,54 @@ permalink: /n1-grammar-yainaya/
 
 ## 文型：〜やいなや
 
-### 意思
+### 意思（日文）
 
-> **日文：**
-> 
-> 〜するとすぐに
+- 〜するとすぐに
 
+### 意思（英文）
 
-> **英文：**
-> 
-> no sooner than
+- no sooner than
 
+### 意思（中文）
+
+- 当〜时
+- 一〜马上
+- 刚一〜就〜
+- 一〜立刻就〜
+- 刚刚〜立刻
+- 几乎与此同时〜
 
 ### 接续
 
-V（辞書形） + やいなや
+- V（辞書形） + やいなや
 
 ### 解释
 
-①後件に意志性のある表現や、命令、否定を表す表現は使えない。② **後件には意外性のある動作がくることが多い** 。
+- 后面不能出现表意志，命令或否定的句子。
+- 多为受前面事物的影响而发生的意外之事。
 
 ### 例句
 
 > 友達の赤ん坊が私の顔を見る **や否や** 、泣き出した。
-
-> My friend's baby started crying as soon as he saw my face.
+>
+> 朋友的婴儿一看到我的脸 **立刻** 哭了。
 
 > 田中さんは私の顔を見る **や否や** 、どこかへ走り出した。
-
-> As soon as Mr. Tanaka saw my face, he started to run somewhere.
+>
+> 田中先生一看到我的脸 **立刻** 就跑了出去。
 
 > 外を出る **や否や** 、急に雨が降り出した。
-
-> As soon as I left the house, it suddenly started to rain.
+>
+> 刚走到外面 **一会儿** ，突然下起了雨。
 
 > 父は家に帰る **や否や** 、突然倒れて眠ってしまった。
-
-> As soon as my father came home, he suddenly collapsed and fell asleep.
+>
+> 父亲一回到家 **立刻** 就突然倒下睡着了。
 
 > 雷の光が見える **や否や** 、大きな音とともに近くに落ちた。
-
-> As soon as I saw the light of thunder, it struck nearby with a loud noise.
+>
+> 一看到闪电 **就在瞬间** ，伴随着巨响降到了附近。
 
 > 後輩は仕事がまだ残っているにも関わらず、定時になる **や否や** 、すぐに帰ってしまった。
-
-> My junior colleague left as soon as the time was up, even though there was
-
-> still work to be done.
-
+>
+> 尽管工作还没有完成，但一到下班时间 **立刻** 就回家了。

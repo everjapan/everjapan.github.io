@@ -5,38 +5,36 @@ permalink: /n1-grammar-niwamurigaaru/
 
 ## 文型：〜には無理がある
 
-### 意思
+### 意思（日文）
 
-> **日文：**
-> 
-> 〜するのは困難である
-> 
-> 達成が困難であること、現実的に実現できないことを述べる表現。
+〜するのは困難である
+ 
+*達成が困難であること、現実的に実現できないことを述べる表現。*
 
+### 意思（中文）
+
+- 〜方面有不合理的地方
+- 〜有行不通的地方
 
 ### 接续
 
-V（辞書形）＋ には無理があるN + には無理がある
+- V（辞書形）＋ には無理がある
+- N + には無理がある
 
 ### 例句
 
 > 部長の計画 **には無理がある** と思います。３ヶ月では到底終わりません。
-
-> I think the director's plan is unreasonable; it can't be finished in three
-
-> months.
+>
+> 我认为部长的计划是不切实际的。在三个月内根本无法完成。
 
 > この舞台の脚本 **には無理がある** のではないでしょうか。
-
-> I think the script for this play is unreasonable.
+>
+> 这部舞台剧的剧本可能有些不现实，不是吗？
 
 > JLPT N1に合格したいですが、今日から毎日１２時間勉強する **には無理があります** 。
-
-> I want to pass the JLPT N1, but it's impossible to study 12 hours a day
-
-> starting today.
+>
+> 我想要通过JLPT N1，但是每天从今天开始学习12小时 **有点不现实** 。
 
 > ちょっとその考え **には無理があるよ** 。
-
-> That idea is a little unreasonable.
-
+>
+> 那个想法有点不切实际。

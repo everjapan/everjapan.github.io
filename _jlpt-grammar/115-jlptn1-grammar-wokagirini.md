@@ -15,7 +15,6 @@ permalink: /n1-grammar-wokagirini/
 - 只限于〜
 - 以〜为限
 
-
 ### 接续
 
 Nを + 限りに
