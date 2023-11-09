@@ -16,14 +16,9 @@ The Japanese verbs いる and ある mean things like “to be” or “to exist
 
 ## The Basics
 
-In Japanese, there are two basic verbs that express the existence of
-something: いる and ある. They can both be translated as "to be" or "to exist,"
-and they're used in similar ways to "there is" and "there are" in English.
+In Japanese, there are two basic verbs that express the existence of something: いる and ある. They can both be translated as "to be" or "to exist," and they're used in similar ways to "there is" and "there are" in English.
 
-However, いる and ある are not interchangeable. So what are the differences
-between them? It all comes down to whether you expect the thing you're talking
-about to move or not. If you expect it to move, you'll use いる. If not, then
-it's ある.
+However, いる and ある are not interchangeable. So what are the differences between them? It all comes down to whether you expect the thing you're talking about to move or not. If you expect it to move, you'll use いる. If not, then it's ある.
 
 Since movement is typically associated with living things, いる is generally
 used for animate objects, while ある is used for inanimate objects.
@@ -33,18 +28,15 @@ used for animate objects, while ある is used for inanimate objects.
 Like all Japanese verbs, いる and ある are generally found at the end of a
 [sentence or clause](/japanese-grammar/sentences-and-clauses/).
 
-  * 犬が **いる** 。
-  * There is a dog.
+> * 犬が **いる** 。
+> * There is a dog.
 
-  * 山が **ある** 。
-  * There is a mountain.
+> * 山が **ある** 。
+> * There is a mountain.
 
 ### Conjugations
 
-The verb いる is an [ichidan verb](/japanese-grammar/verb-conjugation-
-groups/#ichidan-verbs-) and the verb ある is a [godan verb](/japanese-
-grammar/verb-conjugation-groups/#godan-verbs-), so they conjugate differently.
-Here are some basic conjugations of the two verbs:
+The verb いる is an ichidan verb and the verb ある is a godan verb, so they conjugate differently. Here are some basic conjugations of the two verbs:
 
 Present | いる | ある  
 ---|---|---  
@@ -63,104 +55,74 @@ describe a person's temporary stay in one place, though.
 
 ### いる for Animate Objects
 
-As already mentioned, いる is used for things that you expect to move.
-Therefore, いる is commonly used for animate objects, such as people, animals,
-bugs, fish, and even fairies and monsters.
+As already mentioned, いる is used for things that you expect to move. Therefore, いる is commonly used for animate objects, such as people, animals, bugs, fish, and even fairies and monsters.
 
 For example, if you spot a school of fish swimming in a river, you may say:
 
-  * 川の中に魚が **いる** 。
-  * There are fish in the river.
+* 川の中に魚が **いる** 。
+* There are fish in the river.
 
-In this case, since the fish are animate objects that you expect to move, your
-choice of verb is いる, not ある.
+In this case, since the fish are animate objects that you expect to move, your choice of verb is いる, not ある.
 
-Now imagine you happen to see a lawyer talking to their client in their law
-firm. They are engaged in a serious discussion and don't look like they'll be
-moving from their spots any time soon, but you still use いる here:
+Now imagine you happen to see a lawyer talking to their client in their law firm. They are engaged in a serious discussion and don't look like they'll be moving from their spots any time soon, but you still use いる here:
 
-  * オフィスに弁護士と依頼人が **いる** 。
-  * There is a lawyer and a client in the office.
+* オフィスに弁護士と依頼人が **いる** 。
+* There is a lawyer and a client in the office.
 
-This is because they are living creatures and movement is always regarded as
-possible, even if they're currently motionless.
+This is because they are living creatures and movement is always regarded as possible, even if they're currently motionless.
 
-いる is also used when talking about someone who's in a coma or in a vegetative
-state. Immediate movement may not be anticipated, but it's still possible.
-When there is even a slight possibility of movement, even if it's not likely,
-いる is still your verb of choice.
+いる is also used when talking about someone who's in a coma or in a vegetative state. Immediate movement may not be anticipated, but it's still possible.  When there is even a slight possibility of movement, even if it's not likely, いる is still your verb of choice.
 
-What about plants? Sure, you can watch them grow and change in a time-lapse
-video. Branches grow, new buds appear, and flowers open. However, they have no
-true mobility. That is, they can't freely move in a specified direction or
-change their position to any significant degree. Hence they're inanimate
-objects, and they take the verb ある. This will be explored in the next section.
+What about plants? Sure, you can watch them grow and change in a time-lapse video. Branches grow, new buds appear, and flowers open. However, they have no true mobility. That is, they can't freely move in a specified direction or change their position to any significant degree. Hence they're inanimate objects, and they take the verb ある. This will be explored in the next section.
 
 ### ある for Inanimate Physical Objects
 
-ある is used to talk about objects that you do not expect to move, such as
-mountains, plants, and paintings.
+ある is used to talk about objects that you do not expect to move, such as mountains, plants, and paintings.
 
-For example, imagine you're visiting a house that you're thinking of buying.
-You see lots of flowers and trees in the backyard, so you say:
+For example, imagine you're visiting a house that you're thinking of buying. You see lots of flowers and trees in the backyard, so you say:
 
-  * 庭にはたくさんの花と木が **ある** 。
-  * There are many flowers and trees in the yard.
+* 庭にはたくさんの花と木が **ある** 。
+* There are many flowers and trees in the yard.
 
-As we learned in the previous section, plants aren't mobile and are therefore
-they're inanimate so you'd use ある and not いる for them.
+As we learned in the previous section, plants aren't mobile and are therefore they're inanimate so you'd use ある and not いる for them.
 
-Now you go inside the house, and a beautiful painting of a carp catches your
-eye. You comment:
+Now you go inside the house, and a beautiful painting of a carp catches your eye. You comment:
 
-  * 美しい魚の絵が **ある** 。
-  * There is a beautiful painting of fish.
+* 美しい魚の絵が **ある** 。
+* There is a beautiful painting of fish.
 
-Even though the painting depicts a living creature, you're talking about the
-existence of the painting itself. And since paintings are inanimate objects,
-you'll use ある.
+Even though the painting depicts a living creature, you're talking about the existence of the painting itself. And since paintings are inanimate objects, you'll use ある.
 
-Similarly, if you caught one of those fish you saw swimming in the river
-earlier and served it up for dinner, you'd switch to ある, because there's
-obviously no longer any expectation that the fish will move.
+Similarly, if you caught one of those fish you saw swimming in the river earlier and served it up for dinner, you'd switch to ある, because there's obviously no longer any expectation that the fish will move.
 
-  * テーブルの上に照り焼きにした魚が **ある** 。
-  * There's teriyaki fish on the table.
+* テーブルの上に照り焼きにした魚が **ある** 。
+* There's teriyaki fish on the table.
 
 ### ある for Abstract Objects
 
-Abstract objects such as ideas, thoughts, rules, and word definitions also use
-ある. After all, we don't expect any of these things to physically move around,
-right?
+Abstract objects such as ideas, thoughts, rules, and word definitions also use ある. After all, we don't expect any of these things to physically move around, right?
 
-So let's say you encounter a ruthless bandit and known outlaw. You want to
-tell him to follow the rules, so you say:
+So let's say you encounter a ruthless bandit and known outlaw. You want to tell him to follow the rules, so you say:
 
-  * この国には法律が **ある** 。
-  * There are laws in this country.
+* この国には法律が **ある** 。
+* There are laws in this country.
 
-In this case, you're talking about the existence of laws, which are not
-capable of physical movement, so ある is used.
+In this case, you're talking about the existence of laws, which are not capable of physical movement, so ある is used.
 
-ある can also be used for things like events or incidents. So, if you're invited
-out somewhere next Sunday but you're already planning on going to the town
-festival, you can say:
+ある can also be used for things like events or incidents. So, if you're invited out somewhere next Sunday but you're already planning on going to the town festival, you can say:
 
-  * その日はもう予定が **ある** 。町のお祭りが **ある** んだ。
-  * I already have plans that day. There's a town festival happening.
+* その日はもう予定が **ある** 。町のお祭りが **ある** んだ。
+* I already have plans that day. There's a town festival happening.
 
-Just like rules, plans and events aren't physical objects, and we don't expect
-physical movement from them, so we use ある.
+Just like rules, plans and events aren't physical objects, and we don't expect physical movement from them, so we use ある.
 
 For the same reason, ある is used for words like
-[こと](https://www.wanikani.com/vocabulary/%E4%BA%8B?utm_source=Tofugu)
-(matter),
-[経験](https://www.wanikani.com/vocabulary/%E7%B5%8C%E9%A8%93?utm_source=Tofugu)
-(experience),
-[用事](https://www.wanikani.com/vocabulary/%E7%94%A8%E4%BA%8B?utm_source=Tofugu)
-(errand), and
-[予定](https://www.wanikani.com/vocabulary/%E4%BA%88%E5%AE%9A?utm_source=Tofugu)
-(plan). [こと](/japanese-grammar/koto/) is the most abstract of all — it could
+- [こと](https://www.wanikani.com/vocabulary/%E4%BA%8B?utm_source=Tofugu) (matter),
+- [経験](https://www.wanikani.com/vocabulary/%E7%B5%8C%E9%A8%93?utm_source=Tofugu) (experience),
+- [用事](https://www.wanikani.com/vocabulary/%E7%94%A8%E4%BA%8B?utm_source=Tofugu) (errand), and
+- [予定](https://www.wanikani.com/vocabulary/%E4%BA%88%E5%AE%9A?utm_source=Tofugu) (plan). 
+
+[こと](/japanese-grammar/koto/) is the most abstract of all — it could
 be used for many different things, but usually when it's paired up with ある, こと
 means "experience" or something that happened in the past.
 
