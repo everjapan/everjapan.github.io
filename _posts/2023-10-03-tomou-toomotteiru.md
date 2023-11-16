@@ -7,7 +7,6 @@ tags:
     - 日本语
     - A和B的区别
 toc: false
-classes: wide
 ---
 
 「〜と思う」和「〜と思っている」都表示说话人的意愿（<ruby>意志<rt>いし</rt></ruby>）、愿望（<ruby>願望<rt>がんぼう</rt></ruby>）或判断（<ruby>判断<rt>はんだん</rt></ruby>）。
