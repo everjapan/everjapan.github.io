@@ -70,11 +70,17 @@ author:
   email                  : "everjapan@163.com"
   bio                    : "关注日系生活家，带你了解日本"
   links:
+    - label              : "小红书"
+      url                : "https://www.xiaohongshu.com/user/profile/642b0b6f000000001400eda2"
+    - label              : "哔哩哔哩"
+      url                : "https://space.bilibili.com/481782510"
+    - label              : "喜马拉雅"
+      url                : "https://www.ximalaya.com/zhubo/210189066"
+    - label              : "抖音"
+      url                : "https://www.douyin.com/user/MS4wLjABAAAA1ZxYZLzx2yD9HCxvA5fLQSmA_L2AntzHulU2RfMsDOM"
     - label              : "微博"
       icon               : "fab fa-fw fa-weibo"
       url                : "https://weibo.com/u/7861984943"
-    - label              : "小红书"
-      url                : "https://www.xiaohongshu.com/user/profile/642b0b6f000000001400eda2"
 
 # Reading Files
 include:
