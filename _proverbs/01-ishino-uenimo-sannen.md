@@ -5,18 +5,20 @@ permalink: /proverbs/ishino-uenimo-sannen/
 
 ![](/assets/images/proverbs/ishino-uenimo-sannen.png)
 
-## 石の上にも三年
+🔈【读音】
 
-意味| 冷たい石の上でも三年も座りつづけていれば温まる。  = **どんなに辛いことでも、我慢して努力を続ければ、必ず成功することのたとえ。** **  **  
-英訳| Even a cold stone will warm up after three years of sitting on it.  = **A metaphor that no matter how hard/tough it is, if you persevere and keep trying, you will succeed.**  
-  
-###  同じ意味・似ている意味のことわざ
+わらうもんにはふくきたる
 
-* 継続は力なり
-* 塵も積もれば山となる
+💡【意思】
 
-### 英語圏ではどう言う？
+功到自然成
 
-* A rolling stone gathers no moss.  
-* 転がる石に苔むさず
+只要功夫深，铁杵磨成针
 
+水到渠成
+
+✍️【例句】
+
+すぐに達成できることなんてない。 石の上にも三年というように夢を諦めずに努力してみよう。
+
+→ 当下并没有能够立即实现的事情。就像俗话说的「功到自然成」，让我们不放弃梦想，坚持努力吧。

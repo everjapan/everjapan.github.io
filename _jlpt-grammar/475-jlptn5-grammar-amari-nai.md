@@ -11,14 +11,6 @@ permalink: /n5-grammar-amari-nai/
 > 
 > 程度が高くないことを表す文型
 
-
-> **英文：**
-> 
-> "not very"
-> 
-> Indicates a degree that’s not very high. When this is used, the adjective is always used with a negative form.
-
-
 ### 接续
 
 - あまり + V（否定形）

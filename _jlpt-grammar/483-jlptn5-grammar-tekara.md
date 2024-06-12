@@ -11,14 +11,6 @@ permalink: /n5-grammar-tekara/
 > 
 > XてからY：Xを先に行い、それが終わったらYを行う。
 
-
-> **英文：**
-> 
-> "and then / after"
-> 
-> This expresses that X is done before Y.
-
-
 ### 接续
 
 V（て形）+ から

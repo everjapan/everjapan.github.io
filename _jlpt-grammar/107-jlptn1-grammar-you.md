@@ -1,6 +1,6 @@
 ---
 title: 【N1文法】〜よう / 〜ようによっては
-permalink: /1-grammar-you/
+permalink: /n1-grammar-you/
 ---
 
 ## 文型：〜よう / 〜ようによっては
