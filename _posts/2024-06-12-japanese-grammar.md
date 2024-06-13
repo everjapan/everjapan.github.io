@@ -19,7 +19,7 @@ toc: true
 
 日语「<ruby>国語文法<rt>こくごぶんぽう</rt></ruby>」从实用性的角度将语言从大到小依次拆分为：**文章**<span class="more">（<ruby>文章<rt>ぶんしょう</rt></ruby>）</span>、**段落**<span class="more">（<ruby>段落<rt>だんらく</rt></ruby>）</span>、**句子**<span class="more">（<ruby>文<rt>ぶん</rt></ruby>）</span>、**句节**<span class="more">（<ruby>文節<rt>ぶんせつ</rt></ruby>）</span>和**单词**<span class="more">（<ruby>単語<rt>たんご</rt></ruby>）</span>五个单位。
 
-[[japanese-language-unit.png]]
+![](/assets/images/japanese/japanese-language-unit.png)
 
 ### 文章
 
@@ -299,7 +299,7 @@ toc: true
 
 这些品词可以按照「是附属词还是独立词」以及「是否可以活用」进行分类。
 
-[[japanese-word-types.jpg]]
+![](/assets/images/japanese/japanese-word-types.png)
 
 ### 品词分类
 
