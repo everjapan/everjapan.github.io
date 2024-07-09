@@ -3,75 +3,46 @@ title: 【N4文法】〜から
 permalink: /n5-grammar-kara/
 ---
 
-## 文型：〜から
+## 意思
 
-### 意思
+这条语法知识点的「から」属于「接续助词」，表示原因或理由（理由・原因を言う時に使う）。
 
-> **日文：**
-> 
-> 理由・原因を言う時に使う。
+中文意思是「因为」「由于」，相当于英文的「because」。
 
+另外，「から」还可以用作「格助词」，与前面的名词或名词短语等构成「カラ格」，具体用法可参考[简明日语语法——から](https://github.com/everjapan/concise-japanese-grammar/blob/main/particles/kara.md)。
 
-> **英文：**
-> 
-> "because"
-> 
-> Used to say the reason or cause.
+## 接续
 
+> 文１ + から + 文２
 
-### 接续
+「から」的接续形式非常简单，前后各接一个分句（也叫单句），组成一个复句。
 
-文１ + から + 文２
-
-### 例句
-
-> 今日は息子の誕生日です **から** 、早く帰ります。
-
-> Today is my son's birthday, so I will go home early.
-
-> 日本の会社で働きたいです **から** 、日本語を勉強しています。
-
-> I want to work in a Japanese company, so I am studying Japanese.
+## 例句
 
 > 明日はテストがある **から** 、遊べません。
+>
+> （因为明天有考试，所以不能玩。）
 
-> I have a test tomorrow, so I can't play.
+「から」前面的分句「明日はテストがある」表示原因。
 
-> コーヒーを飲んだ **から** 、今は全然眠くないです。
+「遊べません」对应的动词原形是「遊ぶ」，「遊ぶ」的可能动词是「遊べる」。
 
-> I drank some coffee, so I'm not sleepy at all.
+「遊べる」的「ます形」是「遊べます」，也就「遊べる」的连体形「遊べ」＋敬体助动词「ます」。
 
-> 昨日、彼女のプレゼントを買った **から** 、もうお金がありません。
+「遊べます」的「否定形」是「遊べません」，由助动词「ます」的未然形「ませ」＋否定助动词「ん」构成。
 
-> I bought a present for my girlfriend yesterday, so I don't have any more
+其中，否定助动词「ん」是否定助动词「ぬ」的口语形式。除此之外，日语的否定助动词还有「ない」和「ず」，一共四个。
 
-> money.
+> コーヒーを飲んだ **から** 、今は 全然眠くないです。
+>
+> （我喝了咖啡，所以现在一点也不困。）
 
-> この問題は難しいです **から** 、私にはわかりません。
-
-> I don't understand this question because it's difficult.
-
-> 牛乳がありません **から** 、コンビニへ買いに行きます。
-
-> I don't have any milk, so I'm going to the convenience store to buy some.
+和上一个例句一样，「から」前面的分句「コーヒーを飲んだ」表示原因。
 
 > 野菜が嫌いです **から** 、食べたくないです。
-
-> I don't like vegetables, so I don't want to eat them.
-
-> 映画が好きです **から** 、よくパソコンで見ています。
-
-> I like movies, so I often watch them on my computer.
+>
+> （我讨厌蔬菜，所以不想吃。）
 
 > この本、面白い **から** 、ぜひ読んでみて。
-
-> This book is interesting, so please read it.
-
-> A：どうして昨日、来なかったの？
-
-> B：ごめん、忙しかった **から** 。
-
-> A: Why didn't you come yesterday?
-
-> B: Sorry, I couldn’t come, because I was busy.
-
+>
+> （这本书很有趣，请一定要读看看。）
