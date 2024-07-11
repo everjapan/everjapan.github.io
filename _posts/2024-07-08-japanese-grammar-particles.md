@@ -43,7 +43,7 @@ toc: true
 
 > <ruby>彼女<rt>かのじょ</rt></ruby> **は** <ruby>歌<rt>うた</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>だ。<span class="more">（她唱歌很好听）</span>
 
-※ **接续助词**<span class="more">（<ruby>接続助詞<rt>せつぞくじょし</rt></ruby>）</span></span>
+※ **接续助词**<span class="more">（<ruby>接続助詞<rt>せつぞくじょし</rt></ruby>）</span>
 
 接在句子<span class="more">（分句）</span>的末尾，表示句子之间的关系。
 
@@ -143,7 +143,7 @@ toc: true
 
 副助词主要用于增添一些意义，因此**掌握副助词的关键是理解它所增添的意义**。
 
-> 【限定】ピーマン **は** 嫌<rt>きら</rt></ruby>いだ。<span class="more">（我讨厌青椒）</span>
+> 【限定】ピーマン **は** <ruby>嫌<rt>きら</rt></ruby>いだ。<span class="more">（我讨厌青椒）</span>
 >
 > 【添加】この<ruby>本<rt>ほん</rt></ruby> **も** <ruby>面白<rt>おもしろ</rt></ruby>かった。<span class="more">（这本书也很有趣）</span>
 >
