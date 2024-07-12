@@ -2,6 +2,7 @@ main:
   - title: "最新文章"
     url: /
   - title: "日语入门"
+    url: /jumpstart
   - title: "JLPT语法"
     url: /jlpt/grammars
   - title: "JLPT真题"
@@ -10,6 +11,8 @@ main:
     url: /proverbs/
   - title: "生活日语"
     url: /daily/
+  - title: "学习资料"
+    url: /study-materials/
   - title: "关于"
     url: /about/
 
