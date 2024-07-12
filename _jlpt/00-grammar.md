@@ -1,5 +1,5 @@
 ---
-title: JLPT语法合集
+title: JLPT语法讲义
 excerpt: "涵盖N5到N1的每个语法知识点：中文解释、日文解释、丰富例句"
 permalink: /jlpt/grammars/
 ---

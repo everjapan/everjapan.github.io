@@ -1,15 +1,44 @@
 main:
   - title: "最新文章"
     url: /
-  - title: "JLPT"
-    url: /jlpt/
+  - title: "日语入门"
+  - title: "JLPT语法"
+    url: /jlpt/grammars
+  - title: "JLPT真题"
+    url: /jlpt/exams
   - title: "日语谚语"
     url: /proverbs/
+  - title: "生活日语"
+    url: /daily/
   - title: "关于"
     url: /about/
 
-jlpt:
-  - title: 'JLPT'
+jlpt-grammars:
+  - title: 'N1'
     children:
-    - title: "文法"
-      url: /jlpt/grammars
+    - title: "〜あっての・・・"
+      url: /n1-grammar-atteno/
+    - title: "〜いかんでは"
+      url: /n1-grammar-ikan/
+    - title: "〜いかんにかかわらず"
+      url: /n1-grammar-ikannikakawarazu/
+
+proverbs:
+  - title: 'ことわざ'
+    children:
+    - title: '頭隠して尻隠さず'
+      url: '/proverbs/atamakakushite-shirikakusazu/'
+
+daily:
+  - title: '生活日语'
+    children:
+      - title: '自我介绍'
+        url: /daily/introductions/
+      - title: '饮食'
+        url: /daily/eating-and-drinking/
+      - title: '预约'
+        url: /daily/making-arrangement/
+      - title: '履行'
+        url: /daily/travel/
+      - title: '游玩'
+        url: /daily/getting-around/

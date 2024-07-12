@@ -3,20 +3,8 @@ title: 【N5文法】〜で（手段・方法）
 permalink: /n5-grammar-de/
 ---
 
-## 文型：〜で（手段・方法）
+## 意思
 
-### 意思
-
-> **日文：**
-> 
-> 手段・方法を表す。
-
-
-> **英文：**
-> 
-> "by"
-> 
-> Indicates methods or means
 
 
 ### 接续

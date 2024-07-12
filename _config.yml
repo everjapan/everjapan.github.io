@@ -46,7 +46,7 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 locale                   : "zh-CN"
 title                    : "日系生活家"
 title_separator          : "-"
-subtitle                 : "怀抱理性，心向未来"
+subtitle                 : # "怀抱理性，心向未来"
 name                     : &name "日系生活家" # &name is a YAML anchor which can be *referenced later
 description              : &description "怀抱理性、心向未来"
 url                      : https://everjapan.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -148,6 +148,9 @@ collections:
   jlpt:
     output: true
     permalink: /:collection/:path/
+  daily:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -158,6 +161,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+
   # _posts
   - scope:
       path: ""
@@ -166,33 +170,50 @@ defaults:
       layout: single
       author_profile: true
       permalink: /:categories/:title/
-  # _grammer
-  - scope:
-      path: ""
-      type: proverbs
-    values:
-      layout: single
-      author_profile: true
-      toc: false
-  - scope:
-      path: ""
-      type: jlpt-grammar
-    values:
-      layout: grammer
-      author_profile: true
-      toc: true
-      toc_label: '分类'
+
+  # JLPT Grammars/Exams
   - scope:
       path: ""
       type: jlpt
     values:
       layout: single
+      author_profile: true
+      toc: true
+
+  # JLPT Grammars
+  - scope:
+      path: ""
+      type: jlpt-grammars
+    values:
+      layout: grammer
       author_profile: false
       toc: true
-      toc_label: '分类'
       sidebar: 
-        - image: '/assets/images/jlpt/jlpt-logo.png'
-          nav: jlpt
+          - nav: jlpt-grammars
+
+
+  # _proverbs
+  - scope:
+      path: ""
+      type: proverbs
+    values:
+      layout: single
+      author_profile: false
+      toc: true
+      sidebar:
+        - nav: proverbs
+
+  # _daily
+  - scope:
+      path: ""
+      type: daily
+    values:
+      layout: single
+      author_profile: false
+      toc: true
+      share: true
+      sidebar:
+        - nav: daily 
 
 # Sass/SCSS
 sass:

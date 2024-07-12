@@ -1,0 +1,3 @@
+---
+title: WORK AND STUDY
+---
