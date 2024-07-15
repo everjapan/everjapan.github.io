@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "f4ac209fd6013d17",
+    "type": "split",
+    "children": [
+      {
+        "id": "8316ac5a760f1067",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3607d7bda46dc151",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06baf89e4a9dc8bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce623990f46ca858",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "644f3200253ca7c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00f2ca01ff3819b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab4b110026e1a527",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 479.5
+  },
+  "right": {
+    "id": "54c1fdbfcea50c82",
+    "type": "split",
+    "children": [
+      {
+        "id": "eee9baf734b51db0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9787d535aa0c3e5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "606572a3b2eb0b11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8d313097a09b67a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ace828b3e23e8bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3607d7bda46dc151",
+  "lastOpenFiles": [
+    "_posts/2024-07-15-case-marking-particle.md",
+    "_posts/2024-07-12-particle-niha.md",
+    "_site/japanese/case-marking-particle/index.html",
+    "_site/japanese/case-marking-particle",
+    "_site/japanese/particle-niha/index.html",
+    "_site/japanese/particle-niha",
+    "_site/japanese/particle-ni-he/index.html",
+    "_site/japanese/particle-ni-he",
+    "_site/japanese/grammar-particles/index.html",
+    "_site/japanese/grammar-particles",
+    "_site/japanese/grammar-basics/index.html",
+    "_site/japanese/grammar-basics",
+    "_posts/2024-07-11-particle-ni-he.md",
+    "_posts/2024-07-08-grammar-particles.md",
+    "_posts/2024-06-12-grammar-basics.md"
+  ]
+}
