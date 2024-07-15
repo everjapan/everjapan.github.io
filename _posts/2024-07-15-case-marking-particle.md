@@ -66,7 +66,7 @@ toc: true
 
 日语中共有十个助词。为了便于记忆，我们可以借助一个简单的顺口溜：
 
->  <ruby>鬼<rt>お<span class="more">（を)</rt></ruby>が<ruby>戸<rt>と</rt></ruby>より<ruby>出<rt>で</rt></ruby>、<ruby>空<rt>そら</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>
+>  <ruby>鬼<rt>お(を)</rt></ruby>が<ruby>戸<rt>と</rt></ruby>より<ruby>出<rt>で</rt></ruby>、<ruby>空<rt>そら</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>
 
 ## 「格助词」的用法
 
