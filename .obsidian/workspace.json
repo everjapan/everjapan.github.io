@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8316ac5a760f1067",
+        "id": "0cf730b9235684f1",
         "type": "tabs",
         "children": [
           {
-            "id": "3607d7bda46dc151",
+            "id": "803542145ee565ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_jlpt-grammars/481-jlptn5-grammar-dake.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dake",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_jlpt-grammars/481-jlptn5-grammar-dake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_jlpt-grammars/481-jlptn5-grammar-dake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_jlpt-grammars/481-jlptn5-grammar-dake.md"
+              }
             }
           }
         ]
@@ -138,10 +147,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3607d7bda46dc151",
+  "active": "803542145ee565ef",
   "lastOpenFiles": [
+    "_jlpt/00-grammar.md",
+    "n5-grammar-dake.md",
+    "_posts/2024-07-16-part-of-speech.md",
+    "assets/images/japanese/part-of-speech-classification.png",
+    "assets/images/japanese/Screenshot 2024-07-16 at 19.17.59.png",
+    "assets/images/japanese/part-of-speech.png",
+    "assets/images/japanese/part-of-speech-classification.jpeg",
+    "assets/images/japanese/niwa.jpg",
+    "assets/images/japanese/japanese-word-types.png",
+    "assets/images/japanese/japanese-language-unit.png",
+    "assets/images/japanese/part-of-speech.jpeg.md",
+    "assets/images/japanese/Screenshot 2024-07-16 at 18.45.31.png",
+    "assets/images/japanese/part-of-speech.jpeg",
+    "assets/images/japanese/word-type-particle.png",
+    "food.md",
+    "_posts/2023-08-06-japanese-english.md",
     "_posts/2024-07-15-case-marking-particle.md",
+    "_posts/2024-06-12-grammar-basics.md",
+    "_posts/2023-10-02-morpheme.md",
     "_posts/2024-07-12-particle-niha.md",
+    "_posts/2024-07-11-particle-ni-he.md",
+    "_drafts/2024-07-17-auxiliary-verbs.md",
+    "_drafts/2024-07-16-adverb.md",
     "_site/japanese/case-marking-particle/index.html",
     "_site/japanese/case-marking-particle",
     "_site/japanese/particle-niha/index.html",
@@ -152,8 +182,6 @@
     "_site/japanese/grammar-particles",
     "_site/japanese/grammar-basics/index.html",
     "_site/japanese/grammar-basics",
-    "_posts/2024-07-11-particle-ni-he.md",
-    "_posts/2024-07-08-grammar-particles.md",
-    "_posts/2024-06-12-grammar-basics.md"
+    "_posts/2024-07-08-grammar-particles.md"
   ]
 }

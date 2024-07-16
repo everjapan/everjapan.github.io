@@ -72,7 +72,7 @@ author:
   links:
     - label              : "小红书"
       url                : "https://www.xiaohongshu.com/user/profile/642b0b6f000000001400eda2"
-    - label              : "哔哩哔哩"
+    - label              : "B站"
       url                : "https://space.bilibili.com/481782510"
     - label              : "喜马拉雅"
       url                : "https://www.ximalaya.com/zhubo/210189066"
@@ -81,6 +81,8 @@ author:
     - label              : "微博"
       icon               : "fab fa-fw fa-weibo"
       url                : "https://weibo.com/u/7861984943"
+    - label              : "知乎"
+      url                : "https://www.zhihu.com/column/everjapan"
 
 # Reading Files
 include:
