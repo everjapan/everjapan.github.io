@@ -7,17 +7,25 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 
-$h-size-1: 30px !default;
+$h-size-1: 28px !default;
 $h-size-2: 24px !default;
-$h-size-3: 18px !default;
+$h-size-3: 20px !default;
+$h-size-4: 18px !default;
 
 @import "minimal-mistakes"; // main partials
+
+body {
+    font-family: "Microsoft YaHei", "PingFang SC", "Hiragino Sans GB", sans-serif;
+    line-height: 1.6;
+}
 
 .page__content {
     background-color: white;
 
     p,
     li,
+    td,
+    table,
     dl {
         font-style: normal;
         font-size: 16px;
