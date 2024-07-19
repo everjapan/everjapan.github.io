@@ -1,11 +1,9 @@
 ---
 title: 【N1文法】〜あっての・・・
-permalink: /n1-grammar-atteno/
+permalink: /jlpt/grammars/n1/atteno/
 ---
 
-## 文型：〜あっての・・・
-
-### 意思（日文）
+## 
 
 - 〜があるから・・・が成り立つ
 - 〜がなかったら、・・・が成り立たない

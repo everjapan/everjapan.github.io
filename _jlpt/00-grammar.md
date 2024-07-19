@@ -5,7 +5,7 @@ permalink: /jlpt/grammars/
 ---
 
 ### N1
-- [〜あっての・・・](/n1-grammar-atteno/)
+- [〜あっての・・・](n1/atteno/)
 - [〜いかんでは / 〜いかんによっては](/n1-grammar-ikan/)
 - [〜いかんにかかわらず / いかんによらず / いかんをとわず](/n1-grammar-ikannikakawarazu/)
 - [〜かたがた](/n1-grammar-katagata/)
