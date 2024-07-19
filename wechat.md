@@ -17,3 +17,4 @@ title: 微信发布 Check List
 ## 视频号
 
 0. 设置封面
+    - CMS 语法图片

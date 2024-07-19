@@ -3,6 +3,8 @@ title: 【N5文法】〜だけ
 permalink: /n5-grammar-dake/
 ---
 
+![](/assets/images/japanese/grammars/n5/dake.jpg)
+
 ## 意思
 
 「だけ」是一个副助词，主要表示限定，相当于中文的「只有」、「仅仅」或「限于」，英文的「only」。
