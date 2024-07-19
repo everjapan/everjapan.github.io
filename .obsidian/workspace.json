@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0cf730b9235684f1",
+        "id": "b3d737fa4f18ec98",
         "type": "tabs",
         "children": [
           {
-            "id": "803542145ee565ef",
+            "id": "38886a14997499d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_jlpt-grammars/481-jlptn5-grammar-dake.md",
+                "file": "_posts/2024-07-19-bunsetsu.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 479.5
+    "width": 277.5
   },
   "right": {
     "id": "54c1fdbfcea50c82",
@@ -86,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_jlpt-grammars/481-jlptn5-grammar-dake.md",
-                "collapseAll": false,
+                "file": "_posts/2024-07-19-bunsetsu.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_jlpt-grammars/481-jlptn5-grammar-dake.md",
+                "file": "_posts/2024-07-19-bunsetsu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_jlpt-grammars/481-jlptn5-grammar-dake.md"
+                "file": "_posts/2024-07-19-bunsetsu.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,11 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "803542145ee565ef",
+  "active": "38886a14997499d9",
   "lastOpenFiles": [
+    "_site/japanese/bunsetsu/index.html",
+    "_site/japanese/bunsetsu",
+    "japanese/part-of-speech.md",
+    "_posts/2024-07-19-bunsetsu.md",
+    "japanese",
+    "_posts/2024-07-16-part-of-speech.md",
+    "_posts/2024-07-15-case-marking-particle.md",
+    "_posts/2024-06-12-grammar-basics.md",
+    "_posts/2024-01-16-two-japanese-grammar-types.md",
+    "_posts/2024-07-08-grammar-particles.md",
+    "_jlpt-grammars/481-jlptn5-grammar-dake.md",
     "_jlpt/00-grammar.md",
     "n5-grammar-dake.md",
-    "_posts/2024-07-16-part-of-speech.md",
     "assets/images/japanese/part-of-speech-classification.png",
     "assets/images/japanese/Screenshot 2024-07-16 at 19.17.59.png",
     "assets/images/japanese/part-of-speech.png",
@@ -165,8 +174,6 @@
     "assets/images/japanese/word-type-particle.png",
     "food.md",
     "_posts/2023-08-06-japanese-english.md",
-    "_posts/2024-07-15-case-marking-particle.md",
-    "_posts/2024-06-12-grammar-basics.md",
     "_posts/2023-10-02-morpheme.md",
     "_posts/2024-07-12-particle-niha.md",
     "_posts/2024-07-11-particle-ni-he.md",
@@ -179,9 +186,6 @@
     "_site/japanese/particle-ni-he/index.html",
     "_site/japanese/particle-ni-he",
     "_site/japanese/grammar-particles/index.html",
-    "_site/japanese/grammar-particles",
-    "_site/japanese/grammar-basics/index.html",
-    "_site/japanese/grammar-basics",
-    "_posts/2024-07-08-grammar-particles.md"
+    "_site/japanese/grammar-particles"
   ]
 }

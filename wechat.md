@@ -7,7 +7,7 @@ title: 微信发布 Check List
 
 0. 置灰括号内容
     - `<span class="more">（`
-    - `）</span>`
+    - `）</span></span>`
 1. 给日语添加 ruby tags
     - `add ruby tags to ...`
 2. 微信编辑器
