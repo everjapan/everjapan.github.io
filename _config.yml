@@ -65,10 +65,10 @@ breadcrumbs              : false # true, false (default)
 #    anonymize_ip         : false # default
 
 author:
-  name                   : "微信公众号"
+  name                   : "日系生活家"
   avatar                 : "/assets/images/qrcode_for_gh.jpg"
   email                  : "everjapan@163.com"
-  bio                    : "关注日系生活家，带你了解日本"
+  bio                    : "☝️扫码关注公众号️️☝️"
   links:
     - label              : "小红书"
       url                : "https://www.xiaohongshu.com/user/profile/642b0b6f000000001400eda2"
