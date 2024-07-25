@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-19-bunsetsu.md",
+                "file": "_posts/2024-07-20-auxiliary-verbs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-19-bunsetsu.md",
+                "file": "_posts/2024-07-20-auxiliary-verbs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-19-bunsetsu.md",
+                "file": "_posts/2024-07-20-auxiliary-verbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-19-bunsetsu.md"
+                "file": "_posts/2024-07-20-auxiliary-verbs.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "38886a14997499d9",
   "lastOpenFiles": [
+    "_posts/2024-07-19-bunsetsu.md",
+    "_posts/2024-07-20-auxiliary-verbs.md",
     "_site/japanese/bunsetsu/index.html",
     "_site/japanese/bunsetsu",
     "japanese/part-of-speech.md",
-    "_posts/2024-07-19-bunsetsu.md",
     "japanese",
     "_posts/2024-07-16-part-of-speech.md",
     "_posts/2024-07-15-case-marking-particle.md",
@@ -177,7 +178,6 @@
     "_posts/2023-10-02-morpheme.md",
     "_posts/2024-07-12-particle-niha.md",
     "_posts/2024-07-11-particle-ni-he.md",
-    "_drafts/2024-07-17-auxiliary-verbs.md",
     "_drafts/2024-07-16-adverb.md",
     "_site/japanese/case-marking-particle/index.html",
     "_site/japanese/case-marking-particle",
@@ -185,7 +185,6 @@
     "_site/japanese/particle-niha",
     "_site/japanese/particle-ni-he/index.html",
     "_site/japanese/particle-ni-he",
-    "_site/japanese/grammar-particles/index.html",
-    "_site/japanese/grammar-particles"
+    "_site/japanese/grammar-particles/index.html"
   ]
 }

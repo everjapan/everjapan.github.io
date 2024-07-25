@@ -16,6 +16,17 @@ main:
   - title: "关于"
     url: /about/
 
+jumpstart:
+  - title: '学习技巧'
+    children:
+      - title: 自学经验
+        url: '/japanese/how-to-learn-japanese-efficently-and-effectively/' 
+  - title: '五十音入门'
+    children:
+      - title: 日语文字起源 
+        url: '/japanese/kanji-kata-origin/'
+      - 
+
 jlpt-grammars:
   - title: 'N1'
     children:

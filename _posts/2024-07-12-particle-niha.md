@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 日语「には」用法详解
+title: 日语助词组合「には」用法详解
 excerpt:
 categories: japanese
 tags:
