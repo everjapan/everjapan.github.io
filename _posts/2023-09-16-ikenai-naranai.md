@@ -4,7 +4,8 @@ title: 日语「いけない」和「ならない」的区别
 excerpt:
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 日语相近词辨析
 toc: true
 ---
 

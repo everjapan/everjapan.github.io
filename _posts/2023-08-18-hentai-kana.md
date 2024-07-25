@@ -4,7 +4,9 @@ title: 日语假名知多少？变体假名的极简介绍
 excerpt: 
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 日语假名
+    - 日语历史
 ---
 
 在介绍假名起源的[这篇文章](/japanese/2023-08-14-manyou-kana.md)中提到过，日语的平假名和片假名都是起源于中国的汉字。

@@ -4,7 +4,8 @@ title: 日语表达「感谢」时常用的7个短句
 excerpt: 表达感谢是非常重要的社交礼仪之一，在日语中，有多种方式可以表示感谢之情，每一种都传递着不同的语气和程度。
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 生活日语
 ---
 
 ![](/assets/images/thanks/cover.jpeg)

@@ -4,7 +4,8 @@ title: 日语词类简介：和语词、汉语词、外来词、混合词
 excerpt: 
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 日语词汇
 ---
 
 词类是根据词语来源所进行的分类。

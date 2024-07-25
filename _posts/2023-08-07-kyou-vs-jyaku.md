@@ -3,7 +3,8 @@ layout: single
 title: 日语「強」和「弱」的用法
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 日语相近词辨析
 ---
 
 在日语中，「<ruby>強<rt>きょう</rt></ruby>」和「<ruby>弱<rt>じゃく</rt></ruby>」是常用的词汇，用以表达一些相对程度或范围。

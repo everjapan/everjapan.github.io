@@ -4,7 +4,9 @@ title: 日语动词分类的极简介绍
 excerpt: 
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 日语语法
+    - 日语动词
 ---
 
 日语动词相关的知识点非常多，上一篇文章介绍日语中[自动词和他动词的区别和用法](/japanese/japanese-verb/)。

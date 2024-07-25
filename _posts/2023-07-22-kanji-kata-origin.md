@@ -3,7 +3,10 @@ layout: single
 title: 一文读懂日语汉字、平假名和片假名的起源
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 日语假名
+    - 日语汉字
+    - 日语历史
 ---
 
 ![](/assets/images/kanji-kana-origin/cover.png)

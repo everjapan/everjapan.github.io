@@ -4,8 +4,8 @@ title: 日语中那些「为他人着想」的表达方式
 excerpt:
 categories: japanese
 tags:
-    - 日本语
-    - 读书笔记
+    - 日语
+    - 日语表达
 toc: false
 ---
 

@@ -4,7 +4,8 @@ title: 掌握日语发音：词调（アクセント）和语调（イントネ�
 excerpt: 
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 日语语音
 ---
 
 上一篇我们主要介绍了日语发音规则中的「词调<span class='more'>（アクセント / Accent）</span>」。

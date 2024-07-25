@@ -4,7 +4,9 @@ title: 日语进阶篇：辨析动词的「时」与「态」
 excerpt: 
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 日语语法
+    - 日语动词
 ---
 
 日语中的动词知识确实非常丰富，我们在过去的一周已经介绍了[动词分类](https：//mp.weixin.qq.com/s/jzz4MqxzL61mzl3ovqVqVA)、[自动词和他动词](https：//mp.weixin.qq.com/s/TpOLH-lOUbUI1PImJnRxDQ)、[持续动词和瞬时动词](https：//mp.weixin.qq.com/s/0bmjvJqVCZvzT0ER_Vka7w)以及[动词活用](https：//mp.weixin.qq.com/s/5edETBMhWF44D6g_9kj6mA)。

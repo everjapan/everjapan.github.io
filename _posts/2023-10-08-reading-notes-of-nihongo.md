@@ -4,8 +4,8 @@ title: 为什么日语中有那么多简略表达？
 excerpt:
 categories: japanese
 tags:
-    - 日本语
-    - 读书笔记
+    - 日语
+    - 日语表达
 toc: false
 ---
 

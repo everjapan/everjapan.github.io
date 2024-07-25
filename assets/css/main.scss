@@ -22,6 +22,11 @@ body {
 .page__content {
     background-color: white;
 
+    a {
+        text-decoration: none;
+        // color: #0f83fd;
+    }
+
     p,
     li,
     td,

@@ -4,7 +4,8 @@ title: 详解日语条件助词「と、ば、たら、なら」用法
 excerpt: 
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 日语相近词辨析
 ---
 
 之前写过一篇文章专门介绍[「は」与「が」、「に」与「へ」、「より」与「から」用法和区别](https://mp.weixin.qq.com/s/EdNmKyHWVKBpLDVohHDCjw)，阅读量还可以。

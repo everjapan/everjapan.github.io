@@ -4,8 +4,8 @@ title: 「〜と思う」和「〜と思っている」的区别
 excerpt:
 categories: japanese
 tags:
-    - 日本语
-    - A和B的区别
+    - 日语
+    - 日语相近词辨析
 toc: false
 ---
 

@@ -4,7 +4,9 @@ title: 日语动词分类之「持续动词」和「瞬时动词」
 excerpt: 
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 日语语法
+    - 日语动词
 ---
 
 [上一篇文章](/japanese/japanese-verb-classification/)简单介绍了6种日语动词的分类方法，其实这么多分类方法并没有绝对的规则，视角不同而已。

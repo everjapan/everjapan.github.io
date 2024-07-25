@@ -25,7 +25,6 @@ jumpstart:
     children:
       - title: 日语文字起源 
         url: '/japanese/kanji-kata-origin/'
-      - 
 
 jlpt-grammars:
   - title: 'N1'

@@ -5,7 +5,7 @@ excerpt:
 categories: japanese
 tags:
     - 日语
-    - A和B的区别
+    - 日语相近词辨析
 toc: false
 ---
 

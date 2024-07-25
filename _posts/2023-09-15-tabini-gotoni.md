@@ -4,7 +4,8 @@ title: 日语「度に」和「ごとに」的区别
 excerpt: 
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 日语相近词辨析
 toc: true
 ---
 

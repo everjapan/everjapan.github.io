@@ -3,7 +3,8 @@ layout: single
 title: 英语世界中的日文词（多图）
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 日语词汇
 ---
 
 日语中借用了许多外来语，比如「イクラ<span class='more'>（鱼子酱）</span>」源自俄语，「タバコ<span class='more'>（烟草）</span>」源自葡萄牙语等等。

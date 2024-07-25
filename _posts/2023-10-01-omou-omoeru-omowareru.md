@@ -4,7 +4,8 @@ title: 关于「思う」「思える」「思われる」的区别
 excerpt: 
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 日语相近词辨析
 ---
 
 话不多说，先来看三个例句：

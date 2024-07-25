@@ -4,7 +4,9 @@ title: 浅析日语中的自动词和他动词
 excerpt: 
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 日语语法
+    - 日语动词
 ---
 
 我们知道，英语中的动词分为「及物动词<span class='more'>（Transitive Verbs）</span>」和「不及物动词<span class='more'>（Intransitive Verbs）</span>」。

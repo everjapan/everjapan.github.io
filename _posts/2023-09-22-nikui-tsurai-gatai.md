@@ -4,7 +4,8 @@ title: 「にくい」「つらい」「がたい」
 excerpt:
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 日语相近词辨析
 toc: true
 ---
 

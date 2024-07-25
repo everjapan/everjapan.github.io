@@ -3,7 +3,8 @@ layout: single
 title: 「なお」vs「また」，你用对了吗？
 categories: japanese
 tags:
-    - 日本语
+    - 日语
+    - 日语相近词辨析
 ---
 
 在日常会话中，尤其是商务场合，「なお」这个词属于高频词汇之一。

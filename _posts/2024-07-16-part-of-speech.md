@@ -4,9 +4,7 @@ title: 「品词」到底指什么｜日语语法
 excerpt: 
 categories: japanese
 tags:
-  - 日语
   - 日语语法
-  - 格助词
 toc: true
 ---
 

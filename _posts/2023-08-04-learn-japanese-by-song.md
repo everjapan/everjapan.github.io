@@ -3,8 +3,8 @@ layout: single
 title: 听歌学日语之『上を向いて歩こう』
 categories: japanese
 tags:
-    - 日本语
-    - 日文歌曲
+    - 日语
+    - 唱歌学日语
 ---
 
 => [歌曲链接](https：//www.youtube.com/watch？v=ySjH_HonJ08)
