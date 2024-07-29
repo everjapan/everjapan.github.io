@@ -1,5 +1,6 @@
 ---
 title: 〜ずに
+layout: grammar
 permalink: /jlpt/grammars/n3/zuni
 level: N3
 ---

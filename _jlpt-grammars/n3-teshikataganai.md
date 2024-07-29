@@ -1,5 +1,6 @@
 ---
 title: 〜てしかたがない / 〜てしょうがない
+layout: grammar
 permalink: /jlpt/grammars/n3/teshikataganai
 level: N3
 ---

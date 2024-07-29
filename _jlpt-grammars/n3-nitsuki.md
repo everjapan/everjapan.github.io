@@ -1,5 +1,6 @@
 ---
 title: 〜につき（比率）
+layout: grammar
 permalink: /jlpt/grammars/n3/nitsuki
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜得る / 〜得ない
+layout: grammar
 permalink: /jlpt/grammars/n2/uru
 level: N2
 ---

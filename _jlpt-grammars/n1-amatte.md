@@ -1,5 +1,6 @@
 ---
 title: 〜と相まって
+layout: grammar
 permalink: /jlpt/grammars/n1/amatte
 level: N1
 ---

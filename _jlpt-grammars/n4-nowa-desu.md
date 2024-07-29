@@ -1,5 +1,6 @@
 ---
 title: 〜のは〜です
+layout: grammar
 permalink: /jlpt/grammars/n4/nowa-desu
 level: N4
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜といい〜といい
+layout: grammar
 permalink: /jlpt/grammars/n1/toii-toii
 level: N1
 ---

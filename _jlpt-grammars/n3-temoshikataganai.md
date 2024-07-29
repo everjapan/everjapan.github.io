@@ -1,5 +1,6 @@
 ---
 title: 〜てもしかたがない / 〜てもしょうがない
+layout: grammar
 permalink: /jlpt/grammars/n3/temoshikataganai
 level: N3
 ---

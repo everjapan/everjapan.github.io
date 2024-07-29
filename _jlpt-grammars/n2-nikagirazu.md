@@ -1,5 +1,6 @@
 ---
 title: 〜に限らず
+layout: grammar
 permalink: /jlpt/grammars/n2/nikagirazu
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜ぬく
+layout: grammar
 permalink: /jlpt/grammars/n2/nuku
 level: N2
 ---

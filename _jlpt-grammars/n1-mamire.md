@@ -1,5 +1,6 @@
 ---
 title: 〜まみれ
+layout: grammar
 permalink: /jlpt/grammars/n1/mamire
 level: N1
 ---

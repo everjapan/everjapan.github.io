@@ -1,5 +1,6 @@
 ---
 title: 〜にほかならない
+layout: grammar
 permalink: /jlpt/grammars/n2/hokanaranai
 level: N2
 ---

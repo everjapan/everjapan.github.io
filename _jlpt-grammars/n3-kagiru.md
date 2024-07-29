@@ -1,5 +1,6 @@
 ---
 title: 〜に限る
+layout: grammar
 permalink: /jlpt/grammars/n3/kagiru
 level: N3
 ---

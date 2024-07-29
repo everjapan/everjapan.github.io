@@ -1,5 +1,6 @@
 ---
 title: 〜たものではない
+layout: grammar
 permalink: /jlpt/grammars/n2/tamonodewanai
 level: N2
 ---

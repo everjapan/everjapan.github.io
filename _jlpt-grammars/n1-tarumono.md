@@ -1,5 +1,6 @@
 ---
 title: 〜たるもの
+layout: grammar
 permalink: /jlpt/grammars/n1/tarumono
 level: N1
 ---

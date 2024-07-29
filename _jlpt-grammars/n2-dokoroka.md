@@ -1,5 +1,6 @@
 ---
 title: 〜どころか
+layout: grammar
 permalink: /jlpt/grammars/n2/dokoroka
 level: N2
 ---

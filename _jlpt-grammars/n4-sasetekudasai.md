@@ -1,5 +1,6 @@
 ---
 title: 〜させてください
+layout: grammar
 permalink: /jlpt/grammars/n4/sasetekudasai
 level: N4
 ---

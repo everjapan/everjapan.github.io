@@ -1,5 +1,6 @@
 ---
 title: 〜すぎです
+layout: grammar
 permalink: /jlpt/grammars/n0/sugidesu
 level: N0
 ---

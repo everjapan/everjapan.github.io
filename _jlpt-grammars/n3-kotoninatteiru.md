@@ -1,5 +1,6 @@
 ---
 title: 〜ことになっている
+layout: grammar
 permalink: /jlpt/grammars/n3/kotoninatteiru
 level: N3
 ---

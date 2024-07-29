@@ -1,5 +1,6 @@
 ---
 title: 〜てはいけないから / 〜といけないから
+layout: grammar
 permalink: /jlpt/grammars/n3/tehaikenaikara
 level: N3
 ---

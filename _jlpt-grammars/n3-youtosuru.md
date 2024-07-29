@@ -1,5 +1,6 @@
 ---
 title: 〜ようとする
+layout: grammar
 permalink: /jlpt/grammars/n3/youtosuru
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜のでしょうか / 〜んでしょうか
+layout: grammar
 permalink: /jlpt/grammars/n3/nodeshooka
 level: N3
 ---

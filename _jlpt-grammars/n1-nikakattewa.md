@@ -1,5 +1,6 @@
 ---
 title: 〜にかかっては / 〜にかかったら / 〜にかかると / 〜にかかれば
+layout: grammar
 permalink: /jlpt/grammars/n1/nikakattewa
 level: N1
 ---

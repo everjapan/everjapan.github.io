@@ -1,5 +1,6 @@
 ---
 title: 〜べきだった / 〜べきではなかった
+layout: grammar
 permalink: /jlpt/grammars/n3/bekidatta
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜とおりに
+layout: grammar
 permalink: /jlpt/grammars/n3/toorini
 level: N3
 ---

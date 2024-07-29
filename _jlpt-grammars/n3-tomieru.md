@@ -1,5 +1,6 @@
 ---
 title: 〜とみえる
+layout: grammar
 permalink: /jlpt/grammars/n3/tomieru
 level: N3
 ---

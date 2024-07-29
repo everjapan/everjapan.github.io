@@ -1,5 +1,6 @@
 ---
 title: 〜て済む
+layout: grammar
 permalink: /jlpt/grammars/n3/desumu
 level: N3
 ---

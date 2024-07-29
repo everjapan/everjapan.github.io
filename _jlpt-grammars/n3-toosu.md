@@ -1,5 +1,6 @@
 ---
 title: 〜通す
+layout: grammar
 permalink: /jlpt/grammars/n3/toosu
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜に足る
+layout: grammar
 permalink: /jlpt/grammars/n1/nitaru
 level: N1
 ---

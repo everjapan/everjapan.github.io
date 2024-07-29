@@ -1,5 +1,6 @@
 ---
 title: 〜によっては
+layout: grammar
 permalink: /jlpt/grammars/n3/niyottewa
 level: N3
 ---

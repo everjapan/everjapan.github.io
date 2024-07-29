@@ -1,5 +1,6 @@
 ---
 title: 〜ぬ
+layout: grammar
 permalink: /jlpt/grammars/n2/nu
 level: N2
 ---

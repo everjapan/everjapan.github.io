@@ -1,5 +1,6 @@
 ---
 title: 〜からといって
+layout: grammar
 permalink: /jlpt/grammars/n2/karatoitte
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜始末だ
+layout: grammar
 permalink: /jlpt/grammars/n1/shimatsuda
 level: N1
 ---

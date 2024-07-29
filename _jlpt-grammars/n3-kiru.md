@@ -1,5 +1,6 @@
 ---
 title: 〜きる
+layout: grammar
 permalink: /jlpt/grammars/n3/kiru
 level: N3
 ---

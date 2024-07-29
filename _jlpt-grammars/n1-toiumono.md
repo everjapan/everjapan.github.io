@@ -1,5 +1,6 @@
 ---
 title: 〜というもの
+layout: grammar
 permalink: /jlpt/grammars/n1/toiumono
 level: N1
 ---

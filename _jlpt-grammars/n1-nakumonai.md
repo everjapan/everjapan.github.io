@@ -1,5 +1,6 @@
 ---
 title: 〜なくもない
+layout: grammar
 permalink: /jlpt/grammars/n1/nakumonai
 level: N1
 ---

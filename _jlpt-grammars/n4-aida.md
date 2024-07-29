@@ -1,5 +1,6 @@
 ---
 title: 〜間
+layout: grammar
 permalink: /jlpt/grammars/n4/aida
 level: N4
 ---

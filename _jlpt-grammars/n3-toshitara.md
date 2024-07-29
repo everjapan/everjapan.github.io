@@ -1,5 +1,6 @@
 ---
 title: 〜としたら
+layout: grammar
 permalink: /jlpt/grammars/n3/toshitara
 level: N3
 ---

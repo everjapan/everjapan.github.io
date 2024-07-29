@@ -1,5 +1,6 @@
 ---
 title: 〜上に
+layout: grammar
 permalink: /jlpt/grammars/n3/ueni
 level: N3
 ---

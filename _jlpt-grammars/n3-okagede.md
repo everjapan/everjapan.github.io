@@ -1,5 +1,6 @@
 ---
 title: 〜おかげで
+layout: grammar
 permalink: /jlpt/grammars/n3/okagede
 level: N3
 ---

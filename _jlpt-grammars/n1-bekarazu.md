@@ -1,5 +1,6 @@
 ---
 title: 〜べからず
+layout: grammar
 permalink: /jlpt/grammars/n1/bekarazu
 level: N1
 ---

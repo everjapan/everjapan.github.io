@@ -1,5 +1,6 @@
 ---
 title: 〜ざるを得ない
+layout: grammar
 permalink: /jlpt/grammars/n2/zaruoenai
 level: N2
 ---

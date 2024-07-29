@@ -1,5 +1,6 @@
 ---
 title: 〜あっての
+layout: grammar
 permalink: /jlpt/grammars/n1/atteno
 level: N1
 ---

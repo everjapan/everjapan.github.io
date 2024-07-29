@@ -1,5 +1,6 @@
 ---
 title: 〜とかで
+layout: grammar
 permalink: /jlpt/grammars/n2/tokade
 level: N2
 ---

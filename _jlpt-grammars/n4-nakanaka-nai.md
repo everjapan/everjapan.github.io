@@ -1,5 +1,6 @@
 ---
 title: なかなか〜ない
+layout: grammar
 permalink: /jlpt/grammars/n4/nakanaka-nai
 level: N4
 ---

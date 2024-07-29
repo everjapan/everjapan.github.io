@@ -1,5 +1,6 @@
 ---
 title: あまり〜ない
+layout: grammar
 permalink: /jlpt/grammars/n5/amari-nai
 level: N5
 ---

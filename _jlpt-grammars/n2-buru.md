@@ -1,5 +1,6 @@
 ---
 title: 〜ぶる
+layout: grammar
 permalink: /jlpt/grammars/n2/buru
 level: N2
 ---

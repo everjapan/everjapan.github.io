@@ -1,5 +1,6 @@
 ---
 title: 〜たりとも〜ない
+layout: grammar
 permalink: /jlpt/grammars/n1/taritomo-nai
 level: N1
 ---

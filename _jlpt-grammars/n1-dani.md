@@ -1,5 +1,6 @@
 ---
 title: 〜だに
+layout: grammar
 permalink: /jlpt/grammars/n1/dani
 level: N1
 ---

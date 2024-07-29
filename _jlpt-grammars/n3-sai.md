@@ -1,5 +1,6 @@
 ---
 title: 〜際に / 〜際の
+layout: grammar
 permalink: /jlpt/grammars/n3/sai
 level: N3
 ---

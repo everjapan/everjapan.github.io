@@ -1,5 +1,6 @@
 ---
 title: 〜によると
+layout: grammar
 permalink: /jlpt/grammars/n3/niyoruto
 level: N3
 ---

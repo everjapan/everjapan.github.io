@@ -1,5 +1,6 @@
 ---
 title: 〜ことがある
+layout: grammar
 permalink: /jlpt/grammars/n4/kotogaaru
 level: N4
 ---

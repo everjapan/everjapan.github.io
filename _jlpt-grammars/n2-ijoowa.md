@@ -1,5 +1,6 @@
 ---
 title: 〜以上は
+layout: grammar
 permalink: /jlpt/grammars/n2/ijoowa
 level: N2
 ---

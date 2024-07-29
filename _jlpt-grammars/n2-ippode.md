@@ -1,5 +1,6 @@
 ---
 title: 〜一方で
+layout: grammar
 permalink: /jlpt/grammars/n2/ippode
 level: N2
 ---

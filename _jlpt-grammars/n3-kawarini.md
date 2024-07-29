@@ -1,5 +1,6 @@
 ---
 title: 〜かわりに（代理・代用）
+layout: grammar
 permalink: /jlpt/grammars/n3/kawarini
 level: N3
 ---

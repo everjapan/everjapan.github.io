@@ -1,5 +1,6 @@
 ---
 title: 〜つつ（同時進行）
+layout: grammar
 permalink: /jlpt/grammars/n2/tsutsu
 level: N2
 ---

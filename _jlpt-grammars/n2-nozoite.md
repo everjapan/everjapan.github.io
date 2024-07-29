@@ -1,5 +1,6 @@
 ---
 title: 〜を除いて / 〜を除き / 〜を除けば
+layout: grammar
 permalink: /jlpt/grammars/n2/nozoite
 level: N2
 ---

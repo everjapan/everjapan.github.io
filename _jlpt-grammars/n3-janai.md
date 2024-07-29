@@ -1,5 +1,6 @@
 ---
 title: 〜じゃない？
+layout: grammar
 permalink: /jlpt/grammars/n3/janai
 level: N3
 ---

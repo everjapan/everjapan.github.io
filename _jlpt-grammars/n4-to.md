@@ -1,5 +1,6 @@
 ---
 title: 〜と
+layout: grammar
 permalink: /jlpt/grammars/n4/to
 level: N4
 ---

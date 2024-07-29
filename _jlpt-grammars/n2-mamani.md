@@ -1,5 +1,6 @@
 ---
 title: 〜ままに
+layout: grammar
 permalink: /jlpt/grammars/n2/mamani
 level: N2
 ---

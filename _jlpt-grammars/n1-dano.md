@@ -1,5 +1,6 @@
 ---
 title: 〜だの〜だの
+layout: grammar
 permalink: /jlpt/grammars/n1/dano
 level: N1
 ---

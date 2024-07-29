@@ -1,5 +1,6 @@
 ---
 title: 〜てから
+layout: grammar
 permalink: /jlpt/grammars/n5/tekara
 level: N5
 ---

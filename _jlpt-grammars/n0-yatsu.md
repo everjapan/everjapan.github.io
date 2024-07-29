@@ -1,5 +1,6 @@
 ---
 title: 〜やつ
+layout: grammar
 permalink: /jlpt/grammars/n0/yatsu
 level: N0
 ---

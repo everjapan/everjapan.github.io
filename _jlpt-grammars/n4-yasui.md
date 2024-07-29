@@ -1,5 +1,6 @@
 ---
 title: 〜やすい
+layout: grammar
 permalink: /jlpt/grammars/n4/yasui
 level: N4
 ---

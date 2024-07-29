@@ -1,5 +1,6 @@
 ---
 title: 〜始める
+layout: grammar
 permalink: /jlpt/grammars/n4/hajimeru
 level: N4
 ---

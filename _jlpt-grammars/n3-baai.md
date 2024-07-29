@@ -1,5 +1,6 @@
 ---
 title: 〜場合
+layout: grammar
 permalink: /jlpt/grammars/n3/baai
 level: N3
 ---

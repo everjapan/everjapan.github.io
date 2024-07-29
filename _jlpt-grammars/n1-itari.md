@@ -1,5 +1,6 @@
 ---
 title: 〜の至り
+layout: grammar
 permalink: /jlpt/grammars/n1/itari
 level: N1
 ---

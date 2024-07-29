@@ -1,5 +1,6 @@
 ---
 title: 〜って
+layout: grammar
 permalink: /jlpt/grammars/n4/tte
 level: N4
 ---

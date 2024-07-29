@@ -1,5 +1,6 @@
 ---
 title: 〜なさい
+layout: grammar
 permalink: /jlpt/grammars/n4/nasai
 level: N4
 ---

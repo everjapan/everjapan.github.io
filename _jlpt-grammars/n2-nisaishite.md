@@ -1,5 +1,6 @@
 ---
 title: 〜に際して
+layout: grammar
 permalink: /jlpt/grammars/n2/nisaishite
 level: N2
 ---

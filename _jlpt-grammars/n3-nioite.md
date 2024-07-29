@@ -1,5 +1,6 @@
 ---
 title: 〜において / 〜における
+layout: grammar
 permalink: /jlpt/grammars/n3/nioite
 level: N3
 ---

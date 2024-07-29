@@ -1,5 +1,6 @@
 ---
 title: 〜つつ（逆接）
+layout: grammar
 permalink: /jlpt/grammars/n2/tsutsu-2
 level: N2
 ---

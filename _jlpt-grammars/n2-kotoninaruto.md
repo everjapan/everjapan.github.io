@@ -1,5 +1,6 @@
 ---
 title: 〜ことになると / こととなると
+layout: grammar
 permalink: /jlpt/grammars/n2/kotoninaruto
 level: N2
 ---

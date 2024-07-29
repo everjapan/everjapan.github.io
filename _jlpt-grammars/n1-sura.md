@@ -1,5 +1,6 @@
 ---
 title: 〜すら
+layout: grammar
 permalink: /jlpt/grammars/n1/sura
 level: N1
 ---

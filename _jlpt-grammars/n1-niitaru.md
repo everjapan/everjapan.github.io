@@ -1,5 +1,6 @@
 ---
 title: 〜に至る
+layout: grammar
 permalink: /jlpt/grammars/n1/niitaru
 level: N1
 ---

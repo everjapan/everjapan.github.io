@@ -1,5 +1,6 @@
 ---
 title: 〜末に / 〜末の
+layout: grammar
 permalink: /jlpt/grammars/n2/sueni
 level: N2
 ---

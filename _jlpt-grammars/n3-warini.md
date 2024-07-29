@@ -1,5 +1,6 @@
 ---
 title: 〜わりに
+layout: grammar
 permalink: /jlpt/grammars/n3/warini
 level: N3
 ---

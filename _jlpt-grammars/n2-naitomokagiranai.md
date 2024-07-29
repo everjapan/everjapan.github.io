@@ -1,5 +1,6 @@
 ---
 title: 〜ないとも限らない
+layout: grammar
 permalink: /jlpt/grammars/n2/naitomokagiranai
 level: N2
 ---

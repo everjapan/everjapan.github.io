@@ -1,5 +1,6 @@
 ---
 title: 〜ともなると / 〜ともなれば
+layout: grammar
 permalink: /jlpt/grammars/n1/tomonaruto-tomonareba
 level: N1
 ---

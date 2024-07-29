@@ -1,5 +1,6 @@
 ---
 title: 〜さえ
+layout: grammar
 permalink: /jlpt/grammars/n3/sae
 level: N3
 ---

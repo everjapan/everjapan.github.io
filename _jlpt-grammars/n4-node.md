@@ -1,5 +1,6 @@
 ---
 title: 〜ので
+layout: grammar
 permalink: /jlpt/grammars/n4/node
 level: N4
 ---

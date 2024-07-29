@@ -1,5 +1,6 @@
 ---
 title: 〜までに
+layout: grammar
 permalink: /jlpt/grammars/n4/madeni
 level: N4
 ---

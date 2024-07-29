@@ -1,5 +1,6 @@
 ---
 title: 〜てやまない
+layout: grammar
 permalink: /jlpt/grammars/n1/teyamanai
 level: N1
 ---

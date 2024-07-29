@@ -1,5 +1,6 @@
 ---
 title: 〜は〜が、〜は（対比）
+layout: grammar
 permalink: /jlpt/grammars/n4/wa-ga-wa
 level: N4
 ---

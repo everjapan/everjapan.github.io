@@ -1,5 +1,6 @@
 ---
 title: 〜らしい（典型）
+layout: grammar
 permalink: /jlpt/grammars/n4/rashii
 level: N4
 ---

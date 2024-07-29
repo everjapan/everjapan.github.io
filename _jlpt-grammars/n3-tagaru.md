@@ -1,5 +1,6 @@
 ---
 title: 〜たがる
+layout: grammar
 permalink: /jlpt/grammars/n3/tagaru
 level: N3
 ---

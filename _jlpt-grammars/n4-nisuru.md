@@ -1,5 +1,6 @@
 ---
 title: 〜にする
+layout: grammar
 permalink: /jlpt/grammars/n4/nisuru
 level: N4
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜みたいだ（推量）
+layout: grammar
 permalink: /jlpt/grammars/n4/mitaida
 level: N4
 ---

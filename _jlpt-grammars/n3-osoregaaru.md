@@ -1,5 +1,6 @@
 ---
 title: 〜おそれがある
+layout: grammar
 permalink: /jlpt/grammars/n3/osoregaaru
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜なしに / 〜なしで
+layout: grammar
 permalink: /jlpt/grammars/n1/nashini
 level: N1
 ---

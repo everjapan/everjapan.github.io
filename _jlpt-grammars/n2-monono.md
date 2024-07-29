@@ -1,5 +1,6 @@
 ---
 title: 〜ものの
+layout: grammar
 permalink: /jlpt/grammars/n2/monono
 level: N2
 ---

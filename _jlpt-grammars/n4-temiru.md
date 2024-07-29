@@ -1,5 +1,6 @@
 ---
 title: 〜てみる
+layout: grammar
 permalink: /jlpt/grammars/n4/temiru
 level: N4
 ---

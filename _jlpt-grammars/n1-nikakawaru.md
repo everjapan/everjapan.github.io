@@ -1,5 +1,6 @@
 ---
 title: 〜に関わる
+layout: grammar
 permalink: /jlpt/grammars/n1/nikakawaru
 level: N1
 ---

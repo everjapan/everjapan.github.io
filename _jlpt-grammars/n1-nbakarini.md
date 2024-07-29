@@ -1,5 +1,6 @@
 ---
 title: 〜んばかりに
+layout: grammar
 permalink: /jlpt/grammars/n1/nbakarini
 level: N1
 ---

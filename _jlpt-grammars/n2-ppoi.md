@@ -1,5 +1,6 @@
 ---
 title: 〜っぽい
+layout: grammar
 permalink: /jlpt/grammars/n2/ppoi
 level: N2
 ---

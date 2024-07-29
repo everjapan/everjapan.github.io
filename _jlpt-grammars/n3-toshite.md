@@ -1,5 +1,6 @@
 ---
 title: 〜として
+layout: grammar
 permalink: /jlpt/grammars/n3/toshite
 level: N3
 ---

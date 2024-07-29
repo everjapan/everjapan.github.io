@@ -1,5 +1,6 @@
 ---
 title: 数量 + も
+layout: grammar
 permalink: /jlpt/grammars/n4/mo
 level: N4
 ---

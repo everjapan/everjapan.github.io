@@ -1,5 +1,6 @@
 ---
 title: 〜にともなって
+layout: grammar
 permalink: /jlpt/grammars/n2/tomonatte
 level: N2
 ---

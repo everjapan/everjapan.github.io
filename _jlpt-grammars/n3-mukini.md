@@ -1,5 +1,6 @@
 ---
 title: 〜向きに
+layout: grammar
 permalink: /jlpt/grammars/n3/mukini
 level: N3
 ---

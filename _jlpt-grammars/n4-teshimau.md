@@ -1,5 +1,6 @@
 ---
 title: 〜てしまう
+layout: grammar
 permalink: /jlpt/grammars/n4/teshimau
 level: N4
 ---

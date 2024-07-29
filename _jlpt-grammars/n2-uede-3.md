@@ -1,5 +1,6 @@
 ---
 title: 〜上で（〜てから）
+layout: grammar
 permalink: /jlpt/grammars/n2/uede-3
 level: N2
 ---

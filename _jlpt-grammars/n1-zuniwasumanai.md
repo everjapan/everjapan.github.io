@@ -1,5 +1,6 @@
 ---
 title: 〜ずにはすまない / 〜ないではすまない
+layout: grammar
 permalink: /jlpt/grammars/n1/zuniwasumanai
 level: N1
 ---

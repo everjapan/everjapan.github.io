@@ -1,5 +1,6 @@
 ---
 title: 〜ばかりに
+layout: grammar
 permalink: /jlpt/grammars/n2/bakarini
 level: N2
 ---

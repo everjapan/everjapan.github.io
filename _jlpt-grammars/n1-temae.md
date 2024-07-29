@@ -1,5 +1,6 @@
 ---
 title: 〜てまえ
+layout: grammar
 permalink: /jlpt/grammars/n1/temae
 level: N1
 ---

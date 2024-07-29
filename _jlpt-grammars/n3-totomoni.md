@@ -1,5 +1,6 @@
 ---
 title: 〜とともに（一緒）
+layout: grammar
 permalink: /jlpt/grammars/n3/totomoni
 level: N3
 ---

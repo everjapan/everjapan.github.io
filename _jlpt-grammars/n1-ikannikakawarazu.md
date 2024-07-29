@@ -1,5 +1,6 @@
 ---
 title: 〜いかんに関わらず / 〜いかんによらず / 〜いかんを問わず
+layout: grammar
 permalink: /jlpt/grammars/n1/ikannikakawarazu
 level: N1
 ---

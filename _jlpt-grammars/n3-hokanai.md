@@ -1,5 +1,6 @@
 ---
 title: 〜ほかない
+layout: grammar
 permalink: /jlpt/grammars/n3/hokanai
 level: N3
 ---

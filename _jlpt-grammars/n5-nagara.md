@@ -1,5 +1,6 @@
 ---
 title: 〜ながら
+layout: grammar
 permalink: /jlpt/grammars/n5/nagara
 level: N5
 ---

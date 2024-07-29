@@ -1,5 +1,6 @@
 ---
 title: （移動動詞）ている
+layout: grammar
 permalink: /jlpt/grammars/n3/teiru
 level: N3
 ---

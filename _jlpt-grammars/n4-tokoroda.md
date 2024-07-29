@@ -1,5 +1,6 @@
 ---
 title: 〜ところだ
+layout: grammar
 permalink: /jlpt/grammars/n4/tokoroda
 level: N4
 ---

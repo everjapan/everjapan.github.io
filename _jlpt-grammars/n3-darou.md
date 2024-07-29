@@ -1,5 +1,6 @@
 ---
 title: 〜だろう
+layout: grammar
 permalink: /jlpt/grammars/n3/darou
 level: N3
 ---

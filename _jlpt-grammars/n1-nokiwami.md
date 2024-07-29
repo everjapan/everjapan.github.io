@@ -1,5 +1,6 @@
 ---
 title: 〜の極み
+layout: grammar
 permalink: /jlpt/grammars/n1/nokiwami
 level: N1
 ---

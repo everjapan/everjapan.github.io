@@ -1,5 +1,6 @@
 ---
 title: 〜途中で / 途中に
+layout: grammar
 permalink: /jlpt/grammars/n3/tochuu
 level: N3
 ---

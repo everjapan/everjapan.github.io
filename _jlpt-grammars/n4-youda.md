@@ -1,5 +1,6 @@
 ---
 title: 〜ようだ（推量）
+layout: grammar
 permalink: /jlpt/grammars/n4/youda
 level: N4
 ---

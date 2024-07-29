@@ -1,5 +1,6 @@
 ---
 title: 〜にして
+layout: grammar
 permalink: /jlpt/grammars/n1/nishite
 level: N1
 ---

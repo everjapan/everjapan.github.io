@@ -1,5 +1,6 @@
 ---
 title: 〜からある / 〜からする / 〜からの
+layout: grammar
 permalink: /jlpt/grammars/n1/karaaru-karasuru-karano
 level: N1
 ---

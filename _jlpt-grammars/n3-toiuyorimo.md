@@ -1,5 +1,6 @@
 ---
 title: 〜というよりも
+layout: grammar
 permalink: /jlpt/grammars/n3/toiuyorimo
 level: N3
 ---

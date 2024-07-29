@@ -1,5 +1,6 @@
 ---
 title: 〜によって（対応）
+layout: grammar
 permalink: /jlpt/grammars/n3/niyotte-2
 level: N3
 ---

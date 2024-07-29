@@ -1,5 +1,6 @@
 ---
 title: 〜上で（目的）
+layout: grammar
 permalink: /jlpt/grammars/n2/uede-2
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: （自動詞）ている
+layout: grammar
 permalink: /jlpt/grammars/n4/teiru
 level: N4
 ---

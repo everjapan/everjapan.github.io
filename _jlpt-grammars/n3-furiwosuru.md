@@ -1,5 +1,6 @@
 ---
 title: 〜ふりをする
+layout: grammar
 permalink: /jlpt/grammars/n3/furiwosuru
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜なくてもいい
+layout: grammar
 permalink: /jlpt/grammars/n5/nakutemoii
 level: N5
 ---

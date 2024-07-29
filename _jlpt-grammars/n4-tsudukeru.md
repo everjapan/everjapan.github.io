@@ -1,5 +1,6 @@
 ---
 title: 〜続ける
+layout: grammar
 permalink: /jlpt/grammars/n4/tsudukeru
 level: N4
 ---

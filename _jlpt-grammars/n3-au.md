@@ -1,5 +1,6 @@
 ---
 title: 〜合う
+layout: grammar
 permalink: /jlpt/grammars/n3/au
 level: N3
 ---

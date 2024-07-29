@@ -1,5 +1,6 @@
 ---
 title: 〜ばかりだ
+layout: grammar
 permalink: /jlpt/grammars/n2/bakarida
 level: N2
 ---

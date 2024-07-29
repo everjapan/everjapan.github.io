@@ -1,5 +1,6 @@
 ---
 title: 〜なければならない
+layout: grammar
 permalink: /jlpt/grammars/n5/nakerebanaranai
 level: N5
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜予定だ
+layout: grammar
 permalink: /jlpt/grammars/n4/yoteida
 level: N4
 ---

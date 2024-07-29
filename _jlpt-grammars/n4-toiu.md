@@ -1,5 +1,6 @@
 ---
 title: 〜という
+layout: grammar
 permalink: /jlpt/grammars/n4/toiu
 level: N4
 ---

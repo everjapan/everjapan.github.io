@@ -1,5 +1,6 @@
 ---
 title: 〜として〜ない
+layout: grammar
 permalink: /jlpt/grammars/n2/toshite-nai
 level: N2
 ---

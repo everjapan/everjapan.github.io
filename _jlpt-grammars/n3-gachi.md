@@ -1,5 +1,6 @@
 ---
 title: 〜がち
+layout: grammar
 permalink: /jlpt/grammars/n3/gachi
 level: N3
 ---

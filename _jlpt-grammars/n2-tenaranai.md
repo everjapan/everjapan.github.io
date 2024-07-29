@@ -1,5 +1,6 @@
 ---
 title: 〜てはならない
+layout: grammar
 permalink: /jlpt/grammars/n2/tenaranai
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜も同然だ
+layout: grammar
 permalink: /jlpt/grammars/n1/modouzenda
 level: N1
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜まい（否定の意志）
+layout: grammar
 permalink: /jlpt/grammars/n2/mai
 level: N2
 ---

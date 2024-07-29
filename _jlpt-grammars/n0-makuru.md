@@ -1,5 +1,6 @@
 ---
 title: 〜まくる
+layout: grammar
 permalink: /jlpt/grammars/n0/makuru
 level: N0
 ---

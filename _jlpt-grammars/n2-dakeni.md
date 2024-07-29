@@ -1,5 +1,6 @@
 ---
 title: 〜だけに
+layout: grammar
 permalink: /jlpt/grammars/n2/dakeni
 level: N2
 ---

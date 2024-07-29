@@ -1,5 +1,6 @@
 ---
 title: 〜なくしては
+layout: grammar
 permalink: /jlpt/grammars/n1/nakushitewa
 level: N1
 ---

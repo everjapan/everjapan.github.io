@@ -1,5 +1,6 @@
 ---
 title: 〜くらいなら
+layout: grammar
 permalink: /jlpt/grammars/n2/kurainara
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 数量 + は
+layout: grammar
 permalink: /jlpt/grammars/n3/wa
 level: N3
 ---

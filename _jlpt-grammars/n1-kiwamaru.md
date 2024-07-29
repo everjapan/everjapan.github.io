@@ -1,5 +1,6 @@
 ---
 title: 〜極まる
+layout: grammar
 permalink: /jlpt/grammars/n1/kiwamaru
 level: N1
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜が欲しい
+layout: grammar
 permalink: /jlpt/grammars/n5/gahoshii
 level: N5
 ---

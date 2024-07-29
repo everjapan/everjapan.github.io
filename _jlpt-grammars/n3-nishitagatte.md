@@ -1,5 +1,6 @@
 ---
 title: 〜にしたがって
+layout: grammar
 permalink: /jlpt/grammars/n3/nishitagatte
 level: N3
 ---

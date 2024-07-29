@@ -1,5 +1,6 @@
 ---
 title: 〜でしょう
+layout: grammar
 permalink: /jlpt/grammars/n4/deshou
 level: N4
 ---

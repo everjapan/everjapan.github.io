@@ -1,5 +1,6 @@
 ---
 title: 〜たらいいですか
+layout: grammar
 permalink: /jlpt/grammars/n4/taraiidesuka
 level: N4
 ---

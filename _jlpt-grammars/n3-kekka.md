@@ -1,5 +1,6 @@
 ---
 title: 〜結果
+layout: grammar
 permalink: /jlpt/grammars/n3/kekka
 level: N3
 ---

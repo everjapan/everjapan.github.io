@@ -1,5 +1,6 @@
 ---
 title: 〜から
+layout: grammar
 permalink: /jlpt/grammars/n5/kara
 level: N5
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜に違いない
+layout: grammar
 permalink: /jlpt/grammars/n3/nichigainai
 level: N3
 ---

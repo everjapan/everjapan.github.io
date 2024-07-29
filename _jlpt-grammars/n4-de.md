@@ -1,5 +1,6 @@
 ---
 title: 〜て（理由・原因）
+layout: grammar
 permalink: /jlpt/grammars/n4/de
 level: N4
 ---

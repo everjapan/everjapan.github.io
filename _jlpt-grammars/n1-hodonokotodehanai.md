@@ -1,5 +1,6 @@
 ---
 title: 〜ほどのことではない
+layout: grammar
 permalink: /jlpt/grammars/n1/hodonokotodehanai
 level: N1
 ---

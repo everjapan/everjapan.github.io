@@ -1,5 +1,6 @@
 ---
 title: 〜に比べて
+layout: grammar
 permalink: /jlpt/grammars/n3/kurabete
 level: N3
 ---

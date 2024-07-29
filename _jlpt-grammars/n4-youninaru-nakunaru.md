@@ -1,5 +1,6 @@
 ---
 title: 〜ようになる
+layout: grammar
 permalink: /jlpt/grammars/n4/youninaru-nakunaru
 level: N4
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜わけにはいかない
+layout: grammar
 permalink: /jlpt/grammars/n3/wakeniwaikanai
 level: N3
 ---

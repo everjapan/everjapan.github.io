@@ -1,5 +1,6 @@
 ---
 title: 〜にひきかえ
+layout: grammar
 permalink: /jlpt/grammars/n1/nihikikae
 level: N1
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜んだから / 〜のだから
+layout: grammar
 permalink: /jlpt/grammars/n2/nodakara
 level: N2
 ---

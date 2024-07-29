@@ -1,5 +1,6 @@
 ---
 title: 〜最中に
+layout: grammar
 permalink: /jlpt/grammars/n3/saichuuni
 level: N3
 ---

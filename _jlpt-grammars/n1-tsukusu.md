@@ -1,5 +1,6 @@
 ---
 title: 〜尽くす
+layout: grammar
 permalink: /jlpt/grammars/n1/tsukusu
 level: N1
 ---

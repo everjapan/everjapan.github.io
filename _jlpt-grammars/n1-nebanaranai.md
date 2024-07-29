@@ -1,5 +1,6 @@
 ---
 title: 〜ねばならない
+layout: grammar
 permalink: /jlpt/grammars/n1/nebanaranai
 level: N1
 ---

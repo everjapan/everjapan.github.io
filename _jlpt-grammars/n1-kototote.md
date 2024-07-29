@@ -1,5 +1,6 @@
 ---
 title: 〜こととて
+layout: grammar
 permalink: /jlpt/grammars/n1/kototote
 level: N1
 ---

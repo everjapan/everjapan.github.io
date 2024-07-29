@@ -1,5 +1,6 @@
 ---
 title: 〜ことに（は）
+layout: grammar
 permalink: /jlpt/grammars/n2/kotoni
 level: N2
 ---

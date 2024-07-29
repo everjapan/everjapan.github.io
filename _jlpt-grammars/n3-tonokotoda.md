@@ -1,5 +1,6 @@
 ---
 title: 〜とのことだ
+layout: grammar
 permalink: /jlpt/grammars/n3/tonokotoda
 level: N3
 ---

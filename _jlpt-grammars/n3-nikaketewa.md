@@ -1,5 +1,6 @@
 ---
 title: 〜にかけては
+layout: grammar
 permalink: /jlpt/grammars/n3/nikaketewa
 level: N3
 ---

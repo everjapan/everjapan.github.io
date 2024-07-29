@@ -1,5 +1,6 @@
 ---
 title: 〜ないことには〜ない
+layout: grammar
 permalink: /jlpt/grammars/n2/naikotowa-nai
 level: N2
 ---

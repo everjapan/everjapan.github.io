@@ -1,5 +1,6 @@
 ---
 title: 〜ことなく
+layout: grammar
 permalink: /jlpt/grammars/n2/kotonaku
 level: N2
 ---

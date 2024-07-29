@@ -1,5 +1,6 @@
 ---
 title: 〜ないでください
+layout: grammar
 permalink: /jlpt/grammars/n5/naidekudasai
 level: N5
 ---

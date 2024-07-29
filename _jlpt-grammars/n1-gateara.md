@@ -1,5 +1,6 @@
 ---
 title: 〜がてら
+layout: grammar
 permalink: /jlpt/grammars/n1/gateara
 level: N1
 ---

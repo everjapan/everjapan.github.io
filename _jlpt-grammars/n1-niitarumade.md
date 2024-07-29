@@ -1,5 +1,6 @@
 ---
 title: 〜に至るまで
+layout: grammar
 permalink: /jlpt/grammars/n1/niitarumade
 level: N1
 ---

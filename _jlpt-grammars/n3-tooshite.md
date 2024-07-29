@@ -1,5 +1,6 @@
 ---
 title: 〜を通して / 〜を通じて（期間）
+layout: grammar
 permalink: /jlpt/grammars/n3/tooshite
 level: N3
 ---

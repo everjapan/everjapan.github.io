@@ -1,5 +1,6 @@
 ---
 title: つい〜てしまう
+layout: grammar
 permalink: /jlpt/grammars/n3/tsui
 level: N3
 ---

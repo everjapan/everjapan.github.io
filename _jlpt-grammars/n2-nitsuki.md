@@ -1,5 +1,6 @@
 ---
 title: 〜につき
+layout: grammar
 permalink: /jlpt/grammars/n2/nitsuki
 level: N2
 ---

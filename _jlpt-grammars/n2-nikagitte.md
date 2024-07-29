@@ -1,5 +1,6 @@
 ---
 title: 〜に限って
+layout: grammar
 permalink: /jlpt/grammars/n2/nikagitte
 level: N2
 ---

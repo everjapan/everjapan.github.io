@@ -1,5 +1,6 @@
 ---
 title: 〜をものともせず
+layout: grammar
 permalink: /jlpt/grammars/n1/womonotomosezu
 level: N1
 ---

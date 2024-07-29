@@ -1,5 +1,6 @@
 ---
 title: 〜たためしがない
+layout: grammar
 permalink: /jlpt/grammars/n1/tatameshiganai
 level: N1
 ---

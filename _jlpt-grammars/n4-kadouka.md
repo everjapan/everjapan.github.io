@@ -1,5 +1,6 @@
 ---
 title: 〜かどうか
+layout: grammar
 permalink: /jlpt/grammars/n4/kadouka
 level: N4
 ---

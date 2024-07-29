@@ -1,5 +1,6 @@
 ---
 title: 〜たまでだ / 〜たまでのことだ
+layout: grammar
 permalink: /jlpt/grammars/n1/tamadeda
 level: N1
 ---

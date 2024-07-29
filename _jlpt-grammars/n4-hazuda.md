@@ -1,5 +1,6 @@
 ---
 title: 〜はずだ
+layout: grammar
 permalink: /jlpt/grammars/n4/hazuda
 level: N4
 ---

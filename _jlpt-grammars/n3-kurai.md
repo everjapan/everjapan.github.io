@@ -1,5 +1,6 @@
 ---
 title: 〜くらい（軽視）
+layout: grammar
 permalink: /jlpt/grammars/n3/kurai
 level: N3
 ---

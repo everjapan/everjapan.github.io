@@ -1,5 +1,6 @@
 ---
 title: 〜どうやって
+layout: grammar
 permalink: /jlpt/grammars/n5/douyatte
 level: N5
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜っけ
+layout: grammar
 permalink: /jlpt/grammars/n3/kke
 level: N3
 ---

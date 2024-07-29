@@ -1,5 +1,6 @@
 ---
 title: 〜ごとき / ごとく / ごとし
+layout: grammar
 permalink: /jlpt/grammars/n1/gotoki
 level: N1
 ---

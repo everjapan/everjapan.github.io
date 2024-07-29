@@ -1,5 +1,6 @@
 ---
 title: 〜に〜を重ねて
+layout: grammar
 permalink: /jlpt/grammars/n1/wokasanete
 level: N1
 ---

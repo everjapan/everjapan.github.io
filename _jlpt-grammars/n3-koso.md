@@ -1,5 +1,6 @@
 ---
 title: 〜こそ
+layout: grammar
 permalink: /jlpt/grammars/n3/koso
 level: N3
 ---

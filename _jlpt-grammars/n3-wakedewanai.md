@@ -1,5 +1,6 @@
 ---
 title: 〜わけではない / 〜わけじゃない
+layout: grammar
 permalink: /jlpt/grammars/n3/wakedewanai
 level: N3
 ---

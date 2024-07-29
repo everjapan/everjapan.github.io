@@ -1,5 +1,6 @@
 ---
 title: 〜ものがある
+layout: grammar
 permalink: /jlpt/grammars/n2/monogaaru
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜からには
+layout: grammar
 permalink: /jlpt/grammars/n3/karaniwa
 level: N3
 ---

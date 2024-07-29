@@ -1,5 +1,6 @@
 ---
 title: 〜並み
+layout: grammar
 permalink: /jlpt/grammars/n0/nami
 level: N0
 ---

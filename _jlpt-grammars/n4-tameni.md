@@ -1,5 +1,6 @@
 ---
 title: 〜ために
+layout: grammar
 permalink: /jlpt/grammars/n4/tameni
 level: N4
 ---

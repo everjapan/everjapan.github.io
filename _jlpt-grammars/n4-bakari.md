@@ -1,5 +1,6 @@
 ---
 title: 〜ばかり
+layout: grammar
 permalink: /jlpt/grammars/n4/bakari
 level: N4
 ---

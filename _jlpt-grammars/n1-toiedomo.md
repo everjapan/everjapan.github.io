@@ -1,5 +1,6 @@
 ---
 title: 〜といえども
+layout: grammar
 permalink: /jlpt/grammars/n1/toiedomo
 level: N1
 ---

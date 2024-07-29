@@ -1,5 +1,6 @@
 ---
 title: いくら〜ても  / どんなに〜ても
+layout: grammar
 permalink: /jlpt/grammars/n3/ikura-temo
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜を問わず
+layout: grammar
 permalink: /jlpt/grammars/n2/towazu
 level: N2
 ---

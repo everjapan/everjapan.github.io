@@ -1,5 +1,6 @@
 ---
 title: 〜びる
+layout: grammar
 permalink: /jlpt/grammars/n1/biru
 level: N1
 ---

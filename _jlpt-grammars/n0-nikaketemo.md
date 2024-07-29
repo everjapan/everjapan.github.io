@@ -1,5 +1,6 @@
 ---
 title: 〜にかけても
+layout: grammar
 permalink: /jlpt/grammars/n0/nikaketemo
 level: N0
 ---

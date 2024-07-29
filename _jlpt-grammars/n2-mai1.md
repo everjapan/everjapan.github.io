@@ -1,5 +1,6 @@
 ---
 title: 〜まい（否定の推量）
+layout: grammar
 permalink: /jlpt/grammars/n2/mai1
 level: N2
 ---

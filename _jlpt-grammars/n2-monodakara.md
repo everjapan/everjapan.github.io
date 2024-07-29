@@ -1,5 +1,6 @@
 ---
 title: 〜ものだから
+layout: grammar
 permalink: /jlpt/grammars/n2/monodakara
 level: N2
 ---

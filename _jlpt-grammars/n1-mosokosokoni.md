@@ -1,5 +1,6 @@
 ---
 title: 〜もそこそこに
+layout: grammar
 permalink: /jlpt/grammars/n1/mosokosokoni
 level: N1
 ---

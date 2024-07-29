@@ -1,5 +1,6 @@
 ---
 title: 〜てはいけない
+layout: grammar
 permalink: /jlpt/grammars/n5/tewaikemasen
 level: N5
 ---

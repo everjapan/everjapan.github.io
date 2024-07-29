@@ -1,5 +1,6 @@
 ---
 title: 〜のやら
+layout: grammar
 permalink: /jlpt/grammars/n1/noyara
 level: N1
 ---

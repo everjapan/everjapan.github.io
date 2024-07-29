@@ -1,5 +1,6 @@
 ---
 title: 〜にもまして
+layout: grammar
 permalink: /jlpt/grammars/n1/nimomashite
 level: N1
 ---

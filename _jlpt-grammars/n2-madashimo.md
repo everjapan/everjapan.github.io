@@ -1,5 +1,6 @@
 ---
 title: 〜はまだしも / 〜ならまだしも
+layout: grammar
 permalink: /jlpt/grammars/n2/madashimo
 level: N2
 ---

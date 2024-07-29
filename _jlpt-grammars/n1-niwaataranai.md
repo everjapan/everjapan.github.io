@@ -1,5 +1,6 @@
 ---
 title: 〜にはあたらない
+layout: grammar
 permalink: /jlpt/grammars/n1/niwaataranai
 level: N1
 ---

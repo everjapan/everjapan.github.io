@@ -1,5 +1,6 @@
 ---
 title: 〜を顧みず / 〜も顧みず
+layout: grammar
 permalink: /jlpt/grammars/n1/kaerimizu
 level: N1
 ---

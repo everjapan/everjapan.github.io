@@ -1,5 +1,6 @@
 ---
 title: 〜てはじめて
+layout: grammar
 permalink: /jlpt/grammars/n3/tehajimete
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜てくる（行って戻る）
+layout: grammar
 permalink: /jlpt/grammars/n4/tekuru
 level: N4
 ---

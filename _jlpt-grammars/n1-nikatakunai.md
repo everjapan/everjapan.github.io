@@ -1,5 +1,6 @@
 ---
 title: 〜にかたくない
+layout: grammar
 permalink: /jlpt/grammars/n1/nikatakunai
 level: N1
 ---

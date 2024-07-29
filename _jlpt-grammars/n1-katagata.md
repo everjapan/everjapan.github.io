@@ -1,5 +1,6 @@
 ---
 title: 〜かたがた
+layout: grammar
 permalink: /jlpt/grammars/n1/katagata
 level: N1
 ---

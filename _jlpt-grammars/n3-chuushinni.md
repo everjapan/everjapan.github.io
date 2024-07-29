@@ -1,5 +1,6 @@
 ---
 title: 〜を中心に
+layout: grammar
 permalink: /jlpt/grammars/n3/chuushinni
 level: N3
 ---

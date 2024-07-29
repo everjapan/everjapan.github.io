@@ -1,5 +1,6 @@
 ---
 title: 〜に応じて
+layout: grammar
 permalink: /jlpt/grammars/n2/oujite
 level: N2
 ---

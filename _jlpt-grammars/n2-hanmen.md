@@ -1,5 +1,6 @@
 ---
 title: 〜反面
+layout: grammar
 permalink: /jlpt/grammars/n2/hanmen
 level: N2
 ---

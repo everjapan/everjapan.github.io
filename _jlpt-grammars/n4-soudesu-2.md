@@ -1,5 +1,6 @@
 ---
 title: 〜そうです（様態）
+layout: grammar
 permalink: /jlpt/grammars/n4/soudesu-2
 level: N4
 ---

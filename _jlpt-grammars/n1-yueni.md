@@ -1,5 +1,6 @@
 ---
 title: 〜ゆえに
+layout: grammar
 permalink: /jlpt/grammars/n1/yueni
 level: N1
 ---

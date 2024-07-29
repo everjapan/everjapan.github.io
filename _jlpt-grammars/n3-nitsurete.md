@@ -1,5 +1,6 @@
 ---
 title: 〜につれて
+layout: grammar
 permalink: /jlpt/grammars/n3/nitsurete
 level: N3
 ---

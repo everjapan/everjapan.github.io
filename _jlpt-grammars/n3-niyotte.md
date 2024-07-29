@@ -1,5 +1,6 @@
 ---
 title: 〜によって（手段・方法）
+layout: grammar
 permalink: /jlpt/grammars/n3/niyotte
 level: N3
 ---

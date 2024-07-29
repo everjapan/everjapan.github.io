@@ -1,5 +1,6 @@
 ---
 title: 〜や否や
+layout: grammar
 permalink: /jlpt/grammars/n1/yainaya
 level: N1
 ---

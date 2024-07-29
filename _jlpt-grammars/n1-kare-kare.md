@@ -1,5 +1,6 @@
 ---
 title: 〜かれ〜かれ
+layout: grammar
 permalink: /jlpt/grammars/n1/kare-kare
 level: N1
 ---

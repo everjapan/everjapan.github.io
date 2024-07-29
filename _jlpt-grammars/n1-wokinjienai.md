@@ -1,5 +1,6 @@
 ---
 title: 〜を禁じ得ない
+layout: grammar
 permalink: /jlpt/grammars/n1/wokinjienai
 level: N1
 ---

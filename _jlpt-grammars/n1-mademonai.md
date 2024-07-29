@@ -1,5 +1,6 @@
 ---
 title: 〜までもない / 〜までもなく
+layout: grammar
 permalink: /jlpt/grammars/n1/mademonai
 level: N1
 ---

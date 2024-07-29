@@ -1,5 +1,6 @@
 ---
 title: 〜つもりだ（実際とは異なる
+layout: grammar
 permalink: /jlpt/grammars/n3/tsumorida
 level: N3
 ---

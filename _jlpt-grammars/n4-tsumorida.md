@@ -1,5 +1,6 @@
 ---
 title: 〜つもりだ
+layout: grammar
 permalink: /jlpt/grammars/n4/tsumorida
 level: N4
 ---

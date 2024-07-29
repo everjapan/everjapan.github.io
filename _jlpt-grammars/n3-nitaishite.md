@@ -1,5 +1,6 @@
 ---
 title: 〜に対して（対象・対比）
+layout: grammar
 permalink: /jlpt/grammars/n3/nitaishite
 level: N3
 ---

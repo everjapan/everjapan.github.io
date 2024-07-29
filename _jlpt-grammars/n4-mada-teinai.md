@@ -1,5 +1,6 @@
 ---
 title: まだ〜ていない
+layout: grammar
 permalink: /jlpt/grammars/n4/mada-teinai
 level: N4
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜には及ばない
+layout: grammar
 permalink: /jlpt/grammars/n1/niwaoyobanai
 level: N1
 ---

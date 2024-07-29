@@ -193,7 +193,7 @@ defaults:
     values:
       layout: grammer
       author_profile: false
-      toc: true
+      toc: false
       sidebar: 
           - nav: jlpt-grammars
 

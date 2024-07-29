@@ -1,5 +1,6 @@
 ---
 title: 〜と思う
+layout: grammar
 permalink: /jlpt/grammars/n5/toomou
 level: N5
 ---

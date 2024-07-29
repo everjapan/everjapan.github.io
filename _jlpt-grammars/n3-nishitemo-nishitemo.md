@@ -1,5 +1,6 @@
 ---
 title: 〜にしても〜にしても
+layout: grammar
 permalink: /jlpt/grammars/n3/nishitemo-nishitemo
 level: N3
 ---

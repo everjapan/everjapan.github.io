@@ -1,5 +1,6 @@
 ---
 title: 〜ごとに
+layout: grammar
 permalink: /jlpt/grammars/n3/gotoni
 level: N3
 ---

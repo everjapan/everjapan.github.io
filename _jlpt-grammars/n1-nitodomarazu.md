@@ -1,5 +1,6 @@
 ---
 title: 〜にとどまらず
+layout: grammar
 permalink: /jlpt/grammars/n1/nitodomarazu
 level: N1
 ---

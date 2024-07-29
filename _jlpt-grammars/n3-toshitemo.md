@@ -1,5 +1,6 @@
 ---
 title: 〜としても
+layout: grammar
 permalink: /jlpt/grammars/n3/toshitemo
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜のことだから
+layout: grammar
 permalink: /jlpt/grammars/n2/nokotodakara
 level: N2
 ---

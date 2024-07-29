@@ -1,5 +1,6 @@
 ---
 title: 〜ようが / 〜ようと
+layout: grammar
 permalink: /jlpt/grammars/n1/youga
 level: N1
 ---

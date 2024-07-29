@@ -1,5 +1,6 @@
 ---
 title: お〜だ
+layout: grammar
 permalink: /jlpt/grammars/n3/o-da
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜にも関わらず
+layout: grammar
 permalink: /jlpt/grammars/n2/nimokakawarazu
 level: N2
 ---

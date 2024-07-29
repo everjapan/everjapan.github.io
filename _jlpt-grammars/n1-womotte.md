@@ -1,5 +1,6 @@
 ---
 title: 〜をもって（期限）
+layout: grammar
 permalink: /jlpt/grammars/n1/womotte
 level: N1
 ---

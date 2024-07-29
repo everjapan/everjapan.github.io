@@ -1,5 +1,6 @@
 ---
 title: 〜ないで
+layout: grammar
 permalink: /jlpt/grammars/n5/naide
 level: N5
 ---

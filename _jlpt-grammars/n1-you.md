@@ -1,5 +1,6 @@
 ---
 title: 〜よう / 〜ようによっては
+layout: grammar
 permalink: /jlpt/grammars/n1/you
 level: N1
 ---

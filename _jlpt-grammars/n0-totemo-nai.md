@@ -1,5 +1,6 @@
 ---
 title: とても〜ない
+layout: grammar
 permalink: /jlpt/grammars/n0/totemo-nai
 level: N0
 ---

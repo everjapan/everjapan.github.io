@@ -1,5 +1,6 @@
 ---
 title: 〜ぶり
+layout: grammar
 permalink: /jlpt/grammars/n3/buri
 level: N3
 ---

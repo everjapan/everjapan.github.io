@@ -1,5 +1,6 @@
 ---
 title: 〜ものを
+layout: grammar
 permalink: /jlpt/grammars/n1/monowo
 level: N1
 ---

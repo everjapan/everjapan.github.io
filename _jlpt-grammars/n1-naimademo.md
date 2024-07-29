@@ -1,5 +1,6 @@
 ---
 title: 〜ないまでも
+layout: grammar
 permalink: /jlpt/grammars/n1/naimademo
 level: N1
 ---

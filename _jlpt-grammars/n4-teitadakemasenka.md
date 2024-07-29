@@ -1,5 +1,6 @@
 ---
 title: 〜ていただけませんか
+layout: grammar
 permalink: /jlpt/grammars/n4/teitadakemasenka
 level: N4
 ---

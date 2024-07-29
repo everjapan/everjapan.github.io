@@ -1,5 +1,6 @@
 ---
 title: 〜を通して / 〜を通じて（手段・媒介）
+layout: grammar
 permalink: /jlpt/grammars/n3/tooshite-2
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜がきっかけで
+layout: grammar
 permalink: /jlpt/grammars/n3/kikkake
 level: N3
 ---

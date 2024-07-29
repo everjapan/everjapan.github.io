@@ -1,5 +1,6 @@
 ---
 title: 〜づらい
+layout: grammar
 permalink: /jlpt/grammars/n0/durai
 level: N0
 ---

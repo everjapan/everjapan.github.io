@@ -1,58 +1,1111 @@
-main:
-  - title: "最新文章"
-    url: /
-  - title: "日语入门"
-    url: /jumpstart
-  - title: "JLPT语法"
-    url: /jlpt/grammars
-  - title: "JLPT真题"
-    url: /jlpt/exams
-  - title: "日语谚语"
-    url: /proverbs/
-  - title: "生活日语"
-    url: /daily/
-  - title: "学习资料"
-    url: /study-materials/
-  - title: "关于"
-    url: /about/
-
-jumpstart:
-  - title: '学习技巧'
-    children:
-      - title: 自学经验
-        url: '/japanese/how-to-learn-japanese-efficently-and-effectively/' 
-  - title: '五十音入门'
-    children:
-      - title: 日语文字起源 
-        url: '/japanese/kanji-kata-origin/'
-
-proverbs:
-  - title: 'ことわざ'
-    children:
-    - title: '頭隠して尻隠さず'
-      url: '/proverbs/atamakakushite-shirikakusazu/'
-
 daily:
-  - title: '生活日语'
-    children:
-      - title: '自我介绍'
-        url: /daily/introductions/
-      - title: '饮食'
-        url: /daily/eating-and-drinking/
-      - title: '预约'
-        url: /daily/making-arrangement/
-      - title: '履行'
-        url: /daily/travel/
-      - title: '游玩'
-        url: /daily/getting-around/
-
+- children:
+  - title: 自我介绍
+    url: /daily/introductions/
+  - title: 饮食
+    url: /daily/eating-and-drinking/
+  - title: 预约
+    url: /daily/making-arrangement/
+  - title: 履行
+    url: /daily/travel/
+  - title: 游玩
+    url: /daily/getting-around/
+  title: 生活日语
 jlpt-grammars:
-  - title: 'N1'
-    children:
-    - title: "〜あっての・・・"
-      url: /n1-grammar-atteno/
-    - title: "〜いかんでは"
-      url: /n1-grammar-ikan/
-    - title: "〜いかんにかかわらず"
-      url: /n1-grammar-ikannikakawarazu/
-
+- children:
+  - title: 〜あっての
+    url: /jlpt/grammars/n1/atteno
+  - title: 〜いかんだ
+    url: /jlpt/grammars/n1/ikan
+  - title: 〜いかんに関わらず
+    url: /jlpt/grammars/n1/ikannikakawarazu
+  - title: 〜かたがた
+    url: /jlpt/grammars/n1/katagata
+  - title: 〜かたわら
+    url: /jlpt/grammars/n1/katawara
+  - title: 〜がてら
+    url: /jlpt/grammars/n1/gateara
+  - title: 〜かと思いきや
+    url: /jlpt/grammars/n1/katoomoikiya
+  - title: 〜が早いか
+    url: /jlpt/grammars/n1/gahayaika
+  - title: 〜からある
+    url: /jlpt/grammars/n1/karaaru-karasuru-karano
+  - title: 〜かれ〜かれ
+    url: /jlpt/grammars/n1/kare-kare
+  - title: 〜きっての
+    url: /jlpt/grammars/n1/kitteno
+  - title: 〜きらいがある
+    url: /jlpt/grammars/n1/kiraigaaru
+  - title: 〜極まる
+    url: /jlpt/grammars/n1/kiwamaru
+  - title: 〜極まりない
+    url: /jlpt/grammars/n1/kiwamarinai
+  - title: 〜ごとき
+    url: /jlpt/grammars/n1/gotoki
+  - title: 〜こととて
+    url: /jlpt/grammars/n1/kototote
+  - title: 〜始末だ
+    url: /jlpt/grammars/n1/shimatsuda
+  - title: 〜ずくめ
+    url: /jlpt/grammars/n1/zukume
+  - title: 〜ずにはおかない
+    url: /jlpt/grammars/n1/zuniwaokanai
+  - title: 〜ずにはすまない
+    url: /jlpt/grammars/n1/zuniwasumanai
+  - title: 〜術がない
+    url: /jlpt/grammars/n1/subeganai
+  - title: 〜すら
+    url: /jlpt/grammars/n1/sura
+  - title: 〜そばから
+    url: /jlpt/grammars/n1/sobakara
+  - title: ただ〜のみ
+    url: /jlpt/grammars/n1/tada-nomi
+  - title: 〜たためしがない
+    url: /jlpt/grammars/n1/tatameshiganai
+  - title: 〜たところで
+    url: /jlpt/grammars/n1/tatokorode
+  - title: 〜だに
+    url: /jlpt/grammars/n1/dani
+  - title: 〜だの〜だの
+    url: /jlpt/grammars/n1/dano
+  - title: 〜た弾みに
+    url: /jlpt/grammars/n1/tahazumini
+  - title: 〜た分だけ
+    url: /jlpt/grammars/n1/tabundake
+  - title: 〜たまでだ
+    url: /jlpt/grammars/n1/tamadeda
+  - title: 〜たら最後
+    url: /jlpt/grammars/n1/tarasaigo
+  - title: 〜たら〜たで
+    url: /jlpt/grammars/n1/tara-tade
+  - title: 〜たりとも〜ない
+    url: /jlpt/grammars/n1/taritomo-nai
+  - title: 〜たるもの
+    url: /jlpt/grammars/n1/tarumono
+  - title: 〜尽くす
+    url: /jlpt/grammars/n1/tsukusu
+  - title: 〜つ〜つ
+    url: /jlpt/grammars/n1/tsu-tsu
+  - title: 〜であれ〜であれ
+    url: /jlpt/grammars/n1/deare-deare
+  - title: 〜てからというもの
+    url: /jlpt/grammars/n1/tekaratoiumono
+  - title: 〜ではあるまいし
+    url: /jlpt/grammars/n1/dewaarumaishi
+  - title: 〜てまえ
+    url: /jlpt/grammars/n1/temae
+  - title: 〜てやまない
+    url: /jlpt/grammars/n1/teyamanai
+  - title: 〜と相まって
+    url: /jlpt/grammars/n1/amatte
+  - title: 〜とあれば
+    url: /jlpt/grammars/n1/toareba
+  - title: 〜といい〜といい
+    url: /jlpt/grammars/n1/toii-toii
+  - title: 〜といえども
+    url: /jlpt/grammars/n1/toiedomo
+  - title: 〜というもの
+    url: /jlpt/grammars/n1/toiumono
+  - title: 〜ときたら
+    url: /jlpt/grammars/n1/tokitara
+  - title: 〜ところを
+    url: /jlpt/grammars/n1/tokoro
+  - title: 〜とはいえ
+    url: /jlpt/grammars/n1/towaie
+  - title: 〜ともあろう
+    url: /jlpt/grammars/n1/tomoarou
+  - title: 〜ともなく
+    url: /jlpt/grammars/n1/tomonaku
+  - title: 〜ともなると
+    url: /jlpt/grammars/n1/tomonaruto-tomonareba
+  - title: 〜ながら
+    url: /jlpt/grammars/n1/nagara
+  - title: 〜なくしては
+    url: /jlpt/grammars/n1/nakushitewa
+  - title: 〜なくもない
+    url: /jlpt/grammars/n1/nakumonai
+  - title: 〜なしに
+    url: /jlpt/grammars/n1/nashini
+  - title: 〜ならでは
+    url: /jlpt/grammars/n1/naradewa
+  - title: 〜ないまでも
+    url: /jlpt/grammars/n1/naimademo
+  - title: 〜なり
+    url: /jlpt/grammars/n1/nari
+  - title: 〜なりとも
+    url: /jlpt/grammars/n1/naritomo
+  - title: 〜なり〜なり
+    url: /jlpt/grammars/n1/nari-nari
+  - title: 〜なりに
+    url: /jlpt/grammars/n1/narini
+  - title: 〜にあって
+    url: /jlpt/grammars/n1/niatte
+  - title: 〜に至る
+    url: /jlpt/grammars/n1/niitaru
+  - title: 〜に至るまで
+    url: /jlpt/grammars/n1/niitarumade
+  - title: 〜に言わせれば
+    url: /jlpt/grammars/n1/niiwasereba
+  - title: 〜にかかっては
+    url: /jlpt/grammars/n1/nikakattewa
+  - title: 〜に関わる
+    url: /jlpt/grammars/n1/nikakawaru
+  - title: 〜に限ったことではない
+    url: /jlpt/grammars/n1/nikagittakotodewanai
+  - title: 〜にかこつけて
+    url: /jlpt/grammars/n1/nikakotsukete
+  - title: 〜にかたくない
+    url: /jlpt/grammars/n1/nikatakunai
+  - title: 〜にかまけて
+    url: /jlpt/grammars/n1/nikamakete
+  - title: 〜にして
+    url: /jlpt/grammars/n1/nishite
+  - title: 〜に忍びない
+    url: /jlpt/grammars/n1/nishinobinai
+  - title: 〜に即して
+    url: /jlpt/grammars/n1/nisokushite
+  - title: 〜に堪える
+    url: /jlpt/grammars/n1/taeru-taenai
+  - title: 〜に足る
+    url: /jlpt/grammars/n1/nitaru
+  - title: 〜にとどまらず
+    url: /jlpt/grammars/n1/nitodomarazu
+  - title: 〜に則って
+    url: /jlpt/grammars/n1/ninottotte
+  - title: 〜にはあたらない
+    url: /jlpt/grammars/n1/niwaataranai
+  - title: 〜には及ばない
+    url: /jlpt/grammars/n1/niwaoyobanai
+  - title: 〜には無理がある
+    url: /jlpt/grammars/n1/niwamurigaaru
+  - title: 〜にひきかえ
+    url: /jlpt/grammars/n1/nihikikae
+  - title: 〜にもほどがある
+    url: /jlpt/grammars/n1/nimohodogaaru
+  - title: 〜にもまして
+    url: /jlpt/grammars/n1/nimomashite
+  - title: 〜に〜を重ねて
+    url: /jlpt/grammars/n1/wokasanete
+  - title: 〜ねばならない
+    url: /jlpt/grammars/n1/nebanaranai
+  - title: 〜の至り
+    url: /jlpt/grammars/n1/itari
+  - title: 〜の極み
+    url: /jlpt/grammars/n1/nokiwami
+  - title: 〜のやら
+    url: /jlpt/grammars/n1/noyara
+  - title: 〜はおろか
+    url: /jlpt/grammars/n1/waoroka
+  - title: 〜ばそれまでだ
+    url: /jlpt/grammars/n1/basoremadeda
+  - title: 〜びる
+    url: /jlpt/grammars/n1/biru
+  - title: 〜べからず
+    url: /jlpt/grammars/n1/bekarazu
+  - title: 〜べく
+    url: /jlpt/grammars/n1/beku
+  - title: 〜ほどのことではない
+    url: /jlpt/grammars/n1/hodonokotodehanai
+  - title: 〜まじき
+    url: /jlpt/grammars/n1/majiki
+  - title: 〜までだ
+    url: /jlpt/grammars/n1/madeda
+  - title: 〜までもない
+    url: /jlpt/grammars/n1/mademonai
+  - title: 〜まみれ
+    url: /jlpt/grammars/n1/mamire
+  - title: 〜めく
+    url: /jlpt/grammars/n1/meku
+  - title: 〜もさることながら
+    url: /jlpt/grammars/n1/mosarukotonagara
+  - title: 〜もそこそこに
+    url: /jlpt/grammars/n1/mosokosokoni
+  - title: 〜も同然だ
+    url: /jlpt/grammars/n1/modouzenda
+  - title: 〜ものを
+    url: /jlpt/grammars/n1/monowo
+  - title: 〜や否や
+    url: /jlpt/grammars/n1/yainaya
+  - title: 〜ゆえに
+    url: /jlpt/grammars/n1/yueni
+  - title: 〜よう
+    url: /jlpt/grammars/n1/you
+  - title: 〜ようが
+    url: /jlpt/grammars/n1/youga
+  - title: 〜ようにも〜ない
+    url: /jlpt/grammars/n1/younimo-nai
+  - title: 〜より
+    url: /jlpt/grammars/n1/yori
+  - title: 〜わ〜わで
+    url: /jlpt/grammars/n1/wa-wade
+  - title: 〜をおいて
+    url: /jlpt/grammars/n1/wooite
+  - title: 〜を押して
+    url: /jlpt/grammars/n1/wooshite-wooshikitte
+  - title: 〜を顧みず
+    url: /jlpt/grammars/n1/kaerimizu
+  - title: 〜を限りに
+    url: /jlpt/grammars/n1/wokagirini
+  - title: 〜を兼ねて
+    url: /jlpt/grammars/n1/wokanete
+  - title: 〜を皮切りに
+    url: /jlpt/grammars/n1/wokawakirini
+  - title: 〜を禁じ得ない
+    url: /jlpt/grammars/n1/wokinjienai
+  - title: 〜を境に
+    url: /jlpt/grammars/n1/sakaini
+  - title: 〜をもって（期限）
+    url: /jlpt/grammars/n1/womotte
+  - title: 〜をもって（手段・基準）
+    url: /jlpt/grammars/n1/womotte-2
+  - title: 〜をものともせず
+    url: /jlpt/grammars/n1/womonotomosezu
+  - title: 〜を踏まえて
+    url: /jlpt/grammars/n1/wofumaete
+  - title: 〜を経て
+    url: /jlpt/grammars/n1/hete
+  - title: 〜を余儀なくされる
+    url: /jlpt/grammars/n1/woyoginakusareru
+  - title: 〜をよそに
+    url: /jlpt/grammars/n1/woyosoni
+  - title: 〜んがために
+    url: /jlpt/grammars/n1/ngatameni
+  - title: 〜んばかりに
+    url: /jlpt/grammars/n1/nbakarini
+  title: N1
+- children:
+  - title: 〜あげく
+    url: /jlpt/grammars/n2/ageku
+  - title: 〜あまり
+    url: /jlpt/grammars/n2/amari
+  - title: あまりの〜に
+    url: /jlpt/grammars/n2/amarino-ni
+  - title: 〜以上は
+    url: /jlpt/grammars/n2/ijoowa
+  - title: 〜一方で
+    url: /jlpt/grammars/n2/ippode
+  - title: 〜以来
+    url: /jlpt/grammars/n2/irai
+  - title: 〜上で（〜てから）
+    url: /jlpt/grammars/n2/uede-3
+  - title: 〜上で（目的）
+    url: /jlpt/grammars/n2/uede-2
+  - title: 〜上は
+    url: /jlpt/grammars/n2/uewa
+  - title: 〜得る
+    url: /jlpt/grammars/n2/uru
+  - title: 〜折に
+    url: /jlpt/grammars/n2/orini
+  - title: 〜かいがあって
+    url: /jlpt/grammars/n2/kaigaatte
+  - title: 〜限り（限界）
+    url: /jlpt/grammars/n2/kagiri-2
+  - title: 〜限り（条件の範囲）
+    url: /jlpt/grammars/n2/kagiri
+  - title: 〜がたい
+    url: /jlpt/grammars/n2/gatai
+  - title: 〜かと思うと
+    url: /jlpt/grammars/n2/katoomouto
+  - title: 〜か〜ないかのうちに
+    url: /jlpt/grammars/n2/ka-naikanouchini
+  - title: 〜かねない
+    url: /jlpt/grammars/n2/kanenai
+  - title: 〜かねる
+    url: /jlpt/grammars/n2/kaneru
+  - title: 〜かのようだ
+    url: /jlpt/grammars/n2/kanoyouda
+  - title: 〜からいうと
+    url: /jlpt/grammars/n2/karaiuto
+  - title: 〜からして
+    url: /jlpt/grammars/n2/karashite
+  - title: 〜からすると
+    url: /jlpt/grammars/n2/karasuruto
+  - title: 〜からといって
+    url: /jlpt/grammars/n2/karatoitte
+  - title: 〜気味
+    url: /jlpt/grammars/n2/gimi
+  - title: 〜きり
+    url: /jlpt/grammars/n2/kiri
+  - title: 〜きり
+    url: /jlpt/grammars/n2/kiri2
+  - title: 〜くせに
+    url: /jlpt/grammars/n2/kuseni
+  - title: 〜くらいなら
+    url: /jlpt/grammars/n2/kurainara
+  - title: 〜げ
+    url: /jlpt/grammars/n2/ge
+  - title: 〜ことだ（助言・忠告）
+    url: /jlpt/grammars/n2/kotoda
+  - title: 〜ことだし
+    url: /jlpt/grammars/n2/kotodashi
+  - title: 〜ことなく
+    url: /jlpt/grammars/n2/kotonaku
+  - title: 〜ことだろう
+    url: /jlpt/grammars/n2/kotodarou
+  - title: 〜ことになると
+    url: /jlpt/grammars/n2/kotoninaruto
+  - title: 〜ことに（は）
+    url: /jlpt/grammars/n2/kotoni
+  - title: 〜ざるを得ない
+    url: /jlpt/grammars/n2/zaruoenai
+  - title: 〜次第
+    url: /jlpt/grammars/n2/shidai
+  - title: 〜次第だ
+    url: /jlpt/grammars/n2/shidaida
+  - title: 〜次第だ
+    url: /jlpt/grammars/n2/shidaida-2
+  - title: 〜末に
+    url: /jlpt/grammars/n2/sueni
+  - title: 〜ずじまい
+    url: /jlpt/grammars/n2/zujimai
+  - title: 〜ずにはいられない
+    url: /jlpt/grammars/n2/zuniwa-irarenai
+  - title: 〜そうにない
+    url: /jlpt/grammars/n2/sooninai
+  - title: 〜だけあって
+    url: /jlpt/grammars/n2/dakeatte
+  - title: 〜だけに
+    url: /jlpt/grammars/n2/dakeni
+  - title: 〜だけまし
+    url: /jlpt/grammars/n2/dakemashi
+  - title: 〜たて
+    url: /jlpt/grammars/n2/tate
+  - title: 〜たものではない
+    url: /jlpt/grammars/n2/tamonodewanai
+  - title: 〜っこない
+    url: /jlpt/grammars/n2/kkonai
+  - title: 〜つつ（同時進行）
+    url: /jlpt/grammars/n2/tsutsu
+  - title: 〜つつ（逆接）
+    url: /jlpt/grammars/n2/tsutsu-2
+  - title: 〜つつある
+    url: /jlpt/grammars/n2/tsutsuaru
+  - title: 〜っぽい
+    url: /jlpt/grammars/n2/ppoi
+  - title: 〜てこのかた
+    url: /jlpt/grammars/n2/tekonokata
+  - title: 〜てでも
+    url: /jlpt/grammars/n2/tedemo
+  - title: 〜てならない
+    url: /jlpt/grammars/n2/tenaranai
+  - title: 〜てはいられない
+    url: /jlpt/grammars/n2/tewairarenai
+  - title: 〜てはならない
+    url: /jlpt/grammars/n2/tenaranai
+  - title: 〜てまで
+    url: /jlpt/grammars/n2/temade
+  - title: 〜てみせる
+    url: /jlpt/grammars/n2/temiseru
+  - title: 〜というものではない
+    url: /jlpt/grammars/n2/toiumonodewanai
+  - title: 〜といった
+    url: /jlpt/grammars/n2/toitta
+  - title: 〜といったら
+    url: /jlpt/grammars/n2/toittara
+  - title: 〜とかで
+    url: /jlpt/grammars/n2/tokade
+  - title: 〜どころか
+    url: /jlpt/grammars/n2/dokoroka
+  - title: 〜ところだった
+    url: /jlpt/grammars/n2/tokorodatta
+  - title: 〜どころではない
+    url: /jlpt/grammars/n2/dokorojanai
+  - title: 〜として〜ない
+    url: /jlpt/grammars/n2/toshite-nai
+  - title: 〜とともに（相関関係）
+    url: /jlpt/grammars/n2/totomoni
+  - title: 〜となると
+    url: /jlpt/grammars/n2/tonaruto
+  - title: 〜とは（定義）
+    url: /jlpt/grammars/n2/towa
+  - title: 〜ないことには〜ない
+    url: /jlpt/grammars/n2/naikotowa-nai
+  - title: 〜ないことはない
+    url: /jlpt/grammars/n2/naikotowanai
+  - title: 〜ないで済む
+    url: /jlpt/grammars/n2/naidesumu
+  - title: 〜ないでもない
+    url: /jlpt/grammars/n2/naidemonai
+  - title: 〜ないとも限らない
+    url: /jlpt/grammars/n2/naitomokagiranai
+  - title: 〜ながら（逆説）
+    url: /jlpt/grammars/n2/nagara
+  - title: 〜なんて
+    url: /jlpt/grammars/n2/nante
+  - title: 〜にあたり
+    url: /jlpt/grammars/n2/niatari
+  - title: 〜に応じて
+    url: /jlpt/grammars/n2/oujite
+  - title: 〜に限って
+    url: /jlpt/grammars/n2/nikagitte
+  - title: 〜に限らず
+    url: /jlpt/grammars/n2/nikagirazu
+  - title: 〜に限り（限定）
+    url: /jlpt/grammars/n2/nikagiri
+  - title: 〜に加えて
+    url: /jlpt/grammars/n2/nikuwaete
+  - title: 〜に越したことはない
+    url: /jlpt/grammars/n2/nikoshitakotowanai
+  - title: 〜に応えて
+    url: /jlpt/grammars/n2/nikotaete
+  - title: 〜に際して
+    url: /jlpt/grammars/n2/nisaishite
+  - title: 〜に先立って
+    url: /jlpt/grammars/n2/sakidatte
+  - title: 〜に相違ない
+    url: /jlpt/grammars/n2/nisouinai
+  - title: 〜にしたら
+    url: /jlpt/grammars/n2/nishitara
+  - title: 〜にしては
+    url: /jlpt/grammars/n2/nishitewa
+  - title: 〜にすぎない
+    url: /jlpt/grammars/n2/nisuginai
+  - title: 〜に沿って
+    url: /jlpt/grammars/n2/nisotte
+  - title: 〜につき
+    url: /jlpt/grammars/n2/nitsuki
+  - title: 〜につけて
+    url: /jlpt/grammars/n2/nitsukete
+  - title: 〜にて
+    url: /jlpt/grammars/n2/nite
+  - title: 〜にともなって
+    url: /jlpt/grammars/n2/tomonatte
+  - title: 〜にほかならない
+    url: /jlpt/grammars/n2/hokanaranai
+  - title: 〜にも関わらず
+    url: /jlpt/grammars/n2/nimokakawarazu
+  - title: 〜に基づいて
+    url: /jlpt/grammars/n2/motoduite
+  - title: 〜ぬ
+    url: /jlpt/grammars/n2/nu
+  - title: 〜ぬきにして
+    url: /jlpt/grammars/n2/nukinishite
+  - title: 〜ぬく
+    url: /jlpt/grammars/n2/nuku
+  - title: 〜の上では
+    url: /jlpt/grammars/n2/jouno
+  - title: 〜のことだから
+    url: /jlpt/grammars/n2/nokotodakara
+  - title: 〜のもとで
+    url: /jlpt/grammars/n2/motode
+  - title: 〜のみならず
+    url: /jlpt/grammars/n2/nominarazu
+  - title: 〜ばかりか
+    url: /jlpt/grammars/n2/bakarika
+  - title: 〜ばかりだ
+    url: /jlpt/grammars/n2/bakarida
+  - title: 〜ばかりに
+    url: /jlpt/grammars/n2/bakarini
+  - title: 〜はさておき
+    url: /jlpt/grammars/n2/sateoki
+  - title: 〜はともかくとして
+    url: /jlpt/grammars/n2/tomokakutoshite
+  - title: 〜ぱなし
+    url: /jlpt/grammars/n2/ppanashi
+  - title: 〜はまだしも
+    url: /jlpt/grammars/n2/madashimo
+  - title: 〜はもとより
+    url: /jlpt/grammars/n2/motoyori
+  - title: 〜反面
+    url: /jlpt/grammars/n2/hanmen
+  - title: 〜ぶる
+    url: /jlpt/grammars/n2/buru
+  - title: 〜まい（否定の意志）
+    url: /jlpt/grammars/n2/mai
+  - title: 〜まい（否定の推量）
+    url: /jlpt/grammars/n2/mai1
+  - title: 〜ままに
+    url: /jlpt/grammars/n2/mamani
+  - title: 〜もかまわず
+    url: /jlpt/grammars/n2/kamawazu
+  - title: 〜もしない
+    url: /jlpt/grammars/n2/moshinai
+  - title: 〜ものか
+    url: /jlpt/grammars/n2/monoka
+  - title: 〜ものがある
+    url: /jlpt/grammars/n2/monogaaru
+  - title: 〜ものだ（感慨）
+    url: /jlpt/grammars/n2/monoda-kangai
+  - title: 〜ものだ（当然
+    url: /jlpt/grammars/n2/monoda
+  - title: 〜ものだから
+    url: /jlpt/grammars/n2/monodakara
+  - title: ～ものではない
+    url: /jlpt/grammars/n2/monodehanai
+  - title: 〜ものなら
+    url: /jlpt/grammars/n2/mononara
+  - title: 〜ものの
+    url: /jlpt/grammars/n2/monono
+  - title: 〜もん
+    url: /jlpt/grammars/n2/mon
+  - title: 〜やら〜やら
+    url: /jlpt/grammars/n2/yara-yara
+  - title: 〜ようとしている
+    url: /jlpt/grammars/n2/youtoshiteiru
+  - title: 〜ようものなら
+    url: /jlpt/grammars/n2/youmononara
+  - title: 〜を契機に
+    url: /jlpt/grammars/n2/keiki
+  - title: 〜を頼りに
+    url: /jlpt/grammars/n2/tayorini
+  - title: 〜を問わず
+    url: /jlpt/grammars/n2/towazu
+  - title: 〜を除いて
+    url: /jlpt/grammars/n2/nozoite
+  - title: 〜をはじめ
+    url: /jlpt/grammars/n2/hajime
+  - title: 〜をめぐって
+    url: /jlpt/grammars/n2/megutte
+  - title: 〜をもとに
+    url: /jlpt/grammars/n2/motonishite
+  - title: 〜んだから
+    url: /jlpt/grammars/n2/nodakara
+  title: N2
+- children:
+  - title: 〜合う
+    url: /jlpt/grammars/n3/au
+  - title: いくら〜ても
+    url: /jlpt/grammars/n3/ikura-temo
+  - title: 〜一方だ
+    url: /jlpt/grammars/n3/ippooda
+  - title: 〜上に
+    url: /jlpt/grammars/n3/ueni
+  - title: 〜うちに
+    url: /jlpt/grammars/n3/uchini
+  - title: 〜おかげで
+    url: /jlpt/grammars/n3/okagede
+  - title: 〜おきに
+    url: /jlpt/grammars/n3/okini
+  - title: 〜おそれがある
+    url: /jlpt/grammars/n3/osoregaaru
+  - title: お〜だ
+    url: /jlpt/grammars/n3/o-da
+  - title: 〜がきっかけで
+    url: /jlpt/grammars/n3/kikkake
+  - title: 〜かける
+    url: /jlpt/grammars/n3/kake
+  - title: 〜がち
+    url: /jlpt/grammars/n3/gachi
+  - title: 〜かな(あ)
+    url: /jlpt/grammars/n3/kana
+  - title: 〜から〜にかけて
+    url: /jlpt/grammars/n3/kara-nikakete
+  - title: 〜からには
+    url: /jlpt/grammars/n3/karaniwa
+  - title: 〜かわりに（代償・交換条件）
+    url: /jlpt/grammars/n3/kawarini
+  - title: 〜かわりに（代理・代用）
+    url: /jlpt/grammars/n3/kawarini
+  - title: 〜きる
+    url: /jlpt/grammars/n3/kiru
+  - title: 〜くらい（軽視）
+    url: /jlpt/grammars/n3/kurai
+  - title: 〜結果
+    url: /jlpt/grammars/n3/kekka
+  - title: 〜こそ
+    url: /jlpt/grammars/n3/koso
+  - title: 〜こと
+    url: /jlpt/grammars/n3/koto
+  - title: 〜ごとに
+    url: /jlpt/grammars/n3/gotoni
+  - title: 〜ことから
+    url: /jlpt/grammars/n3/kotokara
+  - title: 〜ことになっている
+    url: /jlpt/grammars/n3/kotoninatteiru
+  - title: 〜ことはない
+    url: /jlpt/grammars/n3/kotowanai
+  - title: 〜込む
+    url: /jlpt/grammars/n3/komu
+  - title: 〜最中に
+    url: /jlpt/grammars/n3/saichuuni
+  - title: 〜際に
+    url: /jlpt/grammars/n3/sai
+  - title: 〜さえ
+    url: /jlpt/grammars/n3/sae
+  - title: 〜さえ〜ば
+    url: /jlpt/grammars/n3/sae-ba
+  - title: 〜しかない
+    url: /jlpt/grammars/n3/shikanai-hokanai
+  - title: 〜じゃない？
+    url: /jlpt/grammars/n3/janai
+  - title: 〜ずに
+    url: /jlpt/grammars/n3/zuni
+  - title: 〜せいで
+    url: /jlpt/grammars/n3/seide
+  - title: 〜たがる
+    url: /jlpt/grammars/n3/tagaru
+  - title: 〜だけ
+    url: /jlpt/grammars/n3/dake
+  - title: 〜だけでなく・・・も
+    url: /jlpt/grammars/n3/dakedenaku
+  - title: たとえ〜ても
+    url: /jlpt/grammars/n3/tatoe-temo
+  - title: 〜たところ
+    url: /jlpt/grammars/n3/tatokoro-2
+  - title: 〜たびに
+    url: /jlpt/grammars/n3/tabini
+  - title: 〜ために（原因）
+    url: /jlpt/grammars/n3/tameni
+  - title: 〜たものだ
+    url: /jlpt/grammars/n3/monoda
+  - title: 〜だらけ
+    url: /jlpt/grammars/n3/darake
+  - title: 〜だろう
+    url: /jlpt/grammars/n3/darou
+  - title: （なんて）〜だろう
+    url: /jlpt/grammars/n3/daroo
+  - title: つい〜てしまう
+    url: /jlpt/grammars/n3/tsui
+  - title: ついでに
+    url: /jlpt/grammars/n3/tsuideni
+  - title: 〜っけ
+    url: /jlpt/grammars/n3/kke
+  - title: 〜つもりだ（実際とは異なる
+    url: /jlpt/grammars/n3/tsumorida
+  - title: （移動動詞）ている
+    url: /jlpt/grammars/n3/teiru
+  - title: 〜ている場合じゃない
+    url: /jlpt/grammars/n3/teirubaaijanai
+  - title: 〜てからでないと
+    url: /jlpt/grammars/n3/karadenaito
+  - title: 〜てしかたがない
+    url: /jlpt/grammars/n3/teshikataganai
+  - title: 〜て済む
+    url: /jlpt/grammars/n3/desumu
+  - title: 〜てたまらない
+    url: /jlpt/grammars/n3/tamaranai
+  - title: 〜てはいけないから
+    url: /jlpt/grammars/n3/tehaikenaikara
+  - title: 〜てはじめて
+    url: /jlpt/grammars/n3/tehajimete
+  - title: 〜ても構わない
+    url: /jlpt/grammars/n3/temokamawanai
+  - title: 〜てもしかたがない
+    url: /jlpt/grammars/n3/temoshikataganai
+  - title: 〜ても始まらない
+    url: /jlpt/grammars/n3/temohajimaranai
+  - title: 〜といえば
+    url: /jlpt/grammars/n3/toieba
+  - title: 〜ということだ（伝聞・結論）
+    url: /jlpt/grammars/n3/toiukotoda
+  - title: 〜というよりも
+    url: /jlpt/grammars/n3/toiuyorimo
+  - title: 〜といっても
+    url: /jlpt/grammars/n3/toittemo
+  - title: 〜通す
+    url: /jlpt/grammars/n3/toosu
+  - title: 〜とおりに
+    url: /jlpt/grammars/n3/toorini
+  - title: 〜とか〜とか
+    url: /jlpt/grammars/n3/toka-toka
+  - title: 〜としたら
+    url: /jlpt/grammars/n3/toshitara
+  - title: 〜として
+    url: /jlpt/grammars/n3/toshite
+  - title: 〜としても
+    url: /jlpt/grammars/n3/toshitemo
+  - title: 〜とたん
+    url: /jlpt/grammars/n3/totan
+  - title: 〜途中で
+    url: /jlpt/grammars/n3/tochuu
+  - title: 〜とともに（一緒）
+    url: /jlpt/grammars/n3/totomoni
+  - title: 〜とのことだ
+    url: /jlpt/grammars/n3/tonokotoda
+  - title: 〜とは限らない
+    url: /jlpt/grammars/n3/towakagiranai
+  - title: 〜とみえる
+    url: /jlpt/grammars/n3/tomieru
+  - title: 〜なあ
+    url: /jlpt/grammars/n3/naa
+  - title: 〜直す
+    url: /jlpt/grammars/n3/naosu
+  - title: 〜など
+    url: /jlpt/grammars/n3/nado
+  - title: 〜において
+    url: /jlpt/grammars/n3/nioite
+  - title: 〜に限る
+    url: /jlpt/grammars/n3/kagiru
+  - title: 〜にかけては
+    url: /jlpt/grammars/n3/nikaketewa
+  - title: 〜に代わって
+    url: /jlpt/grammars/n3/nikawatte
+  - title: 〜に関して
+    url: /jlpt/grammars/n3/nikanshite
+  - title: 〜に決まっている
+    url: /jlpt/grammars/n3/nikimatteiru
+  - title: 〜に比べて
+    url: /jlpt/grammars/n3/kurabete
+  - title: 〜にしたがって
+    url: /jlpt/grammars/n3/nishitagatte
+  - title: 〜にしても〜にしても
+    url: /jlpt/grammars/n3/nishitemo-nishitemo
+  - title: 〜に対して（対象・対比）
+    url: /jlpt/grammars/n3/nitaishite
+  - title: 〜に違いない
+    url: /jlpt/grammars/n3/nichigainai
+  - title: 〜について
+    url: /jlpt/grammars/n3/nitsuite
+  - title: 〜につき（比率）
+    url: /jlpt/grammars/n3/nitsuki
+  - title: 〜につれて
+    url: /jlpt/grammars/n3/nitsurete
+  - title: 〜にとって
+    url: /jlpt/grammars/n3/totte
+  - title: 〜には
+    url: /jlpt/grammars/n3/niwa
+  - title: 〜に反して
+    url: /jlpt/grammars/n3/hanshite
+  - title: 〜によって（手段・方法）
+    url: /jlpt/grammars/n3/niyotte
+  - title: 〜によって（対応）
+    url: /jlpt/grammars/n3/niyotte-2
+  - title: 〜によって（原因・理由）
+    url: /jlpt/grammars/n3/niyotte-3
+  - title: 〜によっては
+    url: /jlpt/grammars/n3/niyottewa
+  - title: 〜によると
+    url: /jlpt/grammars/n3/niyoruto
+  - title: 〜にわたって
+    url: /jlpt/grammars/n3/niwatatte
+  - title: 〜のでしょうか
+    url: /jlpt/grammars/n3/nodeshooka
+  - title: 数量 + は
+    url: /jlpt/grammars/n3/wa
+  - title: 〜場合
+    url: /jlpt/grammars/n3/baai
+  - title: 〜ばかりなく
+    url: /jlpt/grammars/n3/bakaridenaku
+  - title: 〜はずがない
+    url: /jlpt/grammars/n3/hazuganai
+  - title: 〜ば〜のに（反実仮想）
+    url: /jlpt/grammars/n3/ba-noni
+  - title: 〜は別として
+    url: /jlpt/grammars/n3/wabetsutoshite
+  - title: 〜はもちろん
+    url: /jlpt/grammars/n3/mochiron
+  - title: 〜ぶり
+    url: /jlpt/grammars/n3/buri
+  - title: 〜ふりをする
+    url: /jlpt/grammars/n3/furiwosuru
+  - title: 〜べきだ
+    url: /jlpt/grammars/n3/bekida
+  - title: 〜べきだった
+    url: /jlpt/grammars/n3/bekidatta
+  - title: 〜ほかない
+    url: /jlpt/grammars/n3/hokanai
+  - title: 〜ほど（相関関係）
+    url: /jlpt/grammars/n3/hodo
+  - title: 〜ほど（程度）
+    url: /jlpt/grammars/n3/hodo-2
+  - title: 〜ほど〜はない
+    url: /jlpt/grammars/n3/hodo-wanai
+  - title: まるで〜みたいだ（比喩）
+    url: /jlpt/grammars/n3/mitaida
+  - title: まるで〜ようだ （比喩）
+    url: /jlpt/grammars/n3/youda
+  - title: 〜向きに
+    url: /jlpt/grammars/n3/mukini
+  - title: 〜向けに
+    url: /jlpt/grammars/n3/mukeni
+  - title: 〜も〜ば〜も
+    url: /jlpt/grammars/n3/mo-ba-mo
+  - title: 〜ようがない
+    url: /jlpt/grammars/n3/yooganai
+  - title: 〜ようとする
+    url: /jlpt/grammars/n3/youtosuru
+  - title: 連用中止
+    url: /jlpt/grammars/n3/renyoochuushi
+  - title: 〜わけがない
+    url: /jlpt/grammars/n3/wakeganai
+  - title: 〜わけだ
+    url: /jlpt/grammars/n3/wakeda
+  - title: 〜わけではない
+    url: /jlpt/grammars/n3/wakedewanai
+  - title: 〜わけにはいかない
+    url: /jlpt/grammars/n3/wakeniwaikanai
+  - title: 〜わりに
+    url: /jlpt/grammars/n3/warini
+  - title: 〜を込めて
+    url: /jlpt/grammars/n3/wokomete
+  - title: 〜を中心に
+    url: /jlpt/grammars/n3/chuushinni
+  - title: 〜を通して
+    url: /jlpt/grammars/n3/tooshite
+  - title: 〜を通して
+    url: /jlpt/grammars/n3/tooshite-2
+  title: N3
+- children:
+  - title: 〜間
+    url: /jlpt/grammars/n4/aida
+  - title: 〜間に
+    url: /jlpt/grammars/n4/aidani
+  - title: 〜終わる
+    url: /jlpt/grammars/n4/owaru
+  - title: （疑問詞）〜か
+    url: /jlpt/grammars/n4/ka
+  - title: 〜がする
+    url: /jlpt/grammars/n4/gasuru
+  - title: 〜かどうか
+    url: /jlpt/grammars/n4/kadouka
+  - title: 〜かもしれない
+    url: /jlpt/grammars/n4/kamoshirenai
+  - title: 〜ことがある
+    url: /jlpt/grammars/n4/kotogaaru
+  - title: 〜ことにする
+    url: /jlpt/grammars/n4/kotonisuru
+  - title: 〜ことになる
+    url: /jlpt/grammars/n4/kotoninaru
+  - title: 〜させてください
+    url: /jlpt/grammars/n4/sasetekudasai
+  - title: 〜しか〜ない
+    url: /jlpt/grammars/n4/shika
+  - title: 〜し、〜し
+    url: /jlpt/grammars/n4/shi-shi
+  - title: 〜すぎる
+    url: /jlpt/grammars/n4/sugiru
+  - title: （形容詞）する
+    url: /jlpt/grammars/n4/adjective-suru
+  - title: 〜そうです（直前）
+    url: /jlpt/grammars/n4/soudesu-3
+  - title: 〜そうです（伝聞）
+    url: /jlpt/grammars/n4/soudesu
+  - title: 〜そうです（様態）
+    url: /jlpt/grammars/n4/soudesu-2
+  - title: 〜出す
+    url: /jlpt/grammars/n4/dasu
+  - title: 〜たばかり
+    url: /jlpt/grammars/n4/tabakari
+  - title: 〜ために
+    url: /jlpt/grammars/n4/tameni
+  - title: 〜たらいいですか
+    url: /jlpt/grammars/n4/taraiidesuka
+  - title: 〜たらどうですか
+    url: /jlpt/grammars/n4/taradoodesuka
+  - title: 〜続ける
+    url: /jlpt/grammars/n4/tsudukeru
+  - title: 〜って
+    url: /jlpt/grammars/n4/tte
+  - title: 〜つもりだ
+    url: /jlpt/grammars/n4/tsumorida
+  - title: 〜て（理由・原因）
+    url: /jlpt/grammars/n4/de
+  - title: 〜てある
+    url: /jlpt/grammars/n4/tearu
+  - title: （自動詞）ている
+    url: /jlpt/grammars/n4/teiru
+  - title: 〜ていく
+    url: /jlpt/grammars/n4/teiku
+  - title: 〜ておく
+    url: /jlpt/grammars/n4/teoku
+  - title: 〜ていただけませんか
+    url: /jlpt/grammars/n4/teitadakemasenka
+  - title: 〜てくる（変化・移動）
+    url: /jlpt/grammars/n4/tekuru-change
+  - title: 〜てくる（行って戻る）
+    url: /jlpt/grammars/n4/tekuru
+  - title: 〜てしまう
+    url: /jlpt/grammars/n4/teshimau
+  - title: 〜でしょう
+    url: /jlpt/grammars/n4/deshou
+  - title: 〜てみる
+    url: /jlpt/grammars/n4/temiru
+  - title: 〜ても
+    url: /jlpt/grammars/n4/temo
+  - title: 〜と
+    url: /jlpt/grammars/n4/to
+  - title: 〜ところだ
+    url: /jlpt/grammars/n4/tokoroda
+  - title: 〜という
+    url: /jlpt/grammars/n4/toiu
+  - title: なかなか〜ない
+    url: /jlpt/grammars/n4/nakanaka-nai
+  - title: 〜なさい
+    url: /jlpt/grammars/n4/nasai
+  - title: 〜なら
+    url: /jlpt/grammars/n4/nara
+  - title: 〜にくい
+    url: /jlpt/grammars/n4/nikui
+  - title: 〜にする
+    url: /jlpt/grammars/n4/nisuru
+  - title: 〜ので
+    url: /jlpt/grammars/n4/node
+  - title: 〜のに
+    url: /jlpt/grammars/n4/noni
+  - title: 〜のは〜です
+    url: /jlpt/grammars/n4/nowa-desu
+  - title: 〜ば
+    url: /jlpt/grammars/n4/ba
+  - title: 〜は〜が、〜は（対比）
+    url: /jlpt/grammars/n4/wa-ga-wa
+  - title: 〜ばかり
+    url: /jlpt/grammars/n4/bakari
+  - title: 〜はずだ
+    url: /jlpt/grammars/n4/hazuda
+  - title: 〜始める
+    url: /jlpt/grammars/n4/hajimeru
+  - title: 〜必要がある
+    url: /jlpt/grammars/n4/hitsuyougaaru
+  - title: 〜ほうがいい
+    url: /jlpt/grammars/n4/hougaii
+  - title: 〜ほど〜ない（比較）
+    url: /jlpt/grammars/n4/hodo-nai
+  - title: まだ〜ていない
+    url: /jlpt/grammars/n4/mada-teinai
+  - title: 〜までに
+    url: /jlpt/grammars/n4/madeni
+  - title: 〜まま
+    url: /jlpt/grammars/n4/mama
+  - title: 〜みたいだ（推量）
+    url: /jlpt/grammars/n4/mitaida
+  - title: 〜みたいな
+    url: /jlpt/grammars/n4/mitaina
+  - title: 数量 + も
+    url: /jlpt/grammars/n4/mo
+  - title: 〜やすい
+    url: /jlpt/grammars/n4/yasui
+  - title: 〜ようだ（推量）
+    url: /jlpt/grammars/n4/youda
+  - title: 〜ようと思う
+    url: /jlpt/grammars/n4/youtoomou
+  - title: 〜ようと思っている
+    url: /jlpt/grammars/n4/youtoomotteiru
+  - title: 〜ような
+    url: /jlpt/grammars/n4/youna
+  - title: 〜ように（目標・期待）
+    url: /jlpt/grammars/n4/yooni
+  - title: 〜ようにしている
+    url: /jlpt/grammars/n4/-younishiteiru
+  - title: 〜ようにする
+    url: /jlpt/grammars/n4/younisuru
+  - title: 〜ようになる
+    url: /jlpt/grammars/n4/youninaru-nakunaru
+  - title: 〜予定だ
+    url: /jlpt/grammars/n4/yoteida
+  - title: 〜らしい（推量）
+    url: /jlpt/grammars/n4/rashii2
+  - title: 〜らしい（典型）
+    url: /jlpt/grammars/n4/rashii
+  title: N4
+- children:
+  - title: 〜あとで
+    url: /jlpt/grammars/n5/atode
+  - title: あまり〜ない
+    url: /jlpt/grammars/n5/amari-nai
+  - title: 〜がいちばん
+    url: /jlpt/grammars/n5/gaichiban
+  - title: 〜方
+    url: /jlpt/grammars/n5/kata
+  - title: 〜が欲しい
+    url: /jlpt/grammars/n5/gahoshii
+  - title: 〜から
+    url: /jlpt/grammars/n5/kara
+  - title: ぜひ
+    url: /jlpt/grammars/n5/zehi
+  - title: 〜だけ
+    url: /jlpt/grammars/n5/dake
+  - title: 〜で（手段・方法）
+    url: /jlpt/grammars/n5/de
+  - title: 〜てから
+    url: /jlpt/grammars/n5/tekara
+  - title: 〜でしょう（確認・同意
+    url: /jlpt/grammars/n5/deshou
+  - title: 〜てはいけない
+    url: /jlpt/grammars/n5/tewaikemasen
+  - title: 〜てもいいですか
+    url: /jlpt/grammars/n5/temoiidesuka
+  - title: 〜どうやって
+    url: /jlpt/grammars/n5/douyatte
+  - title: 〜と思う
+    url: /jlpt/grammars/n5/toomou
+  - title: とても
+    url: /jlpt/grammars/n5/toteomo
+  - title: どんな
+    url: /jlpt/grammars/n5/donna
+  - title: 〜たい
+    url: /jlpt/grammars/n5/tai
+  - title: 〜たり〜たり
+    url: /jlpt/grammars/n5/taritari
+  - title: 〜とき
+    url: /jlpt/grammars/n5/toki
+  - title: 〜ないで
+    url: /jlpt/grammars/n5/naide
+  - title: 〜ないでください
+    url: /jlpt/grammars/n5/naidekudasai
+  - title: 〜ながら
+    url: /jlpt/grammars/n5/nagara
+  - title: 〜なくてもいい
+    url: /jlpt/grammars/n5/nakutemoii
+  - title: 〜なければならない
+    url: /jlpt/grammars/n5/nakerebanaranai
+  - title: 〜なる
+    url: /jlpt/grammars/n5/naru
+  - title: （目的）に行く
+    url: /jlpt/grammars/n5/niikimasu
+  - title: 〜はどうですか
+    url: /jlpt/grammars/n5/wadoudesuka
+  - title: 〜は〜より
+    url: /jlpt/grammars/n5/yori
+  - title: 〜前に
+    url: /jlpt/grammars/n5/maeni
+  - title: 〜ましょう
+    url: /jlpt/grammars/n5/masho
+  - title: 〜ましょうか
+    url: /jlpt/grammars/n5/mashouka
+  - title: 〜ませんか
+    url: /jlpt/grammars/n5/masenka
+  - title: もう〜した
+    url: /jlpt/grammars/n5/mou-mashita
+  - title: 〜をください
+    url: /jlpt/grammars/n5/wokudasai
+  title: N5
+- children:
+  - title: 〜すぎです
+    url: /jlpt/grammars/n0/sugidesu
+  - title: 〜でも
+    url: /jlpt/grammars/n0/demo
+  - title: 〜づらい
+    url: /jlpt/grammars/n0/durai
+  - title: とても〜ない
+    url: /jlpt/grammars/n0/totemo-nai
+  - title: 〜並み
+    url: /jlpt/grammars/n0/nami
+  - title: 〜にかけても
+    url: /jlpt/grammars/n0/nikaketemo
+  - title: 〜まくる
+    url: /jlpt/grammars/n0/makuru
+  - title: 〜やつ
+    url: /jlpt/grammars/n0/yatsu
+  title: N0
+jumpstart:
+- children:
+  - title: 自学经验
+    url: /japanese/how-to-learn-japanese-efficently-and-effectively/
+  title: 学习技巧
+- children:
+  - title: 日语文字起源
+    url: /japanese/kanji-kata-origin/
+  title: 五十音入门
+main:
+- title: 最新文章
+  url: /
+- title: 日语入门
+  url: /jumpstart
+- title: JLPT语法
+  url: /jlpt/grammars
+- title: JLPT真题
+  url: /jlpt/exams
+- title: 日语谚语
+  url: /proverbs/
+- title: 生活日语
+  url: /daily/
+- title: 学习资料
+  url: /study-materials/
+- title: 关于
+  url: /about/
+proverbs:
+- children:
+  - title: 頭隠して尻隠さず
+    url: /proverbs/atamakakushite-shirikakusazu/
+  title: ことわざ

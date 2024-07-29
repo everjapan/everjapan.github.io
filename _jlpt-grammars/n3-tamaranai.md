@@ -1,5 +1,6 @@
 ---
 title: 〜てたまらない
+layout: grammar
 permalink: /jlpt/grammars/n3/tamaranai
 level: N3
 ---

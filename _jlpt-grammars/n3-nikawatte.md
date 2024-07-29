@@ -1,5 +1,6 @@
 ---
 title: 〜に代わって
+layout: grammar
 permalink: /jlpt/grammars/n3/nikawatte
 level: N3
 ---

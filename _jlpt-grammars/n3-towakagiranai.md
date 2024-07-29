@@ -1,5 +1,6 @@
 ---
 title: 〜とは限らない
+layout: grammar
 permalink: /jlpt/grammars/n3/towakagiranai
 level: N3
 ---

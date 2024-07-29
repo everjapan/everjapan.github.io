@@ -1,5 +1,6 @@
 ---
 title: 〜をはじめ
+layout: grammar
 permalink: /jlpt/grammars/n2/hajime
 level: N2
 ---

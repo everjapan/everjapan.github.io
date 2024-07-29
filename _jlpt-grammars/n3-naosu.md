@@ -1,5 +1,6 @@
 ---
 title: 〜直す
+layout: grammar
 permalink: /jlpt/grammars/n3/naosu
 level: N3
 ---

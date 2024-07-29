@@ -1,5 +1,6 @@
 ---
 title: 〜ことはない
+layout: grammar
 permalink: /jlpt/grammars/n3/kotowanai
 level: N3
 ---

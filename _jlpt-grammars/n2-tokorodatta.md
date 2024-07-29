@@ -1,5 +1,6 @@
 ---
 title: 〜ところだった
+layout: grammar
 permalink: /jlpt/grammars/n2/tokorodatta
 level: N2
 ---

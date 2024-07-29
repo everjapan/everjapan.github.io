@@ -1,5 +1,6 @@
 ---
 title: 〜ようにする
+layout: grammar
 permalink: /jlpt/grammars/n4/younisuru
 level: N4
 ---

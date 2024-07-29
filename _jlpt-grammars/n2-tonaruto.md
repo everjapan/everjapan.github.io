@@ -1,5 +1,6 @@
 ---
 title: 〜となると / 〜となれば / 〜となったら
+layout: grammar
 permalink: /jlpt/grammars/n2/tonaruto
 level: N2
 ---

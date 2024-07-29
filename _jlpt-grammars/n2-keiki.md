@@ -1,5 +1,6 @@
 ---
 title: 〜を契機に / 〜を契機として
+layout: grammar
 permalink: /jlpt/grammars/n2/keiki
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜方
+layout: grammar
 permalink: /jlpt/grammars/n5/kata
 level: N5
 ---

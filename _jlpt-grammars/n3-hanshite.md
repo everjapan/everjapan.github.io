@@ -1,5 +1,6 @@
 ---
 title: 〜に反して / 〜に反する
+layout: grammar
 permalink: /jlpt/grammars/n3/hanshite
 level: N3
 ---

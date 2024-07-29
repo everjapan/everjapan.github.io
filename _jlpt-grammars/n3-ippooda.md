@@ -1,5 +1,6 @@
 ---
 title: 〜一方だ
+layout: grammar
 permalink: /jlpt/grammars/n3/ippooda
 level: N3
 ---

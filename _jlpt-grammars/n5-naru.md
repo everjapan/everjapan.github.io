@@ -1,5 +1,6 @@
 ---
 title: 〜なる
+layout: grammar
 permalink: /jlpt/grammars/n5/naru
 level: N5
 ---

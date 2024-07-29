@@ -1,5 +1,6 @@
 ---
 title: 〜ながら（逆説）
+layout: grammar
 permalink: /jlpt/grammars/n2/nagara
 level: N2
 ---

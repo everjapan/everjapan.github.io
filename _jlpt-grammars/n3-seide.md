@@ -1,5 +1,6 @@
 ---
 title: 〜せいで
+layout: grammar
 permalink: /jlpt/grammars/n3/seide
 level: N3
 ---

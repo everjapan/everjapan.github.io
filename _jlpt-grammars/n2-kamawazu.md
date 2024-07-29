@@ -1,5 +1,6 @@
 ---
 title: 〜もかまわず
+layout: grammar
 permalink: /jlpt/grammars/n2/kamawazu
 level: N2
 ---

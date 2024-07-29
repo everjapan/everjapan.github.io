@@ -1,5 +1,6 @@
 ---
 title: 〜を頼りに / 〜を頼りとして
+layout: grammar
 permalink: /jlpt/grammars/n2/tayorini
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜を押して / 〜を押し切って
+layout: grammar
 permalink: /jlpt/grammars/n1/wooshite-wooshikitte
 level: N1
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜ことだし
+layout: grammar
 permalink: /jlpt/grammars/n2/kotodashi
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜ぬきにして / 〜ぬきで
+layout: grammar
 permalink: /jlpt/grammars/n2/nukinishite
 level: N2
 ---

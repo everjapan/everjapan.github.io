@@ -1,5 +1,6 @@
 ---
 title: 〜てある
+layout: grammar
 permalink: /jlpt/grammars/n4/tearu
 level: N4
 ---

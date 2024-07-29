@@ -1,5 +1,6 @@
 ---
 title: 〜にとって
+layout: grammar
 permalink: /jlpt/grammars/n3/totte
 level: N3
 ---

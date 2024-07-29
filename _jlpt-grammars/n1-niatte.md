@@ -1,5 +1,6 @@
 ---
 title: 〜にあって
+layout: grammar
 permalink: /jlpt/grammars/n1/niatte
 level: N1
 ---

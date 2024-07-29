@@ -1,5 +1,6 @@
 ---
 title: 〜きっての
+layout: grammar
 permalink: /jlpt/grammars/n1/kitteno
 level: N1
 ---

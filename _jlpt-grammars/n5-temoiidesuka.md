@@ -1,5 +1,6 @@
 ---
 title: 〜てもいいですか
+layout: grammar
 permalink: /jlpt/grammars/n5/temoiidesuka
 level: N5
 ---

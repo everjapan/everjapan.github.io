@@ -1,5 +1,6 @@
 ---
 title: 〜を限りに
+layout: grammar
 permalink: /jlpt/grammars/n1/wokagirini
 level: N1
 ---

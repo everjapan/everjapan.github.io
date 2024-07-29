@@ -1,5 +1,6 @@
 ---
 title: 〜ば〜のに（反実仮想）
+layout: grammar
 permalink: /jlpt/grammars/n3/ba-noni
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜ませんか
+layout: grammar
 permalink: /jlpt/grammars/n5/masenka
 level: N5
 ---

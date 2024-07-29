@@ -1,5 +1,6 @@
 ---
 title: 〜か〜ないかのうちに
+layout: grammar
 permalink: /jlpt/grammars/n2/ka-naikanouchini
 level: N2
 ---

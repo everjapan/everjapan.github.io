@@ -1,5 +1,6 @@
 ---
 title: 〜など / なんて / なんか
+layout: grammar
 permalink: /jlpt/grammars/n3/nado
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜ようがない
+layout: grammar
 permalink: /jlpt/grammars/n3/yooganai
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜だけあって / 〜だけのことはあって
+layout: grammar
 permalink: /jlpt/grammars/n2/dakeatte
 level: N2
 ---

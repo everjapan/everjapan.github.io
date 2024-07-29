@@ -1,5 +1,6 @@
 ---
 title: 〜みたいな / 〜みたいに（例示）
+layout: grammar
 permalink: /jlpt/grammars/n4/mitaina
 level: N4
 ---

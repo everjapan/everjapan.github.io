@@ -1,5 +1,6 @@
 ---
 title: 〜きり
+layout: grammar
 permalink: /jlpt/grammars/n2/kiri
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜にて
+layout: grammar
 permalink: /jlpt/grammars/n2/nite
 level: N2
 ---

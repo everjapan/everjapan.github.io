@@ -1,5 +1,6 @@
 ---
 title: 〜わけがない
+layout: grammar
 permalink: /jlpt/grammars/n3/wakeganai
 level: N3
 ---

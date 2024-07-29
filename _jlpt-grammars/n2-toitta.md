@@ -1,5 +1,6 @@
 ---
 title: 〜といった
+layout: grammar
 permalink: /jlpt/grammars/n2/toitta
 level: N2
 ---

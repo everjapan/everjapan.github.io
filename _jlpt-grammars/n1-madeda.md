@@ -1,5 +1,6 @@
 ---
 title: 〜までだ / 〜までのことだ
+layout: grammar
 permalink: /jlpt/grammars/n1/madeda
 level: N1
 ---

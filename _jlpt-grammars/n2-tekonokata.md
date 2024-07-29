@@ -1,5 +1,6 @@
 ---
 title: 〜てこのかた
+layout: grammar
 permalink: /jlpt/grammars/n2/tekonokata
 level: N2
 ---

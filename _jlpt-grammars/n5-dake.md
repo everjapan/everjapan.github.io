@@ -1,5 +1,6 @@
 ---
 title: 〜だけ
+layout: grammar
 permalink: /jlpt/grammars/n5/dake
 level: N5
 ---

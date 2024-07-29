@@ -1,5 +1,6 @@
 ---
 title: 〜ところを
+layout: grammar
 permalink: /jlpt/grammars/n1/tokoro
 level: N1
 ---

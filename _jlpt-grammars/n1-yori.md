@@ -1,5 +1,6 @@
 ---
 title: 〜より
+layout: grammar
 permalink: /jlpt/grammars/n1/yori
 level: N1
 ---

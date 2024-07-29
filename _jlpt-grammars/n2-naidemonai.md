@@ -1,5 +1,6 @@
 ---
 title: 〜ないでもない / 〜ないものでもない
+layout: grammar
 permalink: /jlpt/grammars/n2/naidemonai
 level: N2
 ---

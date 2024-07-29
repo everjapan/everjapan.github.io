@@ -1,5 +1,6 @@
 ---
 title: 〜あまり
+layout: grammar
 permalink: /jlpt/grammars/n2/amari
 level: N2
 ---

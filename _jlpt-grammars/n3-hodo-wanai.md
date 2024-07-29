@@ -1,5 +1,6 @@
 ---
 title: 〜ほど〜はない
+layout: grammar
 permalink: /jlpt/grammars/n3/hodo-wanai
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜ようと思っている
+layout: grammar
 permalink: /jlpt/grammars/n4/youtoomotteiru
 level: N4
 ---

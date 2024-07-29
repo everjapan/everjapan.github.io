@@ -1,5 +1,6 @@
 ---
 title: 〜折に
+layout: grammar
 permalink: /jlpt/grammars/n2/orini
 level: N2
 ---

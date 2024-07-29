@@ -1,5 +1,6 @@
 ---
 title: 〜込む
+layout: grammar
 permalink: /jlpt/grammars/n3/komu
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜ように（目標・期待）
+layout: grammar
 permalink: /jlpt/grammars/n4/yooni
 level: N4
 ---

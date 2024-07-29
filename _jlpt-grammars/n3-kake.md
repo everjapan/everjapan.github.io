@@ -1,5 +1,6 @@
 ---
 title: 〜かける / 〜かけの
+layout: grammar
 permalink: /jlpt/grammars/n3/kake
 level: N3
 ---

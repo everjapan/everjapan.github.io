@@ -1,5 +1,6 @@
 ---
 title: 〜はさておき
+layout: grammar
 permalink: /jlpt/grammars/n2/sateoki
 level: N2
 ---

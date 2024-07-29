@@ -1,5 +1,6 @@
 ---
 title: 〜とあれば
+layout: grammar
 permalink: /jlpt/grammars/n1/toareba
 level: N1
 ---

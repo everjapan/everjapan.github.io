@@ -1,5 +1,6 @@
 ---
 title: 〜で（手段・方法）
+layout: grammar
 permalink: /jlpt/grammars/n5/de
 level: N5
 ---

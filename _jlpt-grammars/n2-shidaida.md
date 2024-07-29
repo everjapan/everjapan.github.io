@@ -1,5 +1,6 @@
 ---
 title: 〜次第だ / 〜次第で
+layout: grammar
 permalink: /jlpt/grammars/n2/shidaida
 level: N2
 ---

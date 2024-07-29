@@ -1,5 +1,6 @@
 ---
 title: 〜なら
+layout: grammar
 permalink: /jlpt/grammars/n4/nara
 level: N4
 ---

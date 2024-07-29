@@ -1,5 +1,6 @@
 ---
 title: 〜を余儀なくされる
+layout: grammar
 permalink: /jlpt/grammars/n1/woyoginakusareru
 level: N1
 ---

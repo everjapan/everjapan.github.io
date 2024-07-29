@@ -1,5 +1,6 @@
 ---
 title: 〜てからでないと
+layout: grammar
 permalink: /jlpt/grammars/n3/karadenaito
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜にかこつけて
+layout: grammar
 permalink: /jlpt/grammars/n1/nikakotsukete
 level: N1
 ---

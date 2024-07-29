@@ -1,5 +1,6 @@
 ---
 title: 〜あとで
+layout: grammar
 permalink: /jlpt/grammars/n5/atode
 level: N5
 ---

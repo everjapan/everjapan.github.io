@@ -1,5 +1,6 @@
 ---
 title: 〜間に
+layout: grammar
 permalink: /jlpt/grammars/n4/aidani
 level: N4
 ---

@@ -1,5 +1,6 @@
 ---
 title: （疑問詞）〜か
+layout: grammar
 permalink: /jlpt/grammars/n4/ka
 level: N4
 ---

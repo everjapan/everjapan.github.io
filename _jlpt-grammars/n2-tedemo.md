@@ -1,5 +1,6 @@
 ---
 title: 〜てでも
+layout: grammar
 permalink: /jlpt/grammars/n2/tedemo
 level: N2
 ---

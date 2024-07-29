@@ -1,5 +1,6 @@
 ---
 title: 〜でしょう（確認・同意
+layout: grammar
 permalink: /jlpt/grammars/n5/deshou
 level: N5
 ---

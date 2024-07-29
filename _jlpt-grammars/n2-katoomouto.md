@@ -1,5 +1,6 @@
 ---
 title: 〜かと思うと / 〜かと思ったら
+layout: grammar
 permalink: /jlpt/grammars/n2/katoomouto
 level: N2
 ---

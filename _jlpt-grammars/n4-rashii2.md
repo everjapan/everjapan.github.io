@@ -1,5 +1,6 @@
 ---
 title: 〜らしい（推量）
+layout: grammar
 permalink: /jlpt/grammars/n4/rashii2
 level: N4
 ---

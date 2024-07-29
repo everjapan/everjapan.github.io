@@ -1,5 +1,6 @@
 ---
 title: 〜とはいえ
+layout: grammar
 permalink: /jlpt/grammars/n1/towaie
 level: N1
 ---

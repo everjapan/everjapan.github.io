@@ -1,5 +1,6 @@
 ---
 title: 〜にしたら / 〜にすれば / 〜にしてみたら
+layout: grammar
 permalink: /jlpt/grammars/n2/nishitara
 level: N2
 ---

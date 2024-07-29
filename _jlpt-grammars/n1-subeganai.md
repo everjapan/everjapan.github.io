@@ -1,5 +1,6 @@
 ---
 title: 〜術がない
+layout: grammar
 permalink: /jlpt/grammars/n1/subeganai
 level: N1
 ---

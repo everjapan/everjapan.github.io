@@ -1,5 +1,6 @@
 ---
 title: 〜といっても
+layout: grammar
 permalink: /jlpt/grammars/n3/toittemo
 level: N3
 ---

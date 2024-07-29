@@ -1,5 +1,6 @@
 ---
 title: 〜ずくめ
+layout: grammar
 permalink: /jlpt/grammars/n1/zukume
 level: N1
 ---

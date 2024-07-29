@@ -1,5 +1,6 @@
 ---
 title: 〜たばかり
+layout: grammar
 permalink: /jlpt/grammars/n4/tabakari
 level: N4
 ---

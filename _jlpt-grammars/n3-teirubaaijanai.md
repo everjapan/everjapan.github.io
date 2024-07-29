@@ -1,5 +1,6 @@
 ---
 title: 〜ている場合じゃない
+layout: grammar
 permalink: /jlpt/grammars/n3/teirubaaijanai
 level: N3
 ---

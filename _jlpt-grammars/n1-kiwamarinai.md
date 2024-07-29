@@ -1,5 +1,6 @@
 ---
 title: 〜極まりない
+layout: grammar
 permalink: /jlpt/grammars/n1/kiwamarinai
 level: N1
 ---

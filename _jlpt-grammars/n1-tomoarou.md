@@ -1,5 +1,6 @@
 ---
 title: 〜ともあろう
+layout: grammar
 permalink: /jlpt/grammars/n1/tomoarou
 level: N1
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜たらどうですか
+layout: grammar
 permalink: /jlpt/grammars/n4/taradoodesuka
 level: N4
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜だらけ
+layout: grammar
 permalink: /jlpt/grammars/n3/darake
 level: N3
 ---

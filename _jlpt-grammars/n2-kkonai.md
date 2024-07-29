@@ -1,5 +1,6 @@
 ---
 title: 〜っこない
+layout: grammar
 permalink: /jlpt/grammars/n2/kkonai
 level: N2
 ---

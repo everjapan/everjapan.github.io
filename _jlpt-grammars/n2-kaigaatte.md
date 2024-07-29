@@ -1,5 +1,6 @@
 ---
 title: 〜かいがあって / 〜かいもなく
+layout: grammar
 permalink: /jlpt/grammars/n2/kaigaatte
 level: N2
 ---

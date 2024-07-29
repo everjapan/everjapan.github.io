@@ -1,5 +1,6 @@
 ---
 title: 〜には
+layout: grammar
 permalink: /jlpt/grammars/n3/niwa
 level: N3
 ---

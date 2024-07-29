@@ -1,5 +1,6 @@
 ---
 title: 〜まま
+layout: grammar
 permalink: /jlpt/grammars/n4/mama
 level: N4
 ---

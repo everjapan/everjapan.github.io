@@ -1,5 +1,6 @@
 ---
 title: 〜つ〜つ
+layout: grammar
 permalink: /jlpt/grammars/n1/tsu-tsu
 level: N1
 ---

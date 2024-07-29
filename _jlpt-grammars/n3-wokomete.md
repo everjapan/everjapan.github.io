@@ -1,5 +1,6 @@
 ---
 title: 〜を込めて
+layout: grammar
 permalink: /jlpt/grammars/n3/wokomete
 level: N3
 ---

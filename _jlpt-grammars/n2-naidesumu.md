@@ -1,5 +1,6 @@
 ---
 title: 〜ないで済む / 〜ずに済む
+layout: grammar
 permalink: /jlpt/grammars/n2/naidesumu
 level: N2
 ---

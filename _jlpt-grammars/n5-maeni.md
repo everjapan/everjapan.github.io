@@ -1,5 +1,6 @@
 ---
 title: 〜前に
+layout: grammar
 permalink: /jlpt/grammars/n5/maeni
 level: N5
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜めく
+layout: grammar
 permalink: /jlpt/grammars/n1/meku
 level: N1
 ---

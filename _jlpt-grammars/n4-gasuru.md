@@ -1,5 +1,6 @@
 ---
 title: 〜がする
+layout: grammar
 permalink: /jlpt/grammars/n4/gasuru
 level: N4
 ---

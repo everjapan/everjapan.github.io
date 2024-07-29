@@ -1,5 +1,6 @@
 ---
 title: 〜てはいられない
+layout: grammar
 permalink: /jlpt/grammars/n2/tewairarenai
 level: N2
 ---

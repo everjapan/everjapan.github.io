@@ -1,5 +1,6 @@
 ---
 title: 〜べく
+layout: grammar
 permalink: /jlpt/grammars/n1/beku
 level: N1
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜そうです（直前）
+layout: grammar
 permalink: /jlpt/grammars/n4/soudesu-3
 level: N4
 ---

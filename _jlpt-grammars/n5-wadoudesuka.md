@@ -1,5 +1,6 @@
 ---
 title: 〜はどうですか
+layout: grammar
 permalink: /jlpt/grammars/n5/wadoudesuka
 level: N5
 ---

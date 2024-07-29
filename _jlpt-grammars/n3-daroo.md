@@ -1,5 +1,6 @@
 ---
 title: （なんて）〜だろう
+layout: grammar
 permalink: /jlpt/grammars/n3/daroo
 level: N3
 ---

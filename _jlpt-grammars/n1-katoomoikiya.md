@@ -1,5 +1,6 @@
 ---
 title: 〜かと思いきや
+layout: grammar
 permalink: /jlpt/grammars/n1/katoomoikiya
 level: N1
 ---

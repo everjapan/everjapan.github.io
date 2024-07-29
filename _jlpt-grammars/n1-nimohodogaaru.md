@@ -1,5 +1,6 @@
 ---
 title: 〜にもほどがある
+layout: grammar
 permalink: /jlpt/grammars/n1/nimohodogaaru
 level: N1
 ---

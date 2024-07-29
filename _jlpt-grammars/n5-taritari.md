@@ -1,5 +1,6 @@
 ---
 title: 〜たり〜たり
+layout: grammar
 permalink: /jlpt/grammars/n5/taritari
 level: N5
 ---

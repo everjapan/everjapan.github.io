@@ -1,5 +1,6 @@
 ---
 title: 〜が早いか
+layout: grammar
 permalink: /jlpt/grammars/n1/gahayaika
 level: N1
 ---

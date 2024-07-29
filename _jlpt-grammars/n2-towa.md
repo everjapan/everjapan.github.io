@@ -1,5 +1,6 @@
 ---
 title: 〜とは（定義）
+layout: grammar
 permalink: /jlpt/grammars/n2/towa
 level: N2
 ---

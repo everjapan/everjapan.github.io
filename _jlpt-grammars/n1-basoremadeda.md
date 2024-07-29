@@ -1,5 +1,6 @@
 ---
 title: 〜ばそれまでだ / 〜たらそれまでだ
+layout: grammar
 permalink: /jlpt/grammars/n1/basoremadeda
 level: N1
 ---

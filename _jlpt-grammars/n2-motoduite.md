@@ -1,5 +1,6 @@
 ---
 title: 〜に基づいて
+layout: grammar
 permalink: /jlpt/grammars/n2/motoduite
 level: N2
 ---

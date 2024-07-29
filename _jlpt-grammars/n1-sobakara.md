@@ -1,5 +1,6 @@
 ---
 title: 〜そばから
+layout: grammar
 permalink: /jlpt/grammars/n1/sobakara
 level: N1
 ---

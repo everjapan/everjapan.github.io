@@ -1,5 +1,6 @@
 ---
 title: 〜すぎる
+layout: grammar
 permalink: /jlpt/grammars/n4/sugiru
 level: N4
 ---

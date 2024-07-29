@@ -1,5 +1,6 @@
 ---
 title: 〜ときたら
+layout: grammar
 permalink: /jlpt/grammars/n1/tokitara
 level: N1
 ---

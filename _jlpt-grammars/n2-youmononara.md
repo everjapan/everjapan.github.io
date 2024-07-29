@@ -1,5 +1,6 @@
 ---
 title: 〜ようものなら
+layout: grammar
 permalink: /jlpt/grammars/n2/youmononara
 level: N2
 ---

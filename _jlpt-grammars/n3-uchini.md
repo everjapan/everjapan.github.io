@@ -1,5 +1,6 @@
 ---
 title: 〜うちに
+layout: grammar
 permalink: /jlpt/grammars/n3/uchini
 level: N3
 ---

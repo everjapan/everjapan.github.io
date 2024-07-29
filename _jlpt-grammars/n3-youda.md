@@ -1,5 +1,6 @@
 ---
 title: まるで〜ようだ （比喩）
+layout: grammar
 permalink: /jlpt/grammars/n3/youda
 level: N3
 ---

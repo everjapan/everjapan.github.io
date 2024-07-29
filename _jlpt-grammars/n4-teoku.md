@@ -1,5 +1,6 @@
 ---
 title: 〜ておく
+layout: grammar
 permalink: /jlpt/grammars/n4/teoku
 level: N4
 ---

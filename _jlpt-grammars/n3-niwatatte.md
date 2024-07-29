@@ -1,5 +1,6 @@
 ---
 title: 〜にわたって
+layout: grammar
 permalink: /jlpt/grammars/n3/niwatatte
 level: N3
 ---

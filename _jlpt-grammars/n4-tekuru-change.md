@@ -1,5 +1,6 @@
 ---
 title: 〜てくる（変化・移動）
+layout: grammar
 permalink: /jlpt/grammars/n4/tekuru-change
 level: N4
 ---

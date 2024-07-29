@@ -1,5 +1,6 @@
 ---
 title: 〜は別として
+layout: grammar
 permalink: /jlpt/grammars/n3/wabetsutoshite
 level: N3
 ---

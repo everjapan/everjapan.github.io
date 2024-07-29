@@ -1,5 +1,6 @@
 ---
 title: 〜ことだ（助言・忠告）
+layout: grammar
 permalink: /jlpt/grammars/n2/kotoda
 level: N2
 ---

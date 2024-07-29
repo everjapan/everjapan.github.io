@@ -1,5 +1,6 @@
 ---
 title: ただ〜のみ
+layout: grammar
 permalink: /jlpt/grammars/n1/tada-nomi
 level: N1
 ---

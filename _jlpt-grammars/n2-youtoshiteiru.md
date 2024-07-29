@@ -1,5 +1,6 @@
 ---
 title: 〜ようとしている
+layout: grammar
 permalink: /jlpt/grammars/n2/youtoshiteiru
 level: N2
 ---

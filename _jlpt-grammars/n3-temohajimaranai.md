@@ -1,5 +1,6 @@
 ---
 title: 〜ても始まらない
+layout: grammar
 permalink: /jlpt/grammars/n3/temohajimaranai
 level: N3
 ---

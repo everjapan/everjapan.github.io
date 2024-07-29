@@ -1,5 +1,6 @@
 ---
 title: 〜た分だけ
+layout: grammar
 permalink: /jlpt/grammars/n1/tabundake
 level: N1
 ---

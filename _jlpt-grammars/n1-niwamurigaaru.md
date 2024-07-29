@@ -1,5 +1,6 @@
 ---
 title: 〜には無理がある
+layout: grammar
 permalink: /jlpt/grammars/n1/niwamurigaaru
 level: N1
 ---

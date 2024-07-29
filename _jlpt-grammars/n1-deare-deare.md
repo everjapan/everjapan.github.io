@@ -1,5 +1,6 @@
 ---
 title: 〜であれ〜であれ
+layout: grammar
 permalink: /jlpt/grammars/n1/deare-deare
 level: N1
 ---

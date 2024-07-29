@@ -1,5 +1,6 @@
 ---
 title: 〜ていく
+layout: grammar
 permalink: /jlpt/grammars/n4/teiku
 level: N4
 ---

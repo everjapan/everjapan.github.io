@@ -1,5 +1,6 @@
 ---
 title: 〜つつある
+layout: grammar
 permalink: /jlpt/grammars/n2/tsutsuaru
 level: N2
 ---

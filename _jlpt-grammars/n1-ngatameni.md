@@ -1,5 +1,6 @@
 ---
 title: 〜んがために
+layout: grammar
 permalink: /jlpt/grammars/n1/ngatameni
 level: N1
 ---

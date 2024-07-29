@@ -1,5 +1,6 @@
 ---
 title: 〜ずにはいられない/〜ないではいられない
+layout: grammar
 permalink: /jlpt/grammars/n2/zuniwa-irarenai
 level: N2
 ---

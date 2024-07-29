@@ -1,5 +1,6 @@
 ---
 title: 〜にくい
+layout: grammar
 permalink: /jlpt/grammars/n4/nikui
 level: N4
 ---

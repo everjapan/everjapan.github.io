@@ -1,5 +1,6 @@
 ---
 title: 〜ほど〜ない（比較）
+layout: grammar
 permalink: /jlpt/grammars/n4/hodo-nai
 level: N4
 ---

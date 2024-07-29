@@ -1,5 +1,6 @@
 ---
 title: 〜たい
+layout: grammar
 permalink: /jlpt/grammars/n5/tai
 level: N5
 ---

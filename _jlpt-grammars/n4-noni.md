@@ -1,5 +1,6 @@
 ---
 title: 〜のに
+layout: grammar
 permalink: /jlpt/grammars/n4/noni
 level: N4
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜しかない / 〜ほかない
+layout: grammar
 permalink: /jlpt/grammars/n3/shikanai-hokanai
 level: N3
 ---

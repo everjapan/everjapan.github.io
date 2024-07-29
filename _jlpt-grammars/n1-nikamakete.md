@@ -1,5 +1,6 @@
 ---
 title: 〜にかまけて
+layout: grammar
 permalink: /jlpt/grammars/n1/nikamakete
 level: N1
 ---

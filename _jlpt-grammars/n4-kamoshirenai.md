@@ -1,5 +1,6 @@
 ---
 title: 〜かもしれない
+layout: grammar
 permalink: /jlpt/grammars/n4/kamoshirenai
 level: N4
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜からして
+layout: grammar
 permalink: /jlpt/grammars/n2/karashite
 level: N2
 ---

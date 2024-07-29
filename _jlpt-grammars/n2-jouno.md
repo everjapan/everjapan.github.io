@@ -1,5 +1,6 @@
 ---
 title: 〜の上では / 〜上（じょう）の
+layout: grammar
 permalink: /jlpt/grammars/n2/jouno
 level: N2
 ---

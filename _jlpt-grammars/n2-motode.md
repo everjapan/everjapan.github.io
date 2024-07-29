@@ -1,5 +1,6 @@
 ---
 title: 〜のもとで
+layout: grammar
 permalink: /jlpt/grammars/n2/motode
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜ために（原因）
+layout: grammar
 permalink: /jlpt/grammars/n3/tameni
 level: N3
 ---

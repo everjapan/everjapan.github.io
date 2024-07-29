@@ -1,5 +1,6 @@
 ---
 title: 〜てからというもの
+layout: grammar
 permalink: /jlpt/grammars/n1/tekaratoiumono
 level: N1
 ---

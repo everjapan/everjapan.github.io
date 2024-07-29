@@ -1,5 +1,6 @@
 ---
 title: 〜でも
+layout: grammar
 permalink: /jlpt/grammars/n0/demo
 level: N0
 ---

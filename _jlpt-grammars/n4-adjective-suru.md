@@ -1,5 +1,6 @@
 ---
 title: （形容詞）する
+layout: grammar
 permalink: /jlpt/grammars/n4/adjective-suru
 level: N4
 ---

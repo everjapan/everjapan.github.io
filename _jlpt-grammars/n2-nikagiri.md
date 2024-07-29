@@ -1,5 +1,6 @@
 ---
 title: 〜に限り（限定）
+layout: grammar
 permalink: /jlpt/grammars/n2/nikagiri
 level: N2
 ---

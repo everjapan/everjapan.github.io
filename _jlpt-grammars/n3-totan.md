@@ -1,5 +1,6 @@
 ---
 title: 〜とたん
+layout: grammar
 permalink: /jlpt/grammars/n3/totan
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜もん / 〜んだもん
+layout: grammar
 permalink: /jlpt/grammars/n2/mon
 level: N2
 ---

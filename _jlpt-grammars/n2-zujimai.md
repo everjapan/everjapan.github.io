@@ -1,5 +1,6 @@
 ---
 title: 〜ずじまい
+layout: grammar
 permalink: /jlpt/grammars/n2/zujimai
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜ばかりか
+layout: grammar
 permalink: /jlpt/grammars/n2/bakarika
 level: N2
 ---

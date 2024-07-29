@@ -1,5 +1,6 @@
 ---
 title: 〜げ
+layout: grammar
 permalink: /jlpt/grammars/n2/ge
 level: N2
 ---

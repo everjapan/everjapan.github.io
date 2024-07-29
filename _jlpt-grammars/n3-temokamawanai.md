@@ -1,5 +1,6 @@
 ---
 title: 〜ても構わない
+layout: grammar
 permalink: /jlpt/grammars/n3/temokamawanai
 level: N3
 ---

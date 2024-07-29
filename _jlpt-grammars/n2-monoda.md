@@ -1,5 +1,6 @@
 ---
 title: 〜ものだ（当然 / 忠告・義務）
+layout: grammar
 permalink: /jlpt/grammars/n2/monoda
 level: N2
 ---

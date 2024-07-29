@@ -1,5 +1,6 @@
 ---
 title: 〜がいちばん
+layout: grammar
 permalink: /jlpt/grammars/n5/gaichiban
 level: N5
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜によって（原因・理由）
+layout: grammar
 permalink: /jlpt/grammars/n3/niyotte-3
 level: N3
 ---

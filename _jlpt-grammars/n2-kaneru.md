@@ -1,5 +1,6 @@
 ---
 title: 〜かねる
+layout: grammar
 permalink: /jlpt/grammars/n2/kaneru
 level: N2
 ---

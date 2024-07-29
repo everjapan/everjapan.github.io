@@ -1,5 +1,6 @@
 ---
 title: 〜終わる
+layout: grammar
 permalink: /jlpt/grammars/n4/owaru
 level: N4
 ---

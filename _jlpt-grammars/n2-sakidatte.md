@@ -1,5 +1,6 @@
 ---
 title: 〜に先立って / 〜に先立ち
+layout: grammar
 permalink: /jlpt/grammars/n2/sakidatte
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜必要がある
+layout: grammar
 permalink: /jlpt/grammars/n4/hitsuyougaaru
 level: N4
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜ずにはおかない / 〜ないではおかない
+layout: grammar
 permalink: /jlpt/grammars/n1/zuniwaokanai
 level: N1
 ---

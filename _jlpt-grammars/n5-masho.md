@@ -1,5 +1,6 @@
 ---
 title: 〜ましょう
+layout: grammar
 permalink: /jlpt/grammars/n5/masho
 level: N5
 ---

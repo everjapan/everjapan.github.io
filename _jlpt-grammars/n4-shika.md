@@ -1,5 +1,6 @@
 ---
 title: 〜しか〜ない
+layout: grammar
 permalink: /jlpt/grammars/n4/shika
 level: N4
 ---

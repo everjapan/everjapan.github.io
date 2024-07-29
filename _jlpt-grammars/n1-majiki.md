@@ -1,5 +1,6 @@
 ---
 title: 〜まじき
+layout: grammar
 permalink: /jlpt/grammars/n1/majiki
 level: N1
 ---

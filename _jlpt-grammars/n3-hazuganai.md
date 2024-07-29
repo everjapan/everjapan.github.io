@@ -1,5 +1,6 @@
 ---
 title: 〜はずがない
+layout: grammar
 permalink: /jlpt/grammars/n3/hazuganai
 level: N3
 ---

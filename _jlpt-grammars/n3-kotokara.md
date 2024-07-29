@@ -1,5 +1,6 @@
 ---
 title: 〜ことから
+layout: grammar
 permalink: /jlpt/grammars/n3/kotokara
 level: N3
 ---

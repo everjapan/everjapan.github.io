@@ -1,5 +1,6 @@
 ---
 title: 〜ようにしている
+layout: grammar
 permalink: /jlpt/grammars/n4/-younishiteiru
 level: N4
 ---

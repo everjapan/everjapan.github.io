@@ -1,5 +1,6 @@
 ---
 title: 〜おきに
+layout: grammar
 permalink: /jlpt/grammars/n3/okini
 level: N3
 ---

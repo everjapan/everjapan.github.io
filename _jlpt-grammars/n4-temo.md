@@ -1,5 +1,6 @@
 ---
 title: 〜ても
+layout: grammar
 permalink: /jlpt/grammars/n4/temo
 level: N4
 ---

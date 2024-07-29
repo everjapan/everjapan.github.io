@@ -1,5 +1,6 @@
 ---
 title: 〜に忍びない
+layout: grammar
 permalink: /jlpt/grammars/n1/nishinobinai
 level: N1
 ---

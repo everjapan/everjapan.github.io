@@ -1,5 +1,6 @@
 ---
 title: 〜ないことはない / 〜ないこともない
+layout: grammar
 permalink: /jlpt/grammars/n2/naikotowanai
 level: N2
 ---

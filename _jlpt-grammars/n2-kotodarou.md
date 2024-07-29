@@ -1,5 +1,6 @@
 ---
 title: 〜ことだろう / 〜ことか
+layout: grammar
 permalink: /jlpt/grammars/n2/kotodarou
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜にあたり / 〜にあたって
+layout: grammar
 permalink: /jlpt/grammars/n2/niatari
 level: N2
 ---

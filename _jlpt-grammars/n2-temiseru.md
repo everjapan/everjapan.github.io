@@ -1,5 +1,6 @@
 ---
 title: 〜てみせる
+layout: grammar
 permalink: /jlpt/grammars/n2/temiseru
 level: N2
 ---

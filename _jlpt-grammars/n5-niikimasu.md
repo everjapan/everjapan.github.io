@@ -1,5 +1,6 @@
 ---
 title: （目的）に行く / 来る / 帰る
+layout: grammar
 permalink: /jlpt/grammars/n5/niikimasu
 level: N5
 ---

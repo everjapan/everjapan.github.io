@@ -1,5 +1,6 @@
 ---
 title: 〜に即して / 〜に則して
+layout: grammar
 permalink: /jlpt/grammars/n1/nisokushite
 level: N1
 ---

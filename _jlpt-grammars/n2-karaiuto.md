@@ -1,5 +1,6 @@
 ---
 title: 〜からいうと / 〜からいって / 〜からいえば
+layout: grammar
 permalink: /jlpt/grammars/n2/karaiuto
 level: N2
 ---

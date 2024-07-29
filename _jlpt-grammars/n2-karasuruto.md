@@ -1,5 +1,6 @@
 ---
 title: 〜からすると
+layout: grammar
 permalink: /jlpt/grammars/n2/karasuruto
 level: N2
 ---

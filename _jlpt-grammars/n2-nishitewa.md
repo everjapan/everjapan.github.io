@@ -1,5 +1,6 @@
 ---
 title: 〜にしては
+layout: grammar
 permalink: /jlpt/grammars/n2/nishitewa
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜はおろか
+layout: grammar
 permalink: /jlpt/grammars/n1/waoroka
 level: N1
 ---

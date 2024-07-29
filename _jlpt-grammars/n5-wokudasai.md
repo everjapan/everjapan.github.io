@@ -1,5 +1,6 @@
 ---
 title: 〜をください
+layout: grammar
 permalink: /jlpt/grammars/n5/wokudasai
 level: N5
 ---

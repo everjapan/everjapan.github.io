@@ -1,5 +1,6 @@
 ---
 title: 〜わ〜わで
+layout: grammar
 permalink: /jlpt/grammars/n1/wa-wade
 level: N1
 ---

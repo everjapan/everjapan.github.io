@@ -1,5 +1,6 @@
 ---
 title: ぜひ
+layout: grammar
 permalink: /jlpt/grammars/n5/zehi
 level: N5
 ---

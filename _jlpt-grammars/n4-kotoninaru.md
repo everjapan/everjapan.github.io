@@ -1,5 +1,6 @@
 ---
 title: 〜ことになる
+layout: grammar
 permalink: /jlpt/grammars/n4/kotoninaru
 level: N4
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜た弾みに / 〜た拍子に
+layout: grammar
 permalink: /jlpt/grammars/n1/tahazumini
 level: N1
 ---

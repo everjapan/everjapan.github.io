@@ -1,5 +1,6 @@
 ---
 title: 〜とか〜とか
+layout: grammar
 permalink: /jlpt/grammars/n3/toka-toka
 level: N3
 ---

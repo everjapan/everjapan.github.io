@@ -1,5 +1,6 @@
 ---
 title: 〜だけでなく・・・も
+layout: grammar
 permalink: /jlpt/grammars/n3/dakedenaku
 level: N3
 ---

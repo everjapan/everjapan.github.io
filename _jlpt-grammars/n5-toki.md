@@ -1,5 +1,6 @@
 ---
 title: 〜とき
+layout: grammar
 permalink: /jlpt/grammars/n5/toki
 level: N5
 ---

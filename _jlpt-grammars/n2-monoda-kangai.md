@@ -1,5 +1,6 @@
 ---
 title: 〜ものだ（感慨）
+layout: grammar
 permalink: /jlpt/grammars/n2/monoda-kangai
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜し、〜し
+layout: grammar
 permalink: /jlpt/grammars/n4/shi-shi
 level: N4
 ---

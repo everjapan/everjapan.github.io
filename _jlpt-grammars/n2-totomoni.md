@@ -1,5 +1,6 @@
 ---
 title: 〜とともに（相関関係）
+layout: grammar
 permalink: /jlpt/grammars/n2/totomoni
 level: N2
 ---

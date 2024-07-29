@@ -1,5 +1,6 @@
 ---
 title: 〜をもとに
+layout: grammar
 permalink: /jlpt/grammars/n2/motonishite
 level: N2
 ---

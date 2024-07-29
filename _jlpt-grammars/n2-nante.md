@@ -1,5 +1,6 @@
 ---
 title: 〜なんて
+layout: grammar
 permalink: /jlpt/grammars/n2/nante
 level: N2
 ---

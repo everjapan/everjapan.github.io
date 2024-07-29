@@ -1,5 +1,6 @@
 ---
 title: 〜向けに
+layout: grammar
 permalink: /jlpt/grammars/n3/mukeni
 level: N3
 ---

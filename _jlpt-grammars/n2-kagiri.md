@@ -1,5 +1,6 @@
 ---
 title: 〜限り（条件の範囲）
+layout: grammar
 permalink: /jlpt/grammars/n2/kagiri
 level: N2
 ---

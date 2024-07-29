@@ -1,5 +1,6 @@
 ---
 title: 〜に則って
+layout: grammar
 permalink: /jlpt/grammars/n1/ninottotte
 level: N1
 ---

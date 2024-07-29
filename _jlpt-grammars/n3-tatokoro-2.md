@@ -1,5 +1,6 @@
 ---
 title: 〜たところ
+layout: grammar
 permalink: /jlpt/grammars/n3/tatokoro-2
 level: N3
 ---

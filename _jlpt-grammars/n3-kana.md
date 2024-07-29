@@ -1,5 +1,6 @@
 ---
 title: 〜かな(あ)
+layout: grammar
 permalink: /jlpt/grammars/n3/kana
 level: N3
 ---

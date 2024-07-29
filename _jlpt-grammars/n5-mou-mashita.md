@@ -1,5 +1,6 @@
 ---
 title: もう〜した
+layout: grammar
 permalink: /jlpt/grammars/n5/mou-mashita
 level: N5
 ---

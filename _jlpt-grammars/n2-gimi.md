@@ -1,5 +1,6 @@
 ---
 title: 〜気味
+layout: grammar
 permalink: /jlpt/grammars/n2/gimi
 level: N2
 ---

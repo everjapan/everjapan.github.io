@@ -1,5 +1,6 @@
 ---
 title: ついでに
+layout: grammar
 permalink: /jlpt/grammars/n3/tsuideni
 level: N3
 ---

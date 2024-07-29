@@ -1,5 +1,6 @@
 ---
 title: 〜がたい
+layout: grammar
 permalink: /jlpt/grammars/n2/gatai
 level: N2
 ---

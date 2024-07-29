@@ -1,5 +1,6 @@
 ---
 title: 〜はともかくとして
+layout: grammar
 permalink: /jlpt/grammars/n2/tomokakutoshite
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜ようと思う
+layout: grammar
 permalink: /jlpt/grammars/n4/youtoomou
 level: N4
 ---

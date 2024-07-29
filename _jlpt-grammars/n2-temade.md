@@ -1,5 +1,6 @@
 ---
 title: 〜てまで / 〜までして
+layout: grammar
 permalink: /jlpt/grammars/n2/temade
 level: N2
 ---

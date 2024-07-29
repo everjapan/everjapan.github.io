@@ -1,5 +1,6 @@
 ---
 title: 〜ばかりなく
+layout: grammar
 permalink: /jlpt/grammars/n3/bakaridenaku
 level: N3
 ---

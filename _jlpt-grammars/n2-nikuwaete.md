@@ -1,5 +1,6 @@
 ---
 title: 〜に加えて
+layout: grammar
 permalink: /jlpt/grammars/n2/nikuwaete
 level: N2
 ---

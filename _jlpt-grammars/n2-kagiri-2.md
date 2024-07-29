@@ -1,5 +1,6 @@
 ---
 title: 〜限り（限界）
+layout: grammar
 permalink: /jlpt/grammars/n2/kagiri-2
 level: N2
 ---

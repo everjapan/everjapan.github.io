@@ -1,5 +1,6 @@
 ---
 title: 〜くせに / 〜くせして
+layout: grammar
 permalink: /jlpt/grammars/n2/kuseni
 level: N2
 ---

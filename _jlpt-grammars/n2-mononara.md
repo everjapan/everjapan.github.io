@@ -1,5 +1,6 @@
 ---
 title: 〜ものなら
+layout: grammar
 permalink: /jlpt/grammars/n2/mononara
 level: N2
 ---

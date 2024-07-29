@@ -1,5 +1,6 @@
 ---
 title: 〜に越したことはない
+layout: grammar
 permalink: /jlpt/grammars/n2/nikoshitakotowanai
 level: N2
 ---

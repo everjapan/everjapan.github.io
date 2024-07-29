@@ -1,5 +1,6 @@
 ---
 title: 〜に関して
+layout: grammar
 permalink: /jlpt/grammars/n3/nikanshite
 level: N3
 ---

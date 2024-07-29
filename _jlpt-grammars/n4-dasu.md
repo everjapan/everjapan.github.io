@@ -1,5 +1,6 @@
 ---
 title: 〜出す
+layout: grammar
 permalink: /jlpt/grammars/n4/dasu
 level: N4
 ---

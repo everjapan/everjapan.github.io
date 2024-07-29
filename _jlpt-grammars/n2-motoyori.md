@@ -1,5 +1,6 @@
 ---
 title: 〜はもとより
+layout: grammar
 permalink: /jlpt/grammars/n2/motoyori
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: とても
+layout: grammar
 permalink: /jlpt/grammars/n5/toteomo
 level: N5
 ---

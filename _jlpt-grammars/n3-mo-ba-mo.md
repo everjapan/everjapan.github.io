@@ -1,5 +1,6 @@
 ---
 title: 〜も〜ば〜も
+layout: grammar
 permalink: /jlpt/grammars/n3/mo-ba-mo
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜に相違ない
+layout: grammar
 permalink: /jlpt/grammars/n2/nisouinai
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜に決まっている
+layout: grammar
 permalink: /jlpt/grammars/n3/nikimatteiru
 level: N3
 ---

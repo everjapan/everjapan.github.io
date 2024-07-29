@@ -1,5 +1,6 @@
 ---
 title: 〜を皮切りに / 〜を皮切りとして
+layout: grammar
 permalink: /jlpt/grammars/n1/wokawakirini
 level: N1
 ---

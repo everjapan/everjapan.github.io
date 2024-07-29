@@ -1,5 +1,6 @@
 ---
 title: 連用中止
+layout: grammar
 permalink: /jlpt/grammars/n3/renyoochuushi
 level: N3
 ---

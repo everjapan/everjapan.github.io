@@ -1,5 +1,6 @@
 ---
 title: 〜やら〜やら
+layout: grammar
 permalink: /jlpt/grammars/n2/yara-yara
 level: N2
 ---

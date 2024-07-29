@@ -1,5 +1,6 @@
 ---
 title: 〜ことにする
+layout: grammar
 permalink: /jlpt/grammars/n4/kotonisuru
 level: N4
 ---

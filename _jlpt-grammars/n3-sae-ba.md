@@ -1,5 +1,6 @@
 ---
 title: 〜さえ〜ば
+layout: grammar
 permalink: /jlpt/grammars/n3/sae-ba
 level: N3
 ---

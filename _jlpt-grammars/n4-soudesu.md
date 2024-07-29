@@ -1,5 +1,6 @@
 ---
 title: 〜そうです（伝聞）
+layout: grammar
 permalink: /jlpt/grammars/n4/soudesu
 level: N4
 ---

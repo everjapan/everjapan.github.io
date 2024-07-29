@@ -1,5 +1,6 @@
 ---
 title: どんな
+layout: grammar
 permalink: /jlpt/grammars/n5/donna
 level: N5
 ---

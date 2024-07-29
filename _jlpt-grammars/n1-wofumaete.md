@@ -1,5 +1,6 @@
 ---
 title: 〜を踏まえて
+layout: grammar
 permalink: /jlpt/grammars/n1/wofumaete
 level: N1
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜いかんだ / 〜いかんでは / 〜いかんによっては
+layout: grammar
 permalink: /jlpt/grammars/n1/ikan
 level: N1
 ---

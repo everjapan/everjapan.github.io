@@ -1,5 +1,6 @@
 ---
 title: 〜かのようだ / 〜かのように
+layout: grammar
 permalink: /jlpt/grammars/n2/kanoyouda
 level: N2
 ---

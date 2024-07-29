@@ -1,5 +1,6 @@
 ---
 title: 〜上は
+layout: grammar
 permalink: /jlpt/grammars/n2/uewa
 level: N2
 ---

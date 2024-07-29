@@ -1,5 +1,6 @@
 ---
 title: 〜を経て
+layout: grammar
 permalink: /jlpt/grammars/n1/hete
 level: N1
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜ならでは
+layout: grammar
 permalink: /jlpt/grammars/n1/naradewa
 level: N1
 ---

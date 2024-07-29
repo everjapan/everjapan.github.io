@@ -1,5 +1,6 @@
 ---
 title: 〜ようにも〜ない
+layout: grammar
 permalink: /jlpt/grammars/n1/younimo-nai
 level: N1
 ---

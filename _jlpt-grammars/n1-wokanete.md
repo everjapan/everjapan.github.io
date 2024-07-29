@@ -1,5 +1,6 @@
 ---
 title: 〜を兼ねて
+layout: grammar
 permalink: /jlpt/grammars/n1/wokanete
 level: N1
 ---

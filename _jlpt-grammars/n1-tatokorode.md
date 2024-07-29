@@ -1,5 +1,6 @@
 ---
 title: 〜たところで
+layout: grammar
 permalink: /jlpt/grammars/n1/tatokorode
 level: N1
 ---

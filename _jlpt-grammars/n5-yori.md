@@ -1,5 +1,6 @@
 ---
 title: 〜は〜より
+layout: grammar
 permalink: /jlpt/grammars/n5/yori
 level: N5
 ---

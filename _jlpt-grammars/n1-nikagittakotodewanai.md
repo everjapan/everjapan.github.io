@@ -1,5 +1,6 @@
 ---
 title: 〜に限ったことではない
+layout: grammar
 permalink: /jlpt/grammars/n1/nikagittakotodewanai
 level: N1
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜べきだ / 〜べきではない
+layout: grammar
 permalink: /jlpt/grammars/n3/bekida
 level: N3
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜ほど（相関関係）
+layout: grammar
 permalink: /jlpt/grammars/n3/hodo
 level: N3
 ---

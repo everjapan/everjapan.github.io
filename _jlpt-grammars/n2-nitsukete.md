@@ -1,5 +1,6 @@
 ---
 title: 〜につけて
+layout: grammar
 permalink: /jlpt/grammars/n2/nitsukete
 level: N2
 ---

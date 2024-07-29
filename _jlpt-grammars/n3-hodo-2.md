@@ -1,5 +1,6 @@
 ---
 title: 〜ほど（程度）
+layout: grammar
 permalink: /jlpt/grammars/n3/hodo-2
 level: N3
 ---

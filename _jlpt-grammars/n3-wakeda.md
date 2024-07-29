@@ -1,5 +1,6 @@
 ---
 title: 〜わけだ / 〜というわけだ
+layout: grammar
 permalink: /jlpt/grammars/n3/wakeda
 level: N3
 ---

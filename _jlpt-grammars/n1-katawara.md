@@ -1,5 +1,6 @@
 ---
 title: 〜かたわら
+layout: grammar
 permalink: /jlpt/grammars/n1/katawara
 level: N1
 ---

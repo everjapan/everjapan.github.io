@@ -1,5 +1,6 @@
 ---
 title: 〜きらいがある
+layout: grammar
 permalink: /jlpt/grammars/n1/kiraigaaru
 level: N1
 ---

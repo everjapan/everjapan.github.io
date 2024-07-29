@@ -1,5 +1,6 @@
 ---
 title: 〜をめぐって
+layout: grammar
 permalink: /jlpt/grammars/n2/megutte
 level: N2
 ---

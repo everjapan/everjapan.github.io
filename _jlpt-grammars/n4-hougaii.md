@@ -1,5 +1,6 @@
 ---
 title: 〜ほうがいい
+layout: grammar
 permalink: /jlpt/grammars/n4/hougaii
 level: N4
 ---

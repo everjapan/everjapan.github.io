@@ -1,5 +1,6 @@
 ---
 title: 〜たものだ
+layout: grammar
 permalink: /jlpt/grammars/n3/monoda
 level: N3
 ---

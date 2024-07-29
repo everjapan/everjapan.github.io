@@ -1,5 +1,6 @@
 ---
 title: 〜たら〜たで
+layout: grammar
 permalink: /jlpt/grammars/n1/tara-tade
 level: N1
 ---

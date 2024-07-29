@@ -1,5 +1,6 @@
 ---
 title: 〜かねない
+layout: grammar
 permalink: /jlpt/grammars/n2/kanenai
 level: N2
 ---

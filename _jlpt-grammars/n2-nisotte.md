@@ -1,5 +1,6 @@
 ---
 title: 〜に沿って
+layout: grammar
 permalink: /jlpt/grammars/n2/nisotte
 level: N2
 ---

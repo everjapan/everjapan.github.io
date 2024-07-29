@@ -1,5 +1,6 @@
 ---
 title: 〜たて
+layout: grammar
 permalink: /jlpt/grammars/n2/tate
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜ましょうか
+layout: grammar
 permalink: /jlpt/grammars/n5/mashouka
 level: N5
 ---

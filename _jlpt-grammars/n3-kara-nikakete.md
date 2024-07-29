@@ -1,5 +1,6 @@
 ---
 title: 〜から〜にかけて
+layout: grammar
 permalink: /jlpt/grammars/n3/kara-nikakete
 level: N3
 ---

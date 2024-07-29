@@ -1,5 +1,6 @@
 ---
 title: 〜をよそに
+layout: grammar
 permalink: /jlpt/grammars/n1/woyosoni
 level: N1
 ---

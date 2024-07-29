@@ -1,5 +1,6 @@
 ---
 title: 〜に言わせれば
+layout: grammar
 permalink: /jlpt/grammars/n1/niiwasereba
 level: N1
 ---

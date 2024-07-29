@@ -1,5 +1,6 @@
 ---
 title: 〜というものではない
+layout: grammar
 permalink: /jlpt/grammars/n2/toiumonodewanai
 level: N2
 ---

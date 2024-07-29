@@ -1,5 +1,6 @@
 ---
 title: 〜たびに
+layout: grammar
 permalink: /jlpt/grammars/n3/tabini
 level: N3
 ---

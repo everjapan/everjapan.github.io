@@ -1,5 +1,6 @@
 ---
 title: 〜そうにない
+layout: grammar
 permalink: /jlpt/grammars/n2/sooninai
 level: N2
 ---

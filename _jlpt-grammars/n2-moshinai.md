@@ -1,5 +1,6 @@
 ---
 title: 〜もしない
+layout: grammar
 permalink: /jlpt/grammars/n2/moshinai
 level: N2
 ---

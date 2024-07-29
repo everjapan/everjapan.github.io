@@ -1,5 +1,6 @@
 ---
 title: 〜をもって（手段・基準）
+layout: grammar
 permalink: /jlpt/grammars/n1/womotte-2
 level: N1
 ---

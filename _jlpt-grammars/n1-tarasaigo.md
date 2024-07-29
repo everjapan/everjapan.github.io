@@ -1,5 +1,6 @@
 ---
 title: 〜たら最後 / 〜たが最後
+layout: grammar
 permalink: /jlpt/grammars/n1/tarasaigo
 level: N1
 ---

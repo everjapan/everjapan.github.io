@@ -1,5 +1,6 @@
 ---
 title: あまりの〜に
+layout: grammar
 permalink: /jlpt/grammars/n2/amarino-ni
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: 〜ということだ（伝聞・結論）
+layout: grammar
 permalink: /jlpt/grammars/n3/toiukotoda
 level: N3
 ---

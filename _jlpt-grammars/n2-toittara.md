@@ -1,5 +1,6 @@
 ---
 title: 〜といったら
+layout: grammar
 permalink: /jlpt/grammars/n2/toittara
 level: N2
 ---

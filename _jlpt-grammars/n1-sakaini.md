@@ -1,5 +1,6 @@
 ---
 title: 〜を境に
+layout: grammar
 permalink: /jlpt/grammars/n1/sakaini
 level: N1
 ---

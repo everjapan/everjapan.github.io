@@ -1,5 +1,6 @@
 ---
 title: 〜こと
+layout: grammar
 permalink: /jlpt/grammars/n3/koto
 level: N3
 ---

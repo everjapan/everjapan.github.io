@@ -1,5 +1,6 @@
 ---
 title: 〜ともなく / 〜ともなしに
+layout: grammar
 permalink: /jlpt/grammars/n1/tomonaku
 level: N1
 ---

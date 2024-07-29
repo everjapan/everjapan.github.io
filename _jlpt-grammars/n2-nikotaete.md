@@ -1,5 +1,6 @@
 ---
 title: 〜に応えて
+layout: grammar
 permalink: /jlpt/grammars/n2/nikotaete
 level: N2
 ---

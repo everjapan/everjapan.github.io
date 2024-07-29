@@ -1,5 +1,6 @@
 ---
 title: 〜ものか / 〜ものですか
+layout: grammar
 permalink: /jlpt/grammars/n2/monoka
 level: N2
 ---

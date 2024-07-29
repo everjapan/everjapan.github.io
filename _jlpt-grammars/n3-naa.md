@@ -1,5 +1,6 @@
 ---
 title: 〜なあ
+layout: grammar
 permalink: /jlpt/grammars/n3/naa
 level: N3
 ---

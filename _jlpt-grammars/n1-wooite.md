@@ -1,5 +1,6 @@
 ---
 title: 〜をおいて
+layout: grammar
 permalink: /jlpt/grammars/n1/wooite
 level: N1
 ---

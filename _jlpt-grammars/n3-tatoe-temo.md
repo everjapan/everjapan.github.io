@@ -1,5 +1,6 @@
 ---
 title: たとえ〜ても
+layout: grammar
 permalink: /jlpt/grammars/n3/tatoe-temo
 level: N3
 ---

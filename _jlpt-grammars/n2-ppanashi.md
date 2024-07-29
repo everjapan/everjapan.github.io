@@ -1,5 +1,6 @@
 ---
 title: 〜ぱなし
+layout: grammar
 permalink: /jlpt/grammars/n2/ppanashi
 level: N2
 ---

@@ -1,5 +1,6 @@
 ---
 title: ～ものではない
+layout: grammar
 permalink: /jlpt/grammars/n2/monodehanai
 level: N2
 ---

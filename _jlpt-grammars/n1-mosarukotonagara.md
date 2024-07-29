@@ -1,5 +1,6 @@
 ---
 title: 〜もさることながら
+layout: grammar
 permalink: /jlpt/grammars/n1/mosarukotonagara
 level: N1
 ---

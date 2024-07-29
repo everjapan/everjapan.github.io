@@ -1,5 +1,6 @@
 ---
 title: 〜ではあるまいし / 〜でもあるまいし
+layout: grammar
 permalink: /jlpt/grammars/n1/dewaarumaishi
 level: N1
 ---

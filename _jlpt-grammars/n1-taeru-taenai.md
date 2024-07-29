@@ -1,5 +1,6 @@
 ---
 title: 〜に堪える / 〜に堪えない
+layout: grammar
 permalink: /jlpt/grammars/n1/taeru-taenai
 level: N1
 ---

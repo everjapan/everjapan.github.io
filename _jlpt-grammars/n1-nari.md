@@ -1,5 +1,6 @@
 ---
 title: 〜なり
+layout: grammar
 permalink: /jlpt/grammars/n1/nari
 level: N1
 ---

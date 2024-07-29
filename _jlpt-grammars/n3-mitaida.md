@@ -1,5 +1,6 @@
 ---
 title: まるで〜みたいだ（比喩）
+layout: grammar
 permalink: /jlpt/grammars/n3/mitaida
 level: N3
 ---

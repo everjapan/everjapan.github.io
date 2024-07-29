@@ -1,5 +1,6 @@
 ---
 title: 〜にすぎない
+layout: grammar
 permalink: /jlpt/grammars/n2/nisuginai
 level: N2
 ---
