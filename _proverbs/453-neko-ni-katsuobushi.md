@@ -1,0 +1,15 @@
+---
+title: 猫に鰹節
+layout: single
+permalink: /proverbs/neko-ni-katsuobushi
+excerpt: ねこにかつおぶし
+---
+
+ねこにかつおぶし
+
+## 解释
+
+小鸡交给黄鼠狼
+
+## 例句
+

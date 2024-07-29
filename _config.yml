@@ -205,7 +205,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      toc: true
+      toc: false
       sidebar:
         - nav: proverbs
 

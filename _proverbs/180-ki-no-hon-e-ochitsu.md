@@ -1,0 +1,17 @@
+---
+title: 木の実は本へ落つ
+layout: single
+permalink: /proverbs/ki-no-hon-e-ochitsu
+excerpt: きのほんへおちつ
+---
+
+きのほんへおちつ
+
+## 解释
+
+落叶归根
+
+事物总会归还本来面目
+
+## 例句
+
