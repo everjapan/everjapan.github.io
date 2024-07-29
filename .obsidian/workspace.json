@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-20-auxiliary-verbs.md",
+                "file": "_jlpt/00-grammar.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-20-auxiliary-verbs.md",
+                "file": "_jlpt/00-grammar.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-20-auxiliary-verbs.md",
+                "file": "_jlpt/00-grammar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-20-auxiliary-verbs.md"
+                "file": "_jlpt/00-grammar.md"
               }
             }
           }
@@ -148,20 +148,42 @@
   },
   "active": "38886a14997499d9",
   "lastOpenFiles": [
-    "_posts/2024-07-19-bunsetsu.md",
-    "_posts/2024-07-20-auxiliary-verbs.md",
-    "_site/japanese/bunsetsu/index.html",
-    "_site/japanese/bunsetsu",
-    "japanese/part-of-speech.md",
-    "japanese",
-    "_posts/2024-07-16-part-of-speech.md",
-    "_posts/2024-07-15-case-marking-particle.md",
-    "_posts/2024-06-12-grammar-basics.md",
-    "_posts/2024-01-16-two-japanese-grammar-types.md",
-    "_posts/2024-07-08-grammar-particles.md",
-    "_jlpt-grammars/481-jlptn5-grammar-dake.md",
+    "_site/jlpt/grammars/index.html",
+    "_jlpt/01-exam.md",
+    "_site/jlpt/00-grammar/index.html",
+    "_site/jlpt/00-grammar",
     "_jlpt/00-grammar.md",
-    "n5-grammar-dake.md",
+    "_pages/jlpt.md",
+    "_site/jlpt/00-grammar.md",
+    "_site/jlpt/grammars/n5/zehi.html",
+    "_site/jlpt/grammars/n5/yori.html",
+    "_site/jlpt/grammars/n5/wokudasai.html",
+    "_site/jlpt/grammars/n5/wadoudesuka.html",
+    "_site/jlpt/grammars/n5/toteomo.html",
+    "_site/jlpt/grammars/n5/toomou.html",
+    "_site/jlpt/grammars/n5/toki.html",
+    "_site/jlpt/grammars/n5/tewaikemasen.html",
+    "_jlpt-grammars/n1-you.md",
+    "_jlpt-grammars/n0-yatsu.md",
+    "_jlpt-grammars/n0-makuru.md",
+    "_jlpt-grammars/n0-nikaketemo.md",
+    "_jlpt-grammars/n0-nami.md",
+    "_jlpt-grammars/n0-totemo-nai.md",
+    "_jlpt-grammars/n0-durai.md",
+    "_jlpt-grammars/n0-demo.md",
+    "_jlpt-grammars/n0-sugidesu.md",
+    "_jlpt-grammars/n5-wokudasai.md",
+    "_jlpt-grammars/n5-mou-mashita.md",
+    "_jlpt-grammars/n5-masenka.md",
+    "_jlpt-grammars/n5-mashouka.md",
+    "_jlpt-grammars/n5-masho.md",
+    "_jlpt-grammars/n5-maeni.md",
+    "_jlpt-grammars/n5-yori.md",
+    "_jlpt-grammars/n5-wadoudesuka.md",
+    "_jlpt-grammars/n5-niikimasu.md",
+    "_jlpt-grammars/n5-naru.md",
+    "_jlpt-grammars/n5-nakerebanaranai.md",
+    "_jlpt-grammars/n5-nakutemoii.md",
     "assets/images/japanese/part-of-speech-classification.png",
     "assets/images/japanese/Screenshot 2024-07-16 at 19.17.59.png",
     "assets/images/japanese/part-of-speech.png",
@@ -169,22 +191,8 @@
     "assets/images/japanese/niwa.jpg",
     "assets/images/japanese/japanese-word-types.png",
     "assets/images/japanese/japanese-language-unit.png",
-    "assets/images/japanese/part-of-speech.jpeg.md",
     "assets/images/japanese/Screenshot 2024-07-16 at 18.45.31.png",
     "assets/images/japanese/part-of-speech.jpeg",
-    "assets/images/japanese/word-type-particle.png",
-    "food.md",
-    "_posts/2023-08-06-japanese-english.md",
-    "_posts/2023-10-02-morpheme.md",
-    "_posts/2024-07-12-particle-niha.md",
-    "_posts/2024-07-11-particle-ni-he.md",
-    "_drafts/2024-07-16-adverb.md",
-    "_site/japanese/case-marking-particle/index.html",
-    "_site/japanese/case-marking-particle",
-    "_site/japanese/particle-niha/index.html",
-    "_site/japanese/particle-niha",
-    "_site/japanese/particle-ni-he/index.html",
-    "_site/japanese/particle-ni-he",
-    "_site/japanese/grammar-particles/index.html"
+    "assets/images/japanese/word-type-particle.png"
   ]
 }

@@ -26,16 +26,6 @@ jumpstart:
       - title: 日语文字起源 
         url: '/japanese/kanji-kata-origin/'
 
-jlpt-grammars:
-  - title: 'N1'
-    children:
-    - title: "〜あっての・・・"
-      url: /n1-grammar-atteno/
-    - title: "〜いかんでは"
-      url: /n1-grammar-ikan/
-    - title: "〜いかんにかかわらず"
-      url: /n1-grammar-ikannikakawarazu/
-
 proverbs:
   - title: 'ことわざ'
     children:
@@ -55,3 +45,14 @@ daily:
         url: /daily/travel/
       - title: '游玩'
         url: /daily/getting-around/
+
+jlpt-grammars:
+  - title: 'N1'
+    children:
+    - title: "〜あっての・・・"
+      url: /n1-grammar-atteno/
+    - title: "〜いかんでは"
+      url: /n1-grammar-ikan/
+    - title: "〜いかんにかかわらず"
+      url: /n1-grammar-ikannikakawarazu/
+
