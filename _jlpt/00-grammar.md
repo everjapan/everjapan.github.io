@@ -1,5 +1,6 @@
 ---
 title: JLPT语法精讲
+excerpt: 详细讲解JLPT考试中每一条语法知识点
 permalink: /jlpt/grammars/
 ---
 

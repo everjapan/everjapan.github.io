@@ -1,6 +1,6 @@
 ---
 title: JLPT真题精讲
-excerpt: ""
+excerpt: 分享有用的解题技巧
 permalink: /jlpt/exams/
 ---
 
