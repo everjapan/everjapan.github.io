@@ -1102,8 +1102,6 @@ main:
   url: /daily/
 - title: 学习资料
   url: /study-materials/
-- title: 关于
-  url: /about/
 proverbs:
 - children:
   - title: 頭隠して尻隠さず
