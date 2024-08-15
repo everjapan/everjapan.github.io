@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_jlpt/00-grammar.md",
+                "file": "_posts/2024-07-20-auxiliary-verbs.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_jlpt/00-grammar.md",
+                "file": "_posts/2024-07-20-auxiliary-verbs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_jlpt/00-grammar.md",
+                "file": "_posts/2024-07-20-auxiliary-verbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_jlpt/00-grammar.md"
+                "file": "_posts/2024-07-20-auxiliary-verbs.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "38886a14997499d9",
   "lastOpenFiles": [
+    "_posts/2024-07-19-bunsetsu.md",
+    "_posts/2024-07-20-auxiliary-verbs.md",
+    "_jlpt/00-grammar.md",
     "_site/jlpt/grammars/index.html",
     "_jlpt/01-exam.md",
     "_site/jlpt/00-grammar/index.html",
     "_site/jlpt/00-grammar",
-    "_jlpt/00-grammar.md",
     "_pages/jlpt.md",
     "_site/jlpt/00-grammar.md",
     "_site/jlpt/grammars/n5/zehi.html",
@@ -162,7 +164,6 @@
     "_site/jlpt/grammars/n5/toteomo.html",
     "_site/jlpt/grammars/n5/toomou.html",
     "_site/jlpt/grammars/n5/toki.html",
-    "_site/jlpt/grammars/n5/tewaikemasen.html",
     "_jlpt-grammars/n1-you.md",
     "_jlpt-grammars/n0-yatsu.md",
     "_jlpt-grammars/n0-makuru.md",
@@ -183,7 +184,6 @@
     "_jlpt-grammars/n5-niikimasu.md",
     "_jlpt-grammars/n5-naru.md",
     "_jlpt-grammars/n5-nakerebanaranai.md",
-    "_jlpt-grammars/n5-nakutemoii.md",
     "assets/images/japanese/part-of-speech-classification.png",
     "assets/images/japanese/Screenshot 2024-07-16 at 19.17.59.png",
     "assets/images/japanese/part-of-speech.png",
