@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3d737fa4f18ec98",
+        "id": "edf13176ebf16e00",
         "type": "tabs",
         "children": [
           {
-            "id": "38886a14997499d9",
+            "id": "288d8b62bffa69ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dake",
+                "query": "verb-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,10 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38886a14997499d9",
+  "active": "288d8b62bffa69ac",
   "lastOpenFiles": [
-    "_posts/2024-07-19-bunsetsu.md",
+    "_posts/2023-08-26-verb-tense-aspect.md",
+    "_posts/2023-08-22-japanese-continuous-verbs-and-instant-verbs.md",
+    "https：/mp.weixin.qq.com/s/jzz4MqxzL61mzl3ovqVqVA.md",
+    "https：/mp.weixin.qq.com/s",
+    "https：/mp.weixin.qq.com",
+    "https：",
+    "_posts/2023-09-09-beku-tameni.md",
     "_posts/2024-07-20-auxiliary-verbs.md",
+    "_posts/2024-07-19-bunsetsu.md",
     "_jlpt/00-grammar.md",
     "_site/jlpt/grammars/index.html",
     "_jlpt/01-exam.md",
@@ -161,9 +168,6 @@
     "_site/jlpt/grammars/n5/yori.html",
     "_site/jlpt/grammars/n5/wokudasai.html",
     "_site/jlpt/grammars/n5/wadoudesuka.html",
-    "_site/jlpt/grammars/n5/toteomo.html",
-    "_site/jlpt/grammars/n5/toomou.html",
-    "_site/jlpt/grammars/n5/toki.html",
     "_jlpt-grammars/n1-you.md",
     "_jlpt-grammars/n0-yatsu.md",
     "_jlpt-grammars/n0-makuru.md",
@@ -180,10 +184,6 @@
     "_jlpt-grammars/n5-masho.md",
     "_jlpt-grammars/n5-maeni.md",
     "_jlpt-grammars/n5-yori.md",
-    "_jlpt-grammars/n5-wadoudesuka.md",
-    "_jlpt-grammars/n5-niikimasu.md",
-    "_jlpt-grammars/n5-naru.md",
-    "_jlpt-grammars/n5-nakerebanaranai.md",
     "assets/images/japanese/part-of-speech-classification.png",
     "assets/images/japanese/Screenshot 2024-07-16 at 19.17.59.png",
     "assets/images/japanese/part-of-speech.png",
