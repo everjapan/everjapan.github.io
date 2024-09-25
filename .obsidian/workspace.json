@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-07-20-auxiliary-verbs.md",
+                "file": "_jlpt-grammars/n5-dake.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "verb-",
+                "query": "dake.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-07-20-auxiliary-verbs.md",
+                "file": "_jlpt-grammars/n5-dake.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-07-20-auxiliary-verbs.md",
+                "file": "_jlpt-grammars/n5-dake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-07-20-auxiliary-verbs.md"
+                "file": "_jlpt-grammars/n5-dake.md"
               }
             }
           }
@@ -148,6 +149,7 @@
   },
   "active": "288d8b62bffa69ac",
   "lastOpenFiles": [
+    "_posts/2024-07-20-auxiliary-verbs.md",
     "_posts/2023-08-26-verb-tense-aspect.md",
     "_posts/2023-08-22-japanese-continuous-verbs-and-instant-verbs.md",
     "https：/mp.weixin.qq.com/s/jzz4MqxzL61mzl3ovqVqVA.md",
@@ -155,7 +157,6 @@
     "https：/mp.weixin.qq.com",
     "https：",
     "_posts/2023-09-09-beku-tameni.md",
-    "_posts/2024-07-20-auxiliary-verbs.md",
     "_posts/2024-07-19-bunsetsu.md",
     "_jlpt/00-grammar.md",
     "_site/jlpt/grammars/index.html",
