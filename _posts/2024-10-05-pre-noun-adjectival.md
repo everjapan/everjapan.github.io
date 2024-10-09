@@ -26,7 +26,7 @@ toc: true
 > 
 > → 读了这本书。
 
-> ◎ **<ruby>我<rt>わ</rt></ruby>が<ruby>** 家<rt>や</rt></ruby> の<ruby>伝<rt>でん</rt></ruby><ruby>統<rt>とう</rt></ruby>です。<span class="more"><span class="more">（我が＋家）</span>
+> ◎ **<ruby>我<rt>わ</rt></ruby>が** <ruby>家<rt>や</rt></ruby> の<ruby>伝<rt>でん</rt></ruby><ruby>統<rt>とう</rt></ruby>です。<span class="more"><span class="more">（我が＋家）</span>
 > 
 > → 是我家的传统。
 
@@ -141,8 +141,9 @@ toc: true
 
 例如：
 
-- 「<ruby>当<rt>とう</rt></ruby>の<ruby>事例<rt>じれい</rt></ruby>」：指相关的案例或情况。
-- 「<ruby>当<rt>とう</rt></ruby>の<ruby>本人<rt>ほんにん</rt></ruby>」：指当事人或本人。
+⑴ 「<ruby>当<rt>とう</rt></ruby>の<ruby>事例<rt>じれい</rt></ruby>」：指相关的案例或情况。
+
+⑵ 「<ruby>当<rt>とう</rt></ruby>の<ruby>本人<rt>ほんにん</rt></ruby>」：指当事人或本人。
 
 #### ほんの
 
