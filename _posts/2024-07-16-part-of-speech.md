@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 「品词」到底指什么｜日语语法
+title: 什么是「品词」｜日语语法
 excerpt: 
 categories: japanese
 tags:

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 日语「格助词」用法详解（鬼が戸より出、空の部屋）
+title: 日语「格助词」用法详解
 excerpt: 
 categories: japanese
 tags:
