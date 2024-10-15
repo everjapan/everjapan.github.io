@@ -86,7 +86,7 @@ toc: true
 
 ## 句子成分
 
-「句子成分」句子成分是指构成句子的各个部分，它们在句子中起不同的语法作用。
+「句子成分」是指构成句子的各个部分，它们在句子中起不同的语法作用。
 
 日语中主要的句子成分包括**主语**<span class="more">（<ruby>主語<rt>しゅご</rt></ruby>）</span>、**谓语**<span class="more">（<ruby>述語<rt>じゅつご</rt></ruby>）</span>、**修饰语**<span class="more">（<ruby>修飾語<rt>しゅうしょくご</rt></ruby>）</span>、**接续语**<span class="more">（<ruby>接続語<rt>せつぞくご</rt></ruby>）</span>和**独立语**<span class="more">（<ruby>独立語<rt>どくりつご</rt></ruby>）</span>。
 
