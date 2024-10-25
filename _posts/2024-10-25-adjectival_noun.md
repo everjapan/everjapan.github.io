@@ -76,11 +76,11 @@ toc: true
 >
 > → 安静的房间
 
-> ◎ **<ruby>名<rt>な</rt></ruby>な** <ruby>人<rt>ひと</rt></ruby>
+> ◎ **<ruby>有名<rt>ゆうめい</rt></ruby>な** <ruby>人<rt>ひと</rt></ruby>
 >
 > → 有名的人
 
-**⑶ 构成句子的谓语人**
+**⑶ 构成句子的谓语**
 
 「形容动词」作为「体言」，可以独立充当谓语这一句子成分，不过通常需要加上「だ」「です」等终助词来构成完整的句子。
 
@@ -162,51 +162,51 @@ toc: true
 
 **⑴ 「-だっ」：用于接续助动词「た」或助词「たり」，表示过去或并列。**
 
-> ◎ <ruby>彼<rt>かれ</rt></ruby>は<ruby>元<rt>げん</rt></ruby><ruby>気<rt>き</rt></ruby>だった。
+> ◎ <ruby>彼<rt>かれ</rt></ruby>は **<ruby>元<rt>げん</rt></ruby><ruby>気<rt>き</rt></ruby>だった**。
 >
 > → 他曾经很有精神。
 
-> ◎ <ruby>弟<rt>おとうと</rt></ruby>は<ruby>真<rt>ま</rt></ruby><ruby>面<rt>めん</rt></ruby><ruby>目<rt>め</rt></ruby>だったり、<ruby>呑気<rt>のんき</rt></ruby>だったりします。
+> ◎ <ruby>弟<rt>おとうと</rt></ruby>は **<ruby>真<rt>ま</rt></ruby><ruby>面<rt>めん</rt></ruby><ruby>目<rt>め</rt></ruby>だったり**、**<ruby>呑気<rt>のんき</rt></ruby>だったり**します。
 >
 > → 弟弟时而认真，时而悠闲
 
-**⑵ 「で」：表示中顿或后接补助形容词「ない」、动词「ある」、助词「は、も」等。**
+**⑵ 「-で」：表示中顿或后接补助形容词「ない」、动词「ある」、助词「は、も」等。**
 
-> ◎ <ruby>彼<rt>かれ</rt></ruby>は<ruby>親<rt>しん</rt></ruby><ruby>切<rt>せつ</rt></ruby>で<ruby>誠<rt>せい</rt></ruby><ruby>実<rt>じつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>です。
+> ◎ <ruby>彼<rt>かれ</rt></ruby>は **<ruby>親<rt>しん</rt></ruby><ruby>切<rt>せつ</rt></ruby>で** <ruby>誠<rt>せい</rt></ruby><ruby>実<rt>じつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>です。
 >
 > → 他是个亲切又诚实的人。
 
-> ◎ この<ruby>問題<rt>もんだい</rt></ruby>は<ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>ではない。
+> ◎ この<ruby>問題<rt>もんだい</rt></ruby>は **<ruby>簡<rt>かん</rt></ruby><ruby>単<rt>たん</rt></ruby>ではない**。
 >
 > → 这个问题并不简单。
 
-> ◎ この<ruby>店<rt>みせ</rt></ruby>は<ruby>便<rt>べん</rt></ruby><ruby>利<rt>り</rt></ruby>であるし、<ruby>安<rt>やす</rt></ruby>いし。
+> ◎ この<ruby>店<rt>みせ</rt></ruby>は **<ruby>便<rt>べん</rt></ruby><ruby>利<rt>り</rt></ruby>である** し、<ruby>安<rt>やす</rt></ruby>いし。
 >
 > → 这家店既方便又便宜。
 
-> ◎ <ruby>彼<rt>かれ</rt></ruby>は<ruby>慎<rt>しん</rt></ruby><ruby>重<rt>ちょう</rt></ruby>ではあるが、<ruby>優<rt>ゆう</rt></ruby><ruby>柔<rt>じゅう</rt></ruby><ruby>不<rt>ふ</rt></ruby><ruby>断<rt>だん</rt></ruby>ではない。
+> ◎ <ruby>彼<rt>かれ</rt></ruby>は **<ruby>慎<rt>しん</rt></ruby><ruby>重<rt>ちょう</rt></ruby>ではある** が、<ruby>優<rt>ゆう</rt></ruby><ruby>柔<rt>じゅう</rt></ruby><ruby>不<rt>ふ</rt></ruby><ruby>断<rt>だん</rt></ruby>ではない。
 >
 > → 他虽然谨慎，但并不优柔寡断。
 
-> ◎ <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>優<rt>ゆう</rt></ruby><ruby>秀<rt>しゅう</rt></ruby>でもあり、<ruby>謙<rt>けん</rt></ruby><ruby>虚<rt>きょ</rt></ruby>でもある。
+> ◎ <ruby>彼女<rt>かのじょ</rt></ruby>は **<ruby>優<rt>ゆう</rt></ruby><ruby>秀<rt>しゅう</rt></ruby>でもあり**、**<ruby>謙<rt>けん</rt></ruby><ruby>虚<rt>きょ</rt></ruby>でもある**。
 >
 > → 她既优秀又谦虚。
 
-**⑶ 「に」：用作连用修饰语，修饰动词、形容词或其他形容动词。**
+**⑶ 「-に」：用作连用修饰语，修饰动词、形容词或其他形容动词。**
 
-> ◎ <ruby>静<rt>しず</rt></ruby>かに<ruby>話<rt>はな</rt></ruby>してください。
+> ◎ **<ruby>静<rt>しず</rt></ruby>かに** <ruby>話<rt>はな</rt></ruby>してください。
 >
 > → 请安静地说话。
 
-> ◎ <ruby>特<rt>とく</rt></ruby><ruby>別<rt>べつ</rt></ruby>に<ruby>美<rt>うつく</rt></ruby>しい<ruby>景<rt>けい</rt></ruby><ruby>色<rt>しき</rt></ruby>です。
+> ◎ **<ruby>特<rt>とく</rt></ruby><ruby>別<rt>べつ</rt></ruby>に** <ruby>美<rt>うつく</rt></ruby>しい<ruby>景<rt>け</rt></ruby><ruby>色<rt>しき</rt></ruby>です。
 >
 > → 特别美丽的景色。
 
-> ◎ <ruby>驚<rt>おどろ</rt></ruby>くほど<ruby>上手<rt>じょうず</rt></ruby>に<ruby>演<rt>えん</rt></ruby><ruby>奏<rt>そう</rt></ruby>します。
+> ◎ **<ruby>驚<rt>おどろ</rt></ruby>くほど** <ruby>上手<rt>じょうず</rt></ruby>に<ruby>演<rt>えん</rt></ruby><ruby>奏<rt>そう</rt></ruby>します。
 >
 > → 惊人地精湛地演奏。
 
-> ◎ <ruby>元<rt>げん</rt></ruby><ruby>気<rt>き</rt></ruby>に<ruby>暮<rt>く</rt></ruby>らしています。
+> ◎ **<ruby>元<rt>げん</rt></ruby><ruby>気<rt>き</rt></ruby>に** <ruby>暮<rt>く</rt></ruby>らしています。
 >
 > → 健康地生活着。
 
@@ -328,15 +328,15 @@ toc: true
 
 形容动词的假定形「なら」只能后接假定助词「ば」表示假定（「ば」可以省略）。
 
-> ◎ <ruby>静<rt>しず</rt></ruby>かならば、<ruby>勉<rt>べん</rt></ruby><ruby>強<rt>きょう</rt></ruby>できる。  
+> ◎ **<ruby>静<rt>しず</rt></ruby>かならば**、<ruby>勉<rt>べん</rt></ruby><ruby>強<rt>きょう</rt></ruby>できる。  
 >   
 > → 如果安静的话，就能学习。
 
-> ◎ <ruby>危<rt>き</rt></ruby><ruby>険<rt>けん</rt></ruby>なら、やめましょう。  
+> ◎ **<ruby>危<rt>き</rt></ruby><ruby>険<rt>けん</rt></ruby>なら**、やめましょう。
 >   
 > → 如果危险的话，就不要做了。
 
-> ◎ <ruby>親<rt>しん</rt></ruby><ruby>切<rt>せつ</rt></ruby>ならば、<ruby>教<rt>おし</rt></ruby><ruby>えて<rt></rt></ruby>いただけませんか。  
+> ◎ **<ruby>親<rt>しん</rt></ruby><ruby>切<rt>せつ</rt></ruby>ならば**、<ruby>教<rt>おし</rt></ruby><ruby>えて<rt></rt></ruby>いただけませんか。  
 >   
 > → 如果您方便的话，能教教我吗？
 
@@ -353,7 +353,7 @@ toc: true
 形容词 | イ形容词 | <ruby>美<rt>うつく</rt></ruby>しい、<ruby>高<rt>たか</rt></ruby>い
 形容动词 | ナ形容词 | <ruby>綺<rt>き</rt></ruby><ruby>麗<rt>れい</rt></ruby>だ、<ruby>静<rt>しず</rt></ruby>かだ
 
-面向外国学习者的日本语文法将两者统一归类为形容词，但以词尾特征区分：
+面向外国学习者的日本语文法将两者统一归类为形容词，但以词尾区分特征：
 
 - イ形容词（形容词）：以「〜い」结尾
 - ナ形容词（形容动词）：以「〜だ」结尾
@@ -400,8 +400,8 @@ toc: true
 
 利用这个规则，我们来区分一下「いろいろな国」和「いろんな国」：
 
-- いろいろ → いろいろだった ⭕️ （形容动词）
-- いろん → ~~いろんだった~~ ❌ （连体词）
+- いろいろ → いろいろだった ⭕️ 
+- いろん → ~~いろんだった~~ ❌
 
 由此可见，「いろいろ」是形容动词，而「いろん」是连体词。
 
