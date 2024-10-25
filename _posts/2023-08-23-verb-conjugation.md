@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 日语动词活用难不难？只要get这些秘诀，轻松搞定！
+title: 详解日语动词活用
 excerpt: 「活用形」和「活用类型」这两个术语非常相似，特别容易搞混。「活用形」指的是单词在活用时的形态，而「活用类型」则指的是单词的活用方式。
 categories: japanese
 tags:
