@@ -5,12 +5,6 @@ permalink: /jlpt/grammars/n5/taritari
 level: N5
 ---
 
-## 意思
-
-### 🇨🇳 中文
-
-- 各
-
 ### 🇯🇵 日文
 
 - 複数ある事柄の中から代表的なものを２、３挙げて言う表現。
