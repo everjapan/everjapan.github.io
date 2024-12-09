@@ -349,7 +349,7 @@ toc: true
 
 强调某人因自己行为导致他人某种反应或状态。  
 
-> ◎ <ruby>彼<rt>かれ</rt></ruby>の<ruby>冗談<rt>じょうだん</rt></ruby>は<ruby>みんな</ruby>を<ruby>笑<rt>わら</rt></ruby>せた。
+> ◎ <ruby>彼<rt>かれ</rt></ruby>の<ruby>冗談<rt>じょうだん</rt></ruby>は<ruby>みんな</ruby>を<ruby>笑<rt>わら</rt></ruby>わせた。
 > 
 > → 他的笑话让大家笑了。
 
@@ -459,13 +459,13 @@ toc: true
 > 
 > → 他拍了自己的膝盖。
 
-> ◎ <ruby>私<rt>わたし</rt></ruby>は<ruby>目<rt>め</rt></ruby>を<ruby>こす</rt></ruby>った。
+> ◎ <ruby>私<rt>わたし</rt></ruby>は<ruby>目<rt>め</rt></ruby>をこすった。
 > 
 > → 我揉了揉自己的眼睛。
 
 **⑵ 表达心理或行为上的反身**
 
-可以用于描述主语在心理或行为上的“对自己做某事”。
+可以用于描述主语在心理或行为上的「对自己做某事」。
 
 > ◎ <ruby>彼<rt>かれ</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>を<ruby>責<rt>せ</rt></ruby>めた。
 > 
