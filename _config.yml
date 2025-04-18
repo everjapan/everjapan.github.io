@@ -40,7 +40,7 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "zh-CN"
@@ -48,21 +48,21 @@ title                    : "日系生活家"
 title_separator          : "-"
 subtitle                 : # "怀抱理性，心向未来"
 name                     : &name "日系生活家" # &name is a YAML anchor which can be *referenced later
-description              : &description "怀抱理性、心向未来"
-url                      : https://everjapan.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : ""
+description              : &description "语言 | 历史 | 生活"
+url                      : https://everjapan.com
+baseurl                  : "" # Remove any subpath since your site is at root level
+repository               : "everjapan/everjapan.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 # words_per_minute         : 100
 
-#analytics:
-#  provider               : "google-gtag"
-#  google:
-#    tracking_id          : "G-YJ11QR950Q"
-#    anonymize_ip         : false # default
+analytics:
+  provider               : "google-gtag"
+  google:
+    tracking_id          : "G-S2B9GP1DWZ"
+    anonymize_ip         : false
 
 author:
   name                   : "日系生活家"
@@ -176,6 +176,9 @@ defaults:
       layout: single
       author_profile: true
       permalink: /:categories/:title/
+      toc: true
+      toc_sticky: true
+      show_date: true
 
   # JLPT Grammars/Exams
   - scope:
