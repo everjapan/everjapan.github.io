@@ -1,54 +1,14 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "zh-CN"
 title                    : "日系生活家"
 title_separator          : "-"
-subtitle                 : # "怀抱理性，心向未来"
+subtitle                 : ""
 name                     : &name "日系生活家" # &name is a YAML anchor which can be *referenced later
-description              : &description "语言 | 历史 | 生活"
+description              : &description "感受生活"
 url                      : https://everjapan.com
 baseurl                  : "" # Remove any subpath since your site is at root level
 repository               : "everjapan/everjapan.github.io"
@@ -57,6 +17,8 @@ logo                     : "/assets/images/logo.jpg" # path of logo image to dis
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 # words_per_minute         : 100
+
+github_metadata          : false
 
 analytics:
   provider               : "google-gtag"
@@ -68,16 +30,13 @@ author:
   name                   : "日系生活家"
   avatar                 : "/assets/images/qrcode_for_gh.jpg"
   email                  : "everjapan@163.com"
-  bio                    : "☝️扫码关注公众号️️☝️"
+  bio                    : "语言・生活・阅读"
   links:
     - label              : "小红书"
       url                : "https://www.xiaohongshu.com/user/profile/642b0b6f000000001400eda2"
     - label              : "B站"
-      # icon               : "fab fa-brands fa-bilibili"
+      icon               : "fab fa-brands fa-bilibili"
       url                : "https://space.bilibili.com/481782510"
-    - label              : "喜马拉雅"
-      # icon               : "fab fa-solid fa-podcast"
-      url                : "https://www.ximalaya.com/zhubo/210189066"
     - label              : "抖音"
       icon               : "fab fa-brands fa-tiktok"
       url                : "https://www.douyin.com/user/MS4wLjABAAAA1ZxYZLzx2yD9HCxvA5fLQSmA_L2AntzHulU2RfMsDOM"
@@ -148,6 +107,9 @@ collections:
   vocabulary:
     output: true
     permalink: /:collection/:path/
+  grammar-tutorial:
+    output: true
+    permalink: /:collection/:path/
   jlpt-grammars:
     output: true
     permalink: /:collection/:path/
@@ -179,6 +141,18 @@ defaults:
       toc: true
       toc_sticky: true
       show_date: true
+
+  # _grammar
+  - scope:
+      path: ""
+      type: grammar-tutorial
+    values:
+      layout: single
+      author_profile: false
+      toc: true
+      toc_sticky: true
+      sidebar: 
+        - nav: grammar-tutorial
 
   # JLPT Grammars/Exams
   - scope:

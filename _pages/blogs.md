@@ -1,4 +1,5 @@
 ---
 layout: home
-permalink: /
+permalink: /blog/
+title: 博客
 ---

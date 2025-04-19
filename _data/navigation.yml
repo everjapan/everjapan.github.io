@@ -1,3 +1,37 @@
+main:
+- title: 首页
+  url: /
+- title: 博客
+  url: /blog
+- title: 语法
+  url: /grammar
+- title: JLPT
+  url: /jlpt
+- title: 会话
+  url: /daily
+- title: 资料
+  url: /study-materials
+
+grammar-tutorial:
+- title: 基础
+  children:
+  - title: 日语语法基础
+    url: /grammar/basic
+  - title: 句节
+    url: /grammar/section
+- title: 构造
+  children:
+  - title: 主语
+    url: /grammar/subject
+  - title: 谓语
+    url: /grammar/predicate
+  - title: 修饰语
+    url: /grammar/modifier
+  - title: 接续语
+    url: /grammar/connective
+  - title: 独立语
+    url: /grammar/independent
+
 daily:
 - children:
   - title: 自我介绍
@@ -1087,21 +1121,6 @@ jumpstart:
   - title: 日语文字起源
     url: /japanese/kanji-kata-origin/
   title: 五十音入门
-main:
-- title: 最新文章
-  url: /
-- title: 日语入门
-  url: /jumpstart
-- title: JLPT语法
-  url: /jlpt/grammars
-- title: JLPT真题
-  url: /jlpt/exams
-- title: 日语谚语
-  url: /proverbs/
-- title: 生活日语
-  url: /daily/
-- title: 学习资料
-  url: /study-materials/
 proverbs:
 - children:
   - title: 頭隠して尻隠さず

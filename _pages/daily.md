@@ -1,8 +1,8 @@
 ---
-title: 生活日语
+title: 日常会话
 layout: collection
 permalink: /daily/
 collection: daily
-entries_layout: grid
+entries_layout: list
 classes: wide
 ---

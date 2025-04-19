@@ -3,6 +3,6 @@ title: JLPT
 layout: collection
 collection: jlpt
 permalink: /jlpt/
-entries_layout: list
+entries_layout: grid
 classes: wide
 ---
