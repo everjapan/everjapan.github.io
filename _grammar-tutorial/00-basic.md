@@ -1,5 +1,5 @@
 ---
-title: 日语语法基础
+title: 语法总结
 permalink: /grammar/basic
 ---
 

@@ -13,24 +13,38 @@ main:
   url: /study-materials
 
 grammar-tutorial:
-- title: 基础
+- title: 语法基础
   children:
-  - title: 日语语法基础
+  - title: 语法总结
     url: /grammar/basic
   - title: 句节
     url: /grammar/section
-- title: 构造
+  - title: 品词
+    url: /grammar/part-of-speech
+- title: 品词
   children:
-  - title: 主语
-    url: /grammar/subject
-  - title: 谓语
-    url: /grammar/predicate
-  - title: 修饰语
-    url: /grammar/modifier
-  - title: 接续语
-    url: /grammar/connective
-  - title: 独立语
-    url: /grammar/independent
+  - title: 名词
+    url: /grammar/noun
+  - title: 动词
+    url: /grammar/verb
+  - title: 形容词
+    url: /grammar/adjective
+  - title: 形容动词
+    url: /grammar/adjective-verb
+  - title: 助词
+    url: /grammar/postpositional-particle
+  - title: 助动词
+    url: /grammar/auxiliary_verb
+  - title: 连体词
+    url: /grammar/pre-noun-adjectival
+  - title: 接续词
+    url: /grammar/conjunction
+  - title: 感叹词
+    url: /grammar/interjection
+- title: 敬语
+  children:
+    - title: 敬语总结
+      url: /grammar/honorific
 
 daily:
 - children:
