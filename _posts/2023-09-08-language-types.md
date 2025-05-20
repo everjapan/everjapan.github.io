@@ -9,14 +9,17 @@ tags:
 toc: true
 ---
 
-前面介绍日语「提示助词」和「格助词」用法区别的文章中，我们提到过**日语属于「黏着语」。**
+前面介绍日语[「提示助词」和「格助词」用法区别](/japanese/toritate-joshi/)的文章中，我们提到过**日语属于「黏着语」。**
 
 如果按照语言的结构特点进行分类，世界上的语言大致可分为如下四种类型：
 
-黏着语 | 日语：膠着語 | 英语：agglutinating language
-孤立语 | 日语：孤立語 | 英语：isolating language
-屈折语 | 日语：屈折語 | 英语：inflecting language
-多式综合语 | 日语：抱合語 | 英语：incorporating language
+语言类型 | 日语名称 | 英语名称
+--- | --- | ---
+
+黏着语 | 膠着語 | agglutinating language
+孤立语 | 孤立語 | isolating language
+屈折语 | 屈折語 | inflecting language
+多式综合语 | 抱合語 | incorporating language
 
 不过，并不是所有的语言都可以精确地划分到以上四个类型中，有的语言兼具两种类型的特点。
 
