@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: 日本料理
 ---
 

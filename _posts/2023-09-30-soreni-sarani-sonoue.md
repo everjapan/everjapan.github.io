@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 如何区分「それに」「さらに」「その上」的用法
 excerpt: 
 categories: japanese

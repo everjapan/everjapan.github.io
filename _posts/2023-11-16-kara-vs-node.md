@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 日语助词「から」和「ので」的区别
 excerpt:
 categories: japanese

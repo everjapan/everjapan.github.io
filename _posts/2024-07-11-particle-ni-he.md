@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 日语助词「に」和「へ」的用法辨析
 excerpt:
 categories: japanese

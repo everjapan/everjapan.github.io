@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 学会正确使用「お疲れ様」和「ご苦労様」
 excerpt: 
 categories: japanese

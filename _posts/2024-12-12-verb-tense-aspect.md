@@ -1,11 +1,12 @@
 ---
-layout: single
+layout: post
 title: 日语动词的「时」与「体」
 excerpt: 
 categories: japanese
 tags:
   - 日语语法
 toc: true
+permalink: /japanese/verb-tense-aspect-updated/
 ---
 
 要学好日语动词，关键在于掌握「时」「体」和「态」这三个核心语法概念。

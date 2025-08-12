@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 日语条件表达：「～たら」「～ば」「～と」「～なら」「～場合」
 excerpt: 
 categories: japanese

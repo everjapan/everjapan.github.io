@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 解析「和食」与「日本料理」的区别
 excerpt: 「和食」和「日本料理」都是日式美食的重要组成部分，理解两者的区别有助于我们更好地认识和享用这一风靡全球的美食文化。
 categories: food

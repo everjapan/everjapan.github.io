@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 日语「度に」和「ごとに」的区别
 excerpt: 
 categories: japanese

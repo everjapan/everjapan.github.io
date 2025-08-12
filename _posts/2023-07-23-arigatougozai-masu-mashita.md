@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: ありがとうござい「ます」和「ました」的区别
 categories: japanese
 tags:

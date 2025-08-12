@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 日语「だろう」和「のだろう」的区别
 excerpt:
 categories: japanese

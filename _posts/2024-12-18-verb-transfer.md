@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 日语动词：授受动词
 excerpt:
 categories: japanese

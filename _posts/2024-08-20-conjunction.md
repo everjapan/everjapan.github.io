@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 日语「接续词」用法详解
 excerpt: 
 categories: japanese

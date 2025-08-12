@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 日语「そうですね」和「そうなんですね」的区别
 excerpt: 日语中的「そうですね」和「そうなんですね」都是表示听话回应的表达方式。两种表达方式看起来有些相似，但实际上有微妙的差别。
 categories: japanese

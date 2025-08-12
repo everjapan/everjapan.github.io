@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'zh-CN' }}">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>{% if page.title %}{{ page.title | escape }} | {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+
+    <!-- Fonts with CJK support -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- Inter for Latin characters -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Noto Sans for comprehensive CJK support -->
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;600;700&family=Noto+Sans+TC:wght@300;400;500;600;700&family=Noto+Sans+JP:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" href="{{ site.logo | relative_url }}">
+    
+    <!-- Analytics -->
+    {% if site.analytics.google.tracking_id %}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google.tracking_id }}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.analytics.google.tracking_id }}');
+    </script>
+    {% endif %}
+</head>
+
+<body class="layout-{{ page.layout | default: layout.layout }}">
+    
+    <!-- Header -->
+    <header class="site-header">
+        <div class="header-container">
+            <div class="header-brand">
+                <a href="{{ '/' | relative_url }}" class="site-title">
+                    {% if site.logo %}
+                        <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="site-logo">
+                    {% endif %}
+                    {{ site.title }}
+                </a>
+            </div>
+            
+            <nav class="site-nav">
+                {% for link in site.data.navigation.main %}
+                    <a href="{{ link.url | relative_url }}" 
+                       class="nav-link{% if page.url == link.url %} current{% endif %}">
+                        {{ link.title }}
+                    </a>
+                {% endfor %}
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content" role="main">
+        {{ content }}
+    </main>
+
+    <!-- Footer -->
+    <footer class="site-footer">
+        <div class="footer-container">
+            <div class="footer-info">
+                <p>&copy; {{ 'now' | date: '%Y' }} {{ site.title }}. 
+                   <span class="footer-description">{{ site.description }}</span>
+                </p>
+            </div>
+            
+            <div class="footer-social">
+                {% for link in site.author.links %}
+                    <a href="{{ link.url }}" target="_blank" rel="noopener" class="social-link">
+                        {{ link.label }}
+                    </a>
+                {% endfor %}
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>

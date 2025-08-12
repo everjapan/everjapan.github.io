@@ -1,0 +1,62 @@
+---
+layout: default
+---
+
+<div class="post-container">
+    <article class="post">
+        <header class="post-header">
+            <h1 class="post-title">{{ page.title | escape }}</h1>
+            <div class="post-meta">
+                <time class="post-date" datetime="{{ page.date | date_to_xmlschema }}">
+                    {{ page.date | date: '%Y年%m月%d日' }}
+                </time>
+                {% if page.categories.size > 0 %}
+                    <span class="post-categories">
+                        {% for category in page.categories %}
+                            <span class="category">{{ category }}</span>
+                        {% endfor %}
+                    </span>
+                {% endif %}
+                {% if page.tags.size > 0 %}
+                    <span class="post-tags">
+                        {% for tag in page.tags %}
+                            <span class="tag">{{ tag }}</span>
+                        {% endfor %}
+                    </span>
+                {% endif %}
+            </div>
+        </header>
+
+        <div class="post-content">
+            {{ content }}
+        </div>
+
+        {% if page.show_date %}
+        <footer class="post-footer">
+            <p class="post-updated">
+                最后更新：<time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%Y年%m月%d日' }}</time>
+            </p>
+        </footer>
+        {% endif %}
+    </article>
+
+    <!-- Navigation to next/previous posts -->
+    <nav class="post-nav">
+        {% if page.previous %}
+            <div class="post-nav-prev">
+                <a href="{{ page.previous.url | relative_url }}" rel="prev">
+                    <span class="nav-label">← 上一篇</span>
+                    <span class="nav-title">{{ page.previous.title }}</span>
+                </a>
+            </div>
+        {% endif %}
+        {% if page.next %}
+            <div class="post-nav-next">
+                <a href="{{ page.next.url | relative_url }}" rel="next">
+                    <span class="nav-label">下一篇 →</span>
+                    <span class="nav-title">{{ page.next.title }}</span>
+                </a>
+            </div>
+        {% endif %}
+    </nav>
+</div>

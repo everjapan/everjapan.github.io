@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 如何区分使用「ではないか」和「のではないか」
 categories: japanese
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 日语「いけない」和「ならない」的区别
 excerpt:
 categories: japanese

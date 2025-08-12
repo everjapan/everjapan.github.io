@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 日语动词的四种态：主动态、被动态、反身态和相互态
 excerpt: 
 categories: japanese

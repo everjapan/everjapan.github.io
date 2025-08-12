@@ -1,6 +1,4 @@
-remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-
-minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# Pure Jekyll configuration - no remote themes
 
 # Site Settings
 locale                   : "zh-CN"
@@ -15,7 +13,7 @@ repository               : "everjapan/everjapan.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true # true, false (default)
+# breadcrumbs            : false # not needed for pure Jekyll
 # words_per_minute         : 100
 
 github_metadata          : false
@@ -120,83 +118,57 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Defaults
+# Defaults for pure Jekyll
 defaults:
   # _pages
   - scope:
       path: "_pages"
       type: pages
     values:
-      layout: single
-      author_profile: true
+      layout: page
 
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
+      layout: post
       permalink: /:categories/:title/
-      toc: true
-      toc_sticky: true
-      show_date: true
 
   # _grammar
   - scope:
       path: ""
       type: grammar-tutorial
     values:
-      layout: single
-      author_profile: false
-      toc: true
-      toc_sticky: true
-      sidebar: 
-        - nav: grammar-tutorial
+      layout: page
 
   # JLPT Grammars/Exams
   - scope:
       path: ""
       type: jlpt
     values:
-      layout: single
-      author_profile: true
-      toc: true
+      layout: page
 
   # JLPT Grammars
   - scope:
       path: ""
       type: jlpt-grammars
     values:
-      layout: grammer
-      author_profile: false
-      toc: false
-      sidebar: 
-          - nav: jlpt-grammars
-
+      layout: page
 
   # _proverbs
   - scope:
       path: ""
       type: proverbs
     values:
-      layout: single
-      author_profile: false
-      toc: false
-      sidebar:
-        - nav: proverbs
+      layout: page
 
   # _daily
   - scope:
       path: ""
       type: daily
     values:
-      layout: single
-      author_profile: false
-      toc: true
-      share: true
-      sidebar:
-        - nav: daily 
+      layout: page 
 
 # Sass/SCSS
 sass:
@@ -205,27 +177,23 @@ sass:
 
 # Outputting
 # permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
+paginate: 8 # amount of posts to show
+paginate_path: /page:num/
 timezone: Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
 
 category_archive:
   type: liquid

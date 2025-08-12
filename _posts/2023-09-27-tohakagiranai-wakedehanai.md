@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 「わけではない」和「とはかぎらない」的用法区分
 excerpt: 
 categories: japanese

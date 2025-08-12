@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 为什么日语中有那么多简略表达？
 excerpt:
 categories: japanese

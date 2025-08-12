@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 关于「思う」「思える」「思われる」的区别
 excerpt: 
 categories: japanese

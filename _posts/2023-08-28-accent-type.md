@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 了解「词调」和「调核」，探索日语发音规律
 excerpt: 
 categories: japanese

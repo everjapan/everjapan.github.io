@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 常见的语言类型：黏着语、孤立语、屈折语、多式综合语
 excerpt: 
 categories: japanese

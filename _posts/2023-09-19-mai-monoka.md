@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 日语「まい」和「ものか」的区别
 excerpt:
 categories: japanese

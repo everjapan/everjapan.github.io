@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 日语语法基础知识
 excerpt:
 categories: japanese

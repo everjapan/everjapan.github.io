@@ -1,16 +1,14 @@
 main:
 - title: 首页
   url: /
-- title: 博客
-  url: /blog
-- title: 语法
+- title: 日语入门
+  url: /jumpstart
+- title: 日语语法
   url: /grammar
-- title: JLPT
-  url: /jlpt
-- title: 会话
-  url: /daily
-- title: 资料
+- title: 日语资料
   url: /study-materials
+- title: 关于
+  url: /about
 
 grammar-tutorial:
 - title: 语法基础

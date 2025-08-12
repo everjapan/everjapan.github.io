@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 🍣 寿司的起源和历史
 excerpt: 寿代表祝寿之意，司代表主管，寿司字面意思就是主管祝寿的食物，因为过去多在祝寿宴上食用。
 categories: food

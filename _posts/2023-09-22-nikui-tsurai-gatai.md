@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 「にくい」「つらい」「がたい」
 excerpt:
 categories: japanese

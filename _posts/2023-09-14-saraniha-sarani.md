@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 日语「さらには」和「さらに」的区别
 excerpt: 
 categories: japanese

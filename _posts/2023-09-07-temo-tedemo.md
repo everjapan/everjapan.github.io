@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 日语「ても」和「てでも」区别
 excerpt: 
 categories: japanese

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: 如何区分「～うちに」和「～あいだに」
 excerpt: 
 categories: japanese
