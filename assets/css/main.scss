@@ -754,8 +754,14 @@ ul, ol {
             height: 100px;
         }
 
-        .author-info .social-links {
-            justify-content: center;
+        .author-info {
+            .author-bio {
+                text-align: center;
+            }
+            
+            .social-links {
+                justify-content: center;
+            }
         }
     }
 }
