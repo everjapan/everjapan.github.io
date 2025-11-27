@@ -17,20 +17,19 @@ search: false
 
 html {
     // Override minimal-mistakes responsive font sizing
-    // Original: 16px → 18px → 20px → 22px
-    // New: 14px → 15px → 16px → 16px (more comfortable for Chinese/Japanese)
-    font-size: 14px !important;
+    // Optimized for better mobile readability
+    font-size: 16px !important;
 
     @media (min-width: 48em) {
-        font-size: 15px !important;
+        font-size: 17px !important;
     }
 
     @media (min-width: 64em) {
-        font-size: 16px !important;
+        font-size: 18px !important;
     }
 
     @media (min-width: 80em) {
-        font-size: 16px !important;
+        font-size: 18px !important;
     }
 }
 
@@ -172,13 +171,14 @@ ruby {
 @media (max-width: 768px) {
     .page__content {
         p, li, dl, dd, dt {
-            font-size: 0.95em;
+            // Keep standard size for better readability on mobile
+            font-size: 1em;
         }
     }
 
     // Better table handling on mobile
     .page__content table {
-        font-size: 0.85em;
+        font-size: 0.9em;
 
         th, td {
             padding: 0.5em;
@@ -196,13 +196,13 @@ ruby {
     .archive__item-title {
         margin-top: 0.5em;
         margin-bottom: 0.25em;
-        font-size: 1.1em;
+        font-size: 1.2em;
         line-height: 1.4;
     }
 
     .archive__item-excerpt {
         margin-top: 0.5em;
-        font-size: 0.95em;
+        font-size: 1em;
         line-height: 1.7;
     }
 }
@@ -211,7 +211,7 @@ ruby {
    ========================================================================== */
 
 .page__title {
-    font-size: 1.8em;
+    font-size: 2em;
     line-height: 1.3;
     margin-bottom: 0.5em;
 }
@@ -221,10 +221,10 @@ h1, h2, h3, h4, h5, h6 {
     margin: 1.5em 0 0.8em;
 }
 
-h1 { font-size: 1.6em; }
-h2 { font-size: 1.35em; }
-h3 { font-size: 1.15em; }
-h4 { font-size: 1.05em; }
+h1 { font-size: 1.75em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.25em; }
+h4 { font-size: 1.1em; }
 
 /* Navigation Enhancement
    ========================================================================== */
@@ -273,7 +273,7 @@ h4 { font-size: 1.05em; }
    ========================================================================== */
 
 .breadcrumbs {
-    font-size: 0.85em;
+    font-size: 1em;
 
     a {
         color: $muted-text-color;
