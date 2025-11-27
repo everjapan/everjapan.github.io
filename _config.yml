@@ -3,7 +3,7 @@
 # Use remote_theme for GitHub Pages compatibility
 remote_theme             : "mmistakes/minimal-mistakes@4.27.3"
 
-minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "zh-CN"
