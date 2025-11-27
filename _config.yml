@@ -1,6 +1,7 @@
 # Jekyll configuration with minimal-mistakes theme
 
-theme                    : "minimal-mistakes-jekyll"
+# Use remote_theme for GitHub Pages compatibility
+remote_theme             : "mmistakes/minimal-mistakes@4.27.3"
 
 minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -302,6 +303,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -311,6 +313,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 category_archive:
   type: liquid
