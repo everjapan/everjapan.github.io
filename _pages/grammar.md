@@ -1,6 +1,6 @@
 ---
 title: 简明日语语法教程
-layout: page
+layout: single
 permalink: /grammar/
 ---
 

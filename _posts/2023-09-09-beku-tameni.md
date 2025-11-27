@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 日语「べく」和「ために」有什么区别？
 excerpt: 
 categories: japanese

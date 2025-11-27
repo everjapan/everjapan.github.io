@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 日语助词组合「には」用法详解
 excerpt:
 categories: japanese

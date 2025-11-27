@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 日语「にしては」和「わりには」的区别
 excerpt:
 categories: japanese

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 如何区分「通して」和「通じて」
 excerpt: 
 categories: japanese

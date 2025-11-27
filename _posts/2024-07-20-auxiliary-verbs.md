@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 日语「助动词」用法详解
 excerpt: 
 categories: japanese

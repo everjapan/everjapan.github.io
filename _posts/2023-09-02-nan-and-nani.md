@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 日语「なん」和「なに」的区别
 excerpt:
 categories: japanese

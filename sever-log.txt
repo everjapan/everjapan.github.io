@@ -1,0 +1,10 @@
+Configuration file: /Users/feelang/source/everjapan/everjapan.github.io/_config.yml
+            Source: /Users/feelang/source/everjapan/everjapan.github.io
+       Destination: /Users/feelang/source/everjapan/everjapan.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 3.609 seconds.
+ Auto-regeneration: enabled for '/Users/feelang/source/everjapan/everjapan.github.io'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.

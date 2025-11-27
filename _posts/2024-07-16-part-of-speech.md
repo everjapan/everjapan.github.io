@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 什么是「品词」｜日语语法
 excerpt: 
 categories: japanese

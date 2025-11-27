@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 「〜と思う」和「〜と思っている」的区别
 excerpt:
 categories: japanese

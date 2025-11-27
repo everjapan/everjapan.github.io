@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 「绝对敬语」和「相对敬语」的极简介绍
 excerpt:
 categories: japanese

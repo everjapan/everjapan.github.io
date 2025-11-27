@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 日语中那些「为他人着想」的表达方式
 excerpt:
 categories: japanese

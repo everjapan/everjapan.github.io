@@ -1,12 +1,14 @@
 main:
 - title: 首页
   url: /
-- title: 日语入门
-  url: /jumpstart
-- title: 日语语法
-  url: /grammar
-- title: 日语资料
-  url: /study-materials
+- title: 新手指南
+  url: /getting-started
+- title: 语言
+  url: /language
+- title: 生活
+  url: /life
+- title: 读书
+  url: /reading
 - title: 关于
   url: /about
 

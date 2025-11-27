@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 日语动词的「时」与「体」
 excerpt: 
 categories: japanese

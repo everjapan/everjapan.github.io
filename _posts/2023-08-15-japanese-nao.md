@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 「なお」vs「また」，你用对了吗？
 categories: japanese
 tags:

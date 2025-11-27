@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 日语「うれしい」和「楽しい」有什么不同？
 excerpt: 「うれしい」和「楽しい」这两个形容词虽然都可以翻译成「开心、高兴」，但它们的用法、表现的语境不太一样，使用时要注意区分。
 categories: japanese

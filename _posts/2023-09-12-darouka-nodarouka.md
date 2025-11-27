@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 日语「だろうか」和「のだろうか」的区别
 excerpt: 
 categories: japanese

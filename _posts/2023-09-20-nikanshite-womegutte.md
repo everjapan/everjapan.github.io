@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 日语「～に関して」和「～をめぐって」的区别
 excerpt:
 categories: japanese

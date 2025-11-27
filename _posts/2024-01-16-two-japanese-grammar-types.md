@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 日语文法系统简介：日本语文法 vs 国语文法
 excerpt:
 categories: japanese

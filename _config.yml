@@ -1,4 +1,8 @@
-# Pure Jekyll configuration - no remote themes
+# Jekyll configuration with minimal-mistakes theme
+
+theme                    : "minimal-mistakes-jekyll"
+
+minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "zh-CN"
@@ -13,8 +17,11 @@ repository               : "everjapan/everjapan.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # not needed for pure Jekyll
+breadcrumbs              : true # true, false (default)
 # words_per_minute         : 100
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : lunr # lunr (default), algolia, google
 
 github_metadata          : false
 
@@ -28,7 +35,7 @@ author:
   name                   : "日系生活家"
   avatar                 : "/assets/images/qrcode_for_gh.jpg"
   email                  : "everjapan@163.com"
-  bio                    : "语言・生活・阅读"
+  bio                    : "语言・生活・读书"
   links:
     - label              : "小红书"
       url                : "https://www.xiaohongshu.com/user/profile/642b0b6f000000001400eda2"
@@ -73,6 +80,9 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - _layouts_backup
+  - docs
+  - test
 keep_files:
   - .git
   - .svn
@@ -117,58 +127,161 @@ collections:
   daily:
     output: true
     permalink: /:collection/:path/
+  japanese-food:
+    output: true
+    permalink: /:collection/:path/
+  japanese-culture:
+    output: true
+    permalink: /:collection/:path/
+  travel:
+    output: true
+    permalink: /:collection/:path/
+  reading-japanese-learning:
+    output: true
+    permalink: /:collection/:path/
+  reading-history-culture:
+    output: true
+    permalink: /:collection/:path/
+  reading-politics-economy:
+    output: true
+    permalink: /:collection/:path/
 
-# Defaults for pure Jekyll
+# Defaults
 defaults:
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: page
-
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: post
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+      toc: true
+      toc_label: '目录'
       permalink: /:categories/:title/
+
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      toc: true
+      toc_label: '目录'
 
   # _grammar
   - scope:
       path: ""
       type: grammar-tutorial
     values:
-      layout: page
+      layout: single
+      author_profile: false
+      toc: true
+      toc_label: '目录'
 
   # JLPT Grammars/Exams
   - scope:
       path: ""
       type: jlpt
     values:
-      layout: page
+      layout: single
+      author_profile: false
+      toc: true
+      toc_label: '目录'
 
   # JLPT Grammars
   - scope:
       path: ""
       type: jlpt-grammars
     values:
-      layout: page
+      layout: single
+      author_profile: false
+      toc: true
+      toc_label: '目录'
 
   # _proverbs
   - scope:
       path: ""
       type: proverbs
     values:
-      layout: page
+      layout: single
+      author_profile: false
+      toc: true
+      toc_label: '目录'
 
   # _daily
   - scope:
       path: ""
       type: daily
     values:
-      layout: page 
+      layout: single
+      author_profile: false
+      toc: true
+      toc_label: '目录'
+
+  # _japanese-food
+  - scope:
+      path: ""
+      type: japanese-food
+    values:
+      layout: single
+      author_profile: false
+      toc: true
+      toc_label: '目录'
+
+  # _japanese-culture
+  - scope:
+      path: ""
+      type: japanese-culture
+    values:
+      layout: single
+      author_profile: false
+      toc: true
+      toc_label: '目录'
+
+  # _travel
+  - scope:
+      path: ""
+      type: travel
+    values:
+      layout: single
+      author_profile: false
+      toc: true
+      toc_label: '目录'
+
+  # _reading-japanese-learning
+  - scope:
+      path: ""
+      type: reading-japanese-learning
+    values:
+      layout: single
+      author_profile: false
+      toc: true
+      toc_label: '目录'
+
+  # _reading-history-culture
+  - scope:
+      path: ""
+      type: reading-history-culture
+    values:
+      layout: single
+      author_profile: false
+      toc: true
+      toc_label: '目录'
+
+  # _reading-politics-economy
+  - scope:
+      path: ""
+      type: reading-politics-economy
+    values:
+      layout: single
+      author_profile: false
+      toc: true
+      toc_label: '目录'
 
 # Sass/SCSS
 sass:
@@ -177,7 +290,7 @@ sass:
 
 # Outputting
 # permalink: /:categories/:title/
-paginate: 8 # amount of posts to show
+paginate: 20 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -185,15 +298,19 @@ timezone: Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 category_archive:
   type: liquid

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 日语「強」和「弱」的用法
 categories: japanese
 tags:

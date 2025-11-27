@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 浅析日语中的自动词和他动词
 excerpt: 
 categories: japanese

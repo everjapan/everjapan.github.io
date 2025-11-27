@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 日语「別に」和「特に」的区别
 excerpt: 
 categories: japanese

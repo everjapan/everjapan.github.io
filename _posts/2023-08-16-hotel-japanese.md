@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: 日本住酒店时必备的10句日语，建议收藏！
 categories: japanese
 tags:

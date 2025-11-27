@@ -1,7 +1,7 @@
 ---
 title: 日语学习资源
 permalink: /study-materials/
-layout: page
+layout: single
 ---
 
 ## 📺 YouTube 资源
