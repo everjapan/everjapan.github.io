@@ -1,0 +1,18 @@
+---
+layout: archive
+title: 产品动态
+classes: wide blog-wide
+author_profile: false
+---
+
+产品上线、功能更新与专栏公告。
+
+{% if paginator %}{% assign updates = paginator.posts %}{% else %}{% assign updates = site.posts %}{% endif %}
+{% if updates.size > 0 %}
+<div class="entries-list">
+  {% for post in updates %}{% include archive-single.html type="list" %}{% endfor %}
+</div>
+{% include paginator.html %}
+{% else %}
+<p>暂时还没有产品公告。欢迎先了解<a href="{{ '/products/' | relative_url }}">学习产品</a>，或前往<a href="{{ '/language/' | relative_url }}">日语学习专栏</a>阅读。</p>
+{% endif %}

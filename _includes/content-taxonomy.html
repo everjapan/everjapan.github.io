@@ -1,0 +1,15 @@
+{% assign documents = site.documents | sort: 'date' | reverse %}
+{% capture labels %}{% for doc in documents %}{% for label in doc[include.field] %}{{ label }}|||{% endfor %}{% endfor %}{% endcapture %}
+{% assign labels = labels | split: '|||' | uniq | sort %}
+{% for label in labels %}
+  {% if label != '' %}
+  <h2 id="{{ label | slugify }}">{{ label | escape }}</h2>
+  <ul>
+  {% for doc in documents %}
+    {% if doc[include.field] contains label %}
+    <li><a href="{{ doc.url | relative_url }}">{{ doc.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+  {% endif %}
+{% endfor %}

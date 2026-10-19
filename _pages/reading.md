@@ -2,7 +2,7 @@
 title: 读书
 layout: single
 permalink: /reading/
-author_profile: true
+author_profile: false
 toc: false
 ---
 

@@ -1,6 +1,9 @@
 ---
 title: 标签归档
-layout: tags
+layout: single
 permalink: /tags/
-author_profile: true
+author_profile: false
+toc: false
 ---
+
+{% include content-taxonomy.html field="tags" %}

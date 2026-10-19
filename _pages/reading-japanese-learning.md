@@ -1,12 +1,14 @@
 ---
-title: 日语学习
+title: 日语学习读书笔记
 layout: collection
 permalink: /reading-japanese-learning/
 collection: reading-japanese-learning
-entries_layout: grid
+entries_layout: list
 sort_by: date
 sort_order: reverse
-author_profile: true
+author_profile: false
 ---
 
-日语语法、词汇、教材等语言学习类书籍的阅读笔记，系统整理日语学习中的关键知识点。
+从语言类书籍中理解日语表达与思维。
+
+[返回日语学习]({{ '/language/' | relative_url }})

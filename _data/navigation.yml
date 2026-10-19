@@ -1,16 +1,12 @@
 main:
-- title: 首页
-  url: /
-- title: 新手指南
-  url: /getting-started
-- title: 语言
-  url: /language
-- title: 生活
-  url: /life
-- title: 读书
-  url: /reading
+- title: 最新
+  url: /blog/
+- title: 日语学习
+  url: /language/
+- title: 历史文化
+  url: /reading-history-culture/
 - title: 关于
-  url: /about
+  url: /about/
 
 grammar-tutorial:
 - title: 语法基础

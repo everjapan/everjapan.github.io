@@ -3,22 +3,22 @@
 # Use remote_theme for GitHub Pages compatibility
 remote_theme             : "mmistakes/minimal-mistakes@4.27.3"
 
-minimal_mistakes_skin    : "mint" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "indigo" # Custom muted indigo palette in _sass/minimal-mistakes/skins/
 
 # Site Settings
 locale                   : "zh-CN"
 title                    : "日系生活家"
 title_separator          : "-"
-subtitle                 : ""
+subtitle                 : "语言、生活、读书"
 name                     : &name "日系生活家" # &name is a YAML anchor which can be *referenced later
-description              : &description "感受生活"
+description              : &description "用科技与文化，打造最懂语言的学习家园"
 url                      : https://everjapan.com
 baseurl                  : "" # Remove any subpath since your site is at root level
 repository               : "everjapan/everjapan.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # Disable breadcrumbs site-wide
 # words_per_minute         : 100
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
@@ -83,6 +83,7 @@ exclude:
   - tmp
   - _layouts_backup
   - docs
+  - scripts
   - test
 keep_files:
   - .git
@@ -110,6 +111,21 @@ kramdown:
 
 # Collections
 collections:
+  learning-methods:
+    output: true
+    permalink: /learning-methods/:path/
+  pronunciation:
+    output: true
+    permalink: /pronunciation/:path/
+  linguistics:
+    output: true
+    permalink: /linguistics/:path/
+  japanese-particles:
+    output: true
+    permalink: /japanese-particles/:path/
+  japanese-etymology:
+    output: true
+    permalink: /japanese-etymology/:path/
   proverbs:
     output: true
     permalink: /:collection/:path/
@@ -149,16 +165,65 @@ collections:
 
 # Defaults
 defaults:
+  - scope:
+      path: ""
+    values:
+      author_profile: false
+      layout: single
+      share: false
+  - scope:
+      path: ""
+      type: japanese-etymology
+    values:
+      layout: single
+      author_profile: false
+      toc: true
+      toc_label: 目录
+  - scope:
+      path: ""
+      type: learning-methods
+    values:
+      layout: single
+      toc: true
+      toc_label: 目录
+  - scope:
+      path: ""
+      type: pronunciation
+    values:
+      layout: single
+      toc: true
+      toc_label: 目录
+  - scope:
+      path: ""
+      type: linguistics
+    values:
+      layout: single
+      toc: true
+      toc_label: 目录
+  - scope:
+      path: ""
+      type: japanese-particles
+    values:
+      layout: single
+      toc: true
+      toc_label: 目录
+  - scope:
+      path: ""
+      type: vocabulary
+    values:
+      layout: single
+      toc: true
+      toc_label: 目录
   # _posts
   - scope:
       path: ""
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: false
-      share: true
+      share: false
       related: true
       toc: true
       toc_label: '目录'
@@ -170,7 +235,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       toc: true
       toc_label: '目录'
 
@@ -292,7 +357,7 @@ sass:
 # Outputting
 # permalink: /:categories/:title/
 paginate: 20 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /blog/page:num/
 timezone: Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)

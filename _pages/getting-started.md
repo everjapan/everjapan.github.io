@@ -2,7 +2,7 @@
 title: 从这里开始
 layout: single
 permalink: /getting-started/
-author_profile: true
+author_profile: false
 toc: true
 toc_label: "目录"
 ---
@@ -124,7 +124,7 @@ N1冲刺      高级阅读
 
 如果你在学习过程中遇到问题，欢迎：
 
-- 💬 关注微信公众号（扫描侧边栏二维码）
+- 💬 [关注微信公众号]({{ '/about/#contact' | relative_url }})（扫描关于页面的二维码）
 - 📱 在[小红书](https://www.xiaohongshu.com/user/profile/642b0b6f000000001400eda2)留言
 - 🎥 在[B站](https://space.bilibili.com/481782510)评论
 - 📝 在[知乎](https://www.zhihu.com/column/everjapan)提问

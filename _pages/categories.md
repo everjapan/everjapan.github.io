@@ -1,6 +1,9 @@
 ---
 title: 分类归档
-layout: categories
+layout: single
 permalink: /categories/
-author_profile: true
+author_profile: false
+toc: false
 ---
+
+{% include content-taxonomy.html field="categories" %}

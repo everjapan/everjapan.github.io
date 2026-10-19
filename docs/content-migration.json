@@ -1,0 +1,762 @@
+[
+  {
+    "source": "_posts/2023-04-13-how-to-learn-japanese-efficently-and-effectively.markdown",
+    "target": "_learning-methods/2023-04-13-how-to-learn-japanese-efficently-and-effectively.markdown",
+    "collection": "learning-methods",
+    "title": "干货满满的日语自学经验",
+    "url": "/japanese/how-to-learn-japanese-efficently-and-effectively/",
+    "body_sha256": "ecb951a2ff97d6f72cef3699c115326b4eeb77344568d1fc86fa813ed408b735"
+  },
+  {
+    "source": "_posts/2023-07-22-kanji-kata-origin.md",
+    "target": "_japanese-etymology/2023-07-22-kanji-kata-origin.md",
+    "collection": "japanese-etymology",
+    "title": "一文读懂日语汉字、平假名和片假名的起源",
+    "url": "/japanese/kanji-kata-origin/",
+    "body_sha256": "69fd6333b79ee416ba879c11ca2307e113b058751aaf9bb464c103079d9d6304"
+  },
+  {
+    "source": "_posts/2023-07-23-arigatougozai-masu-mashita.md",
+    "target": "_daily/2023-07-23-arigatougozai-masu-mashita.md",
+    "collection": "daily",
+    "title": "ありがとうござい「ます」和「ました」的区别",
+    "url": "/japanese/arigatougozai-masu-mashita/",
+    "body_sha256": "81f1a3e4fe675e289f2cad7659891e6404c7b6e252788aa59b3f8668ef82b9c6"
+  },
+  {
+    "source": "_posts/2023-07-24-ogo.md",
+    "target": "_grammar-tutorial/2023-07-24-ogo.md",
+    "collection": "grammar-tutorial",
+    "title": "日语中的敬语前缀「お」和「ご」",
+    "url": "/japanese/ogo/",
+    "body_sha256": "4cdb0d50cf1aae68111cdae26fe092d70e8ddb2867a3cc5311263ccf69add5aa"
+  },
+  {
+    "source": "_posts/2023-07-25-otsukaresama-gokuresama.md",
+    "target": "_daily/2023-07-25-otsukaresama-gokuresama.md",
+    "collection": "daily",
+    "title": "学会正确使用「お疲れ様」和「ご苦労様」",
+    "url": "/japanese/otsukaresama-gokuresama/",
+    "body_sha256": "48393ff2d831537f91b3e1d17b8c0642e5aa3bd44e4f43cf8c425843c9679065"
+  },
+  {
+    "source": "_posts/2023-07-26-proverbs.md",
+    "target": "_proverbs/2023-07-26-proverbs.md",
+    "collection": "proverbs",
+    "title": "什么是「谚语、惯用语、故事成语、四字熟语」？",
+    "url": "/japanese/proverbs/",
+    "body_sha256": "cdcd8d999e478bd41cf48d81733aecb08bfd94fd0c59bc1a9bf644cddf883b9c"
+  },
+  {
+    "source": "_posts/2023-07-27-ramen.md",
+    "target": "_japanese-food/2023-07-27-ramen.md",
+    "collection": "japanese-food",
+    "title": "日本拉面的起源和历史",
+    "url": "/culture/ramen/",
+    "body_sha256": "ef725931e95f50a38604f8d33d827477f289cf32eac5c7a7a74c1e1324789b72"
+  },
+  {
+    "source": "_posts/2023-07-28-curry.md",
+    "target": "_japanese-food/2023-07-28-curry.md",
+    "collection": "japanese-food",
+    "title": "日式咖喱的起源和历史",
+    "url": "/culture/curry/",
+    "body_sha256": "9b3f34b249fa7aa2c0209cc95e4abd8af5018068fde0d402d9dde03e486f4554"
+  },
+  {
+    "source": "_posts/2023-07-29-the-origin-of-sushi.md",
+    "target": "_japanese-food/2023-07-29-the-origin-of-sushi.md",
+    "collection": "japanese-food",
+    "title": "🍣 寿司的起源和历史",
+    "url": "/food/the-origin-of-sushi/",
+    "body_sha256": "05473c2a9036328916c952def93ec19c2ccbca0083074809d329eabb36bff390"
+  },
+  {
+    "source": "_posts/2023-07-29-wabisabi.md",
+    "target": "_japanese-culture/2023-07-29-wabisabi.md",
+    "collection": "japanese-culture",
+    "title": "侘寂美学：日本传统文化的精髓",
+    "url": "/culture/wabisabi/",
+    "body_sha256": "0b9c6161884f37653ecce329e57ff132efeeba4c1306d344c4599fdd2c1c7081"
+  },
+  {
+    "source": "_posts/2023-07-30-the-japanese-honorifics.md",
+    "target": "_grammar-tutorial/2023-07-30-the-japanese-honorifics.md",
+    "collection": "grammar-tutorial",
+    "title": "详解日语五种敬语：尊敬语、谦让语、郑重语、礼貌语和美化语",
+    "url": "/japanese/the-japanese-honorifics/",
+    "body_sha256": "c62e48d96d86229529d553bd97692e3664480899008302bb9cf232fa57ddea9f"
+  },
+  {
+    "source": "_posts/2023-08-02-sushi-chigai.md",
+    "target": "_japanese-food/2023-08-02-sushi-chigai.md",
+    "collection": "japanese-food",
+    "title": "如何区分日语中寿司的三种写法：寿司、鮨、鮓",
+    "url": "/food/sushi-chigai/",
+    "body_sha256": "078e463abb6774b564e4ba756f3e53d3f80614b8c6783d8e4844d91bb4eb94f1"
+  },
+  {
+    "source": "_posts/2023-08-03-joshi.md",
+    "target": "_japanese-particles/2023-08-03-joshi.md",
+    "collection": "japanese-particles",
+    "title": "「は」与「が」、「に」与「へ」、「より」与「から」的用法与区别",
+    "url": "/japanese/joshi/",
+    "body_sha256": "c70cad86d99dba35974cdc2327a2ed405c3ce9622e8154a42d5805a40605c384"
+  },
+  {
+    "source": "_posts/2023-08-04-learn-japanese-by-song.md",
+    "target": "_learning-methods/2023-08-04-learn-japanese-by-song.md",
+    "collection": "learning-methods",
+    "title": "听歌学日语之『上を向いて歩こう』",
+    "url": "/japanese/learn-japanese-by-song/",
+    "body_sha256": "8d0014cf2739d6649212a7be5143bf668deb0b3dcff8e411fa683379e148b0ab"
+  },
+  {
+    "source": "_posts/2023-08-04-washoku-nihonryouri.md",
+    "target": "_japanese-food/2023-08-04-washoku-nihonryouri.md",
+    "collection": "japanese-food",
+    "title": "解析「和食」与「日本料理」的区别",
+    "url": "/food/washoku-nihonryouri/",
+    "body_sha256": "4338adc77551e92af6b56d6dcffd3858925f2219183d4ff1bf64b9608cfd8754"
+  },
+  {
+    "source": "_posts/2023-08-05-kanji-kana.md",
+    "target": "_japanese-etymology/2023-08-05-kanji-kana.md",
+    "collection": "japanese-etymology",
+    "title": "从汉字到假名：日语自创文字的发展历程与特点",
+    "url": "/japanese/kanji-kana/",
+    "body_sha256": "b8d55a209a6240076399950eeb77532b870f93dcde12b8d8f975e4a9b2a309d0"
+  },
+  {
+    "source": "_posts/2023-08-06-japanese-english.md",
+    "target": "_japanese-etymology/2023-08-06-japanese-english.md",
+    "collection": "japanese-etymology",
+    "title": "英语世界中的日文词（多图）",
+    "url": "/japanese/japanese-english/",
+    "body_sha256": "b8efcb4189bafc368bd0e179cfad90d31fe2d6cb29efa063984aa76ce3625403"
+  },
+  {
+    "source": "_posts/2023-08-07-kyou-vs-jyaku.md",
+    "target": "_vocabulary/2023-08-07-kyou-vs-jyaku.md",
+    "collection": "vocabulary",
+    "title": "日语「強」和「弱」的用法",
+    "url": "/japanese/kyou-vs-jyaku/",
+    "body_sha256": "a18ba00502d614dbbc6d4df754ec73d5e57a8b332afaa165dc4a1e4a006ac9fe"
+  },
+  {
+    "source": "_posts/2023-08-09-gojuon.md",
+    "target": "_pronunciation/2023-08-09-gojuon.md",
+    "collection": "pronunciation",
+    "title": "一文读懂日语「五十音图」的前世今生",
+    "url": "/japanese/gojuon/",
+    "body_sha256": "40622c8a07a4b30e68ce35ff7231d9900d7dce3f3b0d59845c79505802cded57"
+  },
+  {
+    "source": "_posts/2023-08-11-travelling-japanese.md",
+    "target": "_daily/2023-08-11-travelling-japanese.md",
+    "collection": "daily",
+    "title": "游玩日本必备：20句实用日语短句",
+    "url": "/japanese/travelling-japanese/",
+    "body_sha256": "0b3be74cc87bdd2303625542727bd14d591a38a604002878478f34eeba8841af"
+  },
+  {
+    "source": "_posts/2023-08-12-thanks-japanese.md",
+    "target": "_daily/2023-08-12-thanks-japanese.md",
+    "collection": "daily",
+    "title": "日语表达「感谢」时常用的7个短句",
+    "url": "/japanese/thanks-japanese/",
+    "body_sha256": "df6885ef56333cad3946d6f8f0fb70e023d536a1d4aff4dd2e0aede1042ec926"
+  },
+  {
+    "source": "_posts/2023-08-14-manyou-kana.md",
+    "target": "_japanese-etymology/2023-08-14-manyou-kana.md",
+    "collection": "japanese-etymology",
+    "title": "「万叶假名」的极简介绍，原来日语假名是这么来的！",
+    "url": "/japanese/manyou-kana/",
+    "body_sha256": "f489ae0fb201a3cf66aa340026d58a9599bef81449de5934f999f422542457de"
+  },
+  {
+    "source": "_posts/2023-08-15-japanese-nao.md",
+    "target": "_vocabulary/2023-08-15-japanese-nao.md",
+    "collection": "vocabulary",
+    "title": "「なお」vs「また」，你用对了吗？",
+    "url": "/japanese/japanese-nao/",
+    "body_sha256": "a1ad47c18d22ba241a6eae7cb7dc2f10ca09e91408f5d1e40213bf7963422b1b"
+  },
+  {
+    "source": "_posts/2023-08-16-hotel-japanese.md",
+    "target": "_daily/2023-08-16-hotel-japanese.md",
+    "collection": "daily",
+    "title": "日本住酒店时必备的10句日语，建议收藏！",
+    "url": "/japanese/hotel-japanese/",
+    "body_sha256": "cf9807ad19dfe27aef923738378cc81ee302842d2346e0bd46749ffaf06b882b"
+  },
+  {
+    "source": "_posts/2023-08-17-onyomi.md",
+    "target": "_japanese-etymology/2023-08-17-onyomi.md",
+    "collection": "japanese-etymology",
+    "title": "为什么很多日语发音听起来像我们的方言？详解「吴音」「汉音」「唐音」的历史起源",
+    "url": "/japanese/onyomi/",
+    "body_sha256": "d76a986e596b77b5d486b6c4e9564de50d8ca187951ce9ca333cacb5572ceb9f"
+  },
+  {
+    "source": "_posts/2023-08-18-hentai-kana.md",
+    "target": "_japanese-etymology/2023-08-18-hentai-kana.md",
+    "collection": "japanese-etymology",
+    "title": "日语假名知多少？变体假名的极简介绍",
+    "url": "/japanese/hentai-kana/",
+    "body_sha256": "626278bf9ecdd7a3508d1cd7c3a917a348c350394b319d8530227fa8650f5937"
+  },
+  {
+    "source": "_posts/2023-08-19-hanabi.md",
+    "target": "_japanese-culture/2023-08-19-hanabi.md",
+    "collection": "japanese-culture",
+    "title": "为什么日本各地一到夏天要扎堆举办「花火大会」？",
+    "url": "/japanese/hanabi/",
+    "body_sha256": "c37b6c55d6ac5653668c76ee29fa5008bfe248476b64c7557090972f92cd9063"
+  },
+  {
+    "source": "_posts/2023-08-20-japanese-verb.md",
+    "target": "_grammar-tutorial/2023-08-20-japanese-verb.md",
+    "collection": "grammar-tutorial",
+    "title": "浅析日语中的自动词和他动词",
+    "url": "/japanese/japanese-verb/",
+    "body_sha256": "18efbe25c931fbab0b7bd417f10ee61811e6951ef814f6c8378b035ebc5ffc16"
+  },
+  {
+    "source": "_posts/2023-08-21-verb-classification.md",
+    "target": "_grammar-tutorial/2023-08-21-verb-classification.md",
+    "collection": "grammar-tutorial",
+    "title": "日语动词分类的极简介绍",
+    "url": "/japanese/verb-classification/",
+    "body_sha256": "4cc21316d4ade144fe6c2917c22037cdd4bebc01f535e03709ccfe4f2259ff23"
+  },
+  {
+    "source": "_posts/2023-08-22-japanese-continuous-verbs-and-instant-verbs.md",
+    "target": "_grammar-tutorial/2023-08-22-japanese-continuous-verbs-and-instant-verbs.md",
+    "collection": "grammar-tutorial",
+    "title": "日语动词分类之「持续动词」和「瞬时动词」",
+    "url": "/japanese/japanese-continuous-verbs-and-instant-verbs/",
+    "body_sha256": "e4e371a540e3f31a8ee798664302cbe2926e276bf1ec8c2aa10153bdacb388b2"
+  },
+  {
+    "source": "_posts/2023-08-23-verb-conjugation.md",
+    "target": "_grammar-tutorial/2023-08-23-verb-conjugation.md",
+    "collection": "grammar-tutorial",
+    "title": "详解日语动词活用",
+    "url": "/japanese/verb-conjugation/",
+    "body_sha256": "7f6d2aa5fc36116a8e4d6a9b9821cb714b2cfa74c7ad9e60fcc351203d6d64e2"
+  },
+  {
+    "source": "_posts/2023-08-26-verb-tense-aspect.md",
+    "target": "_grammar-tutorial/2023-08-26-verb-tense-aspect.md",
+    "collection": "grammar-tutorial",
+    "title": "日语进阶篇：辨析动词的「时」与「态」",
+    "url": "/japanese/verb-tense-aspect/",
+    "body_sha256": "de546492c4e3adee8414b90c243b4919a621372e1b7f843306d685e141d5db07"
+  },
+  {
+    "source": "_posts/2023-08-27-beat-mora.md",
+    "target": "_pronunciation/2023-08-27-beat-mora.md",
+    "collection": "pronunciation",
+    "title": "详解日语的「莫拉・拍」和「音节」",
+    "url": "/japanese/beat-mora/",
+    "body_sha256": "0c18b3f7400850cefdf2aaa7a342c18729fd4234f6a8dc89ff4bf5b9726848ae"
+  },
+  {
+    "source": "_posts/2023-08-28-accent-type.md",
+    "target": "_pronunciation/2023-08-28-accent-type.md",
+    "collection": "pronunciation",
+    "title": "了解「词调」和「调核」，探索日语发音规律",
+    "url": "/japanese/accent-type/",
+    "body_sha256": "f9eff9af694d1c42128e91829f050ad87a033d1c0ee17e7f97dcc6cadeb727ed"
+  },
+  {
+    "source": "_posts/2023-08-29-accent-intonation.md",
+    "target": "_pronunciation/2023-08-29-accent-intonation.md",
+    "collection": "pronunciation",
+    "title": "掌握日语发音：词调（アクセント）和语调（イントネーション）的区别",
+    "url": "/japanese/accent-intonation/",
+    "body_sha256": "398da675f70932e44fb89cdaa6510bc38122eeb82555feb8a786c616e67fb236"
+  },
+  {
+    "source": "_posts/2023-08-30-to-ba-tara-nara.md",
+    "target": "_jlpt-grammars/2023-08-30-to-ba-tara-nara.md",
+    "collection": "jlpt-grammars",
+    "title": "详解日语条件助词「と、ば、たら、なら」用法",
+    "url": "/japanese/to-ba-tara-nara/",
+    "body_sha256": "040f05f0429828490ee731ddd979087df87d98f0ff0696834d65ab401700d12e"
+  },
+  {
+    "source": "_posts/2023-08-31-word-types.md",
+    "target": "_japanese-etymology/2023-08-31-word-types.md",
+    "collection": "japanese-etymology",
+    "title": "日语词类简介：和语词、汉语词、外来词、混合词",
+    "url": "/japanese/word-types/",
+    "body_sha256": "b13450512b6519d94a8f90b45c8f5e7fa23bd57f222d1b34e4e5348d1764e3ea"
+  },
+  {
+    "source": "_posts/2023-09-01-euphony.md",
+    "target": "_pronunciation/2023-09-01-euphony.md",
+    "collection": "pronunciation",
+    "title": "详解日语音便：イ音便、ウ音便、促音便、拨音便",
+    "url": "/japanese/euphony/",
+    "body_sha256": "8e4216717f0ae7d45af61e1e6a97d30d4fa7c5168603a2c2428d001e8a6c1406"
+  },
+  {
+    "source": "_posts/2023-09-02-nan-and-nani.md",
+    "target": "_vocabulary/2023-09-02-nan-and-nani.md",
+    "collection": "vocabulary",
+    "title": "日语「なん」和「なに」的区别",
+    "url": "/japanese/nan-and-nani/",
+    "body_sha256": "94ffbd451e762669fe25ea0aeafffbbf809b27c5ac5c3a00d110ea0abc456de6"
+  },
+  {
+    "source": "_posts/2023-09-03-soudesu-sounandesu.md",
+    "target": "_daily/2023-09-03-soudesu-sounandesu.md",
+    "collection": "daily",
+    "title": "日语「そうですね」和「そうなんですね」的区别",
+    "url": "/japanese/soudesu-sounandesu/",
+    "body_sha256": "1126f21f16e61d702cb3566745e5296106e3e952b28761358f677da12788363c"
+  },
+  {
+    "source": "_posts/2023-09-04-ureshii-tanoshii.md",
+    "target": "_vocabulary/2023-09-04-ureshii-tanoshii.md",
+    "collection": "vocabulary",
+    "title": "日语「うれしい」和「楽しい」有什么不同？",
+    "url": "/japanese/ureshii-tanoshii/",
+    "body_sha256": "227d88c5c4e30cd4ddcaa4ddd385d29591354365e50dca0247dc18650bac6173"
+  },
+  {
+    "source": "_posts/2023-09-05-toritate-joshi.md",
+    "target": "_japanese-particles/2023-09-05-toritate-joshi.md",
+    "collection": "japanese-particles",
+    "title": "什么是「提示助词」，它和「格助词」的区别是什么？",
+    "url": "/japanese/toritate-joshi/",
+    "body_sha256": "407bc808defbd7aa26c7bf3490828f19b03558429c09b1b282d0d5842b383162"
+  },
+  {
+    "source": "_posts/2023-09-06-sae-sura.md",
+    "target": "_japanese-particles/2023-09-06-sae-sura.md",
+    "collection": "japanese-particles",
+    "title": "日语「さえ」和「すら」区别",
+    "url": "/japanese/sae-sura/",
+    "body_sha256": "57bb86ed4d73fa3df35d929c23b8452fafa22ace21617c5e5f38b9006f7bee1c"
+  },
+  {
+    "source": "_posts/2023-09-07-temo-tedemo.md",
+    "target": "_jlpt-grammars/2023-09-07-temo-tedemo.md",
+    "collection": "jlpt-grammars",
+    "title": "日语「ても」和「てでも」区别",
+    "url": "/japanese/temo-tedemo/",
+    "body_sha256": "055ccbb928f563ba6c87e76f5ca3a8eee936ff46c173203ebc31a01353e26189"
+  },
+  {
+    "source": "_posts/2023-09-08-language-types.md",
+    "target": "_linguistics/2023-09-08-language-types.md",
+    "collection": "linguistics",
+    "title": "常见的语言类型：黏着语、孤立语、屈折语、多式综合语",
+    "url": "/japanese/language-types/",
+    "body_sha256": "7ef60d791a41ee5cadc33ddc89cac654f6431052f59471b2933059123f852b01"
+  },
+  {
+    "source": "_posts/2023-09-09-beku-tameni.md",
+    "target": "_jlpt-grammars/2023-09-09-beku-tameni.md",
+    "collection": "jlpt-grammars",
+    "title": "日语「べく」和「ために」有什么区别？",
+    "url": "/japanese/beku-tameni/",
+    "body_sha256": "b8e42134049e3dc08afa3765730940099060e54247b2f45729c59405fcf05d94"
+  },
+  {
+    "source": "_posts/2023-09-10-betsuni-tokuni.md",
+    "target": "_vocabulary/2023-09-10-betsuni-tokuni.md",
+    "collection": "vocabulary",
+    "title": "日语「別に」和「特に」的区别",
+    "url": "/japanese/betsuni-tokuni/",
+    "body_sha256": "f38cb317ea052a5d6c3a4001e43f5540d8401255d92aefea7659a71a46aa32b3"
+  },
+  {
+    "source": "_posts/2023-09-11-darou-nodarou.md",
+    "target": "_jlpt-grammars/2023-09-11-darou-nodarou.md",
+    "collection": "jlpt-grammars",
+    "title": "日语「だろう」和「のだろう」的区别",
+    "url": "/japanese/darou-nodarou/",
+    "body_sha256": "3ec91e7b0ec89af96b1666e21a69c2797f9c3ddc810eb61c4834bac489a4f85b"
+  },
+  {
+    "source": "_posts/2023-09-12-darouka-nodarouka.md",
+    "target": "_jlpt-grammars/2023-09-12-darouka-nodarouka.md",
+    "collection": "jlpt-grammars",
+    "title": "日语「だろうか」和「のだろうか」的区别",
+    "url": "/japanese/darouka-nodarouka/",
+    "body_sha256": "d1c3a52ea2400d60e620ed2bf885250f3cc3e3932503126e1e1dcd6559b468b6"
+  },
+  {
+    "source": "_posts/2023-09-13-te-datte.md",
+    "target": "_jlpt-grammars/2023-09-13-te-datte.md",
+    "collection": "jlpt-grammars",
+    "title": "日语「って」和「んだって」的区别",
+    "url": "/japanese/te-datte/",
+    "body_sha256": "d27bf0350f9df06f9082619786b082fdd4f2068b0eeb86c835c0486143485f05"
+  },
+  {
+    "source": "_posts/2023-09-14-saraniha-sarani.md",
+    "target": "_vocabulary/2023-09-14-saraniha-sarani.md",
+    "collection": "vocabulary",
+    "title": "日语「さらには」和「さらに」的区别",
+    "url": "/japanese/saraniha-sarani/",
+    "body_sha256": "6391938e0144d208ef3784fe48710a9f1c8fcccdf2ea39366bcb4edb7f44452b"
+  },
+  {
+    "source": "_posts/2023-09-15-tabini-gotoni.md",
+    "target": "_jlpt-grammars/2023-09-15-tabini-gotoni.md",
+    "collection": "jlpt-grammars",
+    "title": "日语「度に」和「ごとに」的区别",
+    "url": "/japanese/tabini-gotoni/",
+    "body_sha256": "acb4a168d42e27fcb4dfafe133987bd21b1e3b615af671391a6d7f0230300c1c"
+  },
+  {
+    "source": "_posts/2023-09-16-ikenai-naranai.md",
+    "target": "_jlpt-grammars/2023-09-16-ikenai-naranai.md",
+    "collection": "jlpt-grammars",
+    "title": "日语「いけない」和「ならない」的区别",
+    "url": "/japanese/ikenai-naranai/",
+    "body_sha256": "dbefca045d9583ab97fc946cd0d07a012e5cc639e9316c5ac42e6861bc9e5fa5"
+  },
+  {
+    "source": "_posts/2023-09-17-nishiteha-wariniha.md",
+    "target": "_jlpt-grammars/2023-09-17-nishiteha-wariniha.md",
+    "collection": "jlpt-grammars",
+    "title": "日语「にしては」和「わりには」的区别",
+    "url": "/japanese/nishiteha-wariniha/",
+    "body_sha256": "978956adf5054c17804e833685b69fadb82f1478c86d35a6303219a2ceeb6986"
+  },
+  {
+    "source": "_posts/2023-09-18-desukara.md",
+    "target": "_jlpt-grammars/2023-09-18-desukara.md",
+    "collection": "jlpt-grammars",
+    "title": "日语「ものですから」「んです」「ですから」的用法和区别",
+    "url": "/japanese/desukara/",
+    "body_sha256": "4815a43b28a04fb41d7e79f044bc157f61f77029549e44165e4b239c720c0a45"
+  },
+  {
+    "source": "_posts/2023-09-19-mai-monoka.md",
+    "target": "_jlpt-grammars/2023-09-19-mai-monoka.md",
+    "collection": "jlpt-grammars",
+    "title": "日语「まい」和「ものか」的区别",
+    "url": "/japanese/mai-monoka/",
+    "body_sha256": "a0a0a9425bb03f326c0e9e63c80f54bc0d076db974c3fa318229548c079947fb"
+  },
+  {
+    "source": "_posts/2023-09-20-nikanshite-womegutte.md",
+    "target": "_jlpt-grammars/2023-09-20-nikanshite-womegutte.md",
+    "collection": "jlpt-grammars",
+    "title": "日语「～に関して」和「～をめぐって」的区别",
+    "url": "/japanese/nikanshite-womegutte/",
+    "body_sha256": "a191757e49f799ff0e3a4a445ed0d9b0b588311d1c67a2a71c7114203d56cce4"
+  },
+  {
+    "source": "_posts/2023-09-21-origami.md",
+    "target": "_japanese-culture/2023-09-21-origami.md",
+    "collection": "japanese-culture",
+    "title": "折纸（Origami）的历史和起源",
+    "url": "/culture/origami/",
+    "body_sha256": "aa879501193e36e3ef79742cf7b09618442efb3ae0c2c41009b0eeefab994a8f"
+  },
+  {
+    "source": "_posts/2023-09-22-nikui-tsurai-gatai.md",
+    "target": "_jlpt-grammars/2023-09-22-nikui-tsurai-gatai.md",
+    "collection": "jlpt-grammars",
+    "title": "「にくい」「つらい」「がたい」",
+    "url": "/japanese/nikui-tsurai-gatai/",
+    "body_sha256": "539ed5609d3f48d7e55dcd97a86a4a0150c3e593a237dff6fc20ac2e5f7902c2"
+  },
+  {
+    "source": "_posts/2023-09-23-zetai-soutai-keigo.md",
+    "target": "_grammar-tutorial/2023-09-23-zetai-soutai-keigo.md",
+    "collection": "grammar-tutorial",
+    "title": "「绝对敬语」和「相对敬语」的极简介绍",
+    "url": "/japanese/zetai-soutai-keigo/",
+    "body_sha256": "26d63d09e0b2e6b4b156a35855c2850eca9182ae97f116c3f689c80ccfd1ace5"
+  },
+  {
+    "source": "_posts/2023-09-25-wotooshite-wotsuujite.md",
+    "target": "_jlpt-grammars/2023-09-25-wotooshite-wotsuujite.md",
+    "collection": "jlpt-grammars",
+    "title": "如何区分「通して」和「通じて」",
+    "url": "/japanese/wotooshite-wotsuujite/",
+    "body_sha256": "6131828f44ee84eb4497750469cb9727f3889a1f552f0d9e97c1b41eb2e5de29"
+  },
+  {
+    "source": "_posts/2023-09-26-uchini-aidani.md",
+    "target": "_jlpt-grammars/2023-09-26-uchini-aidani.md",
+    "collection": "jlpt-grammars",
+    "title": "如何区分「～うちに」和「～あいだに」",
+    "url": "/japanese/uchini-aidani/",
+    "body_sha256": "9d2e1c607c436b2ce748f88b4372cf94a0bf6c103826b021a73dce169ddd3d6f"
+  },
+  {
+    "source": "_posts/2023-09-27-no-dehanaika.md",
+    "target": "_jlpt-grammars/2023-09-27-no-dehanaika.md",
+    "collection": "jlpt-grammars",
+    "title": "如何区分使用「ではないか」和「のではないか」",
+    "url": "/japanese/no-dehanaika/",
+    "body_sha256": "fd1dc23daed581473cc74969be0147e7259c4c8ac5e4da603bdf760f63d8ec25"
+  },
+  {
+    "source": "_posts/2023-09-27-tohakagiranai-wakedehanai.md",
+    "target": "_jlpt-grammars/2023-09-27-tohakagiranai-wakedehanai.md",
+    "collection": "jlpt-grammars",
+    "title": "「わけではない」和「とはかぎらない」的用法区分",
+    "url": "/japanese/tohakagiranai-wakedehanai/",
+    "body_sha256": "427afa1ad75ac3e404eef2cddfb21897b0e16005f3b7a6a227ca67f287d96264"
+  },
+  {
+    "source": "_posts/2023-09-28-do-kai.md",
+    "target": "_vocabulary/2023-09-28-do-kai.md",
+    "collection": "vocabulary",
+    "title": "日语「度（ど）」和「回（かい）」的用法区分",
+    "url": "/japanese/do-kai/",
+    "body_sha256": "43f6e4f7f5ac1107b4cc69a8f6962fb45edfbb6b8d9b3f2e47c428b7b02110ec"
+  },
+  {
+    "source": "_posts/2023-09-29-tora-ba-to-nara-baai.md",
+    "target": "_jlpt-grammars/2023-09-29-tora-ba-to-nara-baai.md",
+    "collection": "jlpt-grammars",
+    "title": "日语条件表达：「～たら」「～ば」「～と」「～なら」「～場合」",
+    "url": "/japanese/tora-ba-to-nara-baai/",
+    "body_sha256": "05bcf796c16c52ae5d308bb151c3e7a23b0b875ae41be97967f0494e2ba07f3c"
+  },
+  {
+    "source": "_posts/2023-09-30-soreni-sarani-sonoue.md",
+    "target": "_vocabulary/2023-09-30-soreni-sarani-sonoue.md",
+    "collection": "vocabulary",
+    "title": "如何区分「それに」「さらに」「その上」的用法",
+    "url": "/japanese/soreni-sarani-sonoue/",
+    "body_sha256": "2b6ae1f67538ecb20da74de6d2ce9998ec38675c9f946f5c984e1b737ceee6e3"
+  },
+  {
+    "source": "_posts/2023-10-01-omou-omoeru-omowareru.md",
+    "target": "_jlpt-grammars/2023-10-01-omou-omoeru-omowareru.md",
+    "collection": "jlpt-grammars",
+    "title": "关于「思う」「思える」「思われる」的区别",
+    "url": "/japanese/omou-omoeru-omowareru/",
+    "body_sha256": "53c91d26ccd43a275227b16009e68f418f0d88659ac6ea904c1d38d7144a9848"
+  },
+  {
+    "source": "_posts/2023-10-02-morpheme.md",
+    "target": "_linguistics/2023-10-02-morpheme.md",
+    "collection": "linguistics",
+    "title": "日语中的「语素/词素」是什么？",
+    "url": "/japanese/morpheme/",
+    "body_sha256": "1c7149adb918ee679cb4922dd48aacaa13c4dc27286d0555405e5bba75767dbb"
+  },
+  {
+    "source": "_posts/2023-10-03-tomou-toomotteiru.md",
+    "target": "_jlpt-grammars/2023-10-03-tomou-toomotteiru.md",
+    "collection": "jlpt-grammars",
+    "title": "「〜と思う」和「〜と思っている」的区别",
+    "url": "/japanese/tomou-toomotteiru/",
+    "body_sha256": "50986e44d455900dbfaff475f0cf8957a304def815fbf16862c8594ce7732f53"
+  },
+  {
+    "source": "_posts/2023-10-08-reading-notes-of-nihongo.md",
+    "target": "_reading-japanese-learning/2023-10-08-reading-notes-of-nihongo.md",
+    "collection": "reading-japanese-learning",
+    "title": "为什么日语中有那么多简略表达？",
+    "url": "/japanese/reading-notes-of-nihongo/",
+    "body_sha256": "d2be31702c1fa84d7380598b7e893f98ad8b3947b8dc28a0d0600bc2ddbb5f87"
+  },
+  {
+    "source": "_posts/2023-10-10-consideration-for-others.md",
+    "target": "_reading-japanese-learning/2023-10-10-consideration-for-others.md",
+    "collection": "reading-japanese-learning",
+    "title": "日语中那些「为他人着想」的表达方式",
+    "url": "/japanese/consideration-for-others/",
+    "body_sha256": "150ffe8bebda40bcb2e8237f6562ea6153372525ce487af933f87017ef6ba592"
+  },
+  {
+    "source": "_posts/2023-11-08-iru-vs-aru.md",
+    "target": "_jlpt-grammars/2023-11-08-iru-vs-aru.md",
+    "collection": "jlpt-grammars",
+    "title": "详解「いる」和「ある」的区别",
+    "url": "/japanese/iru-vs-aru/",
+    "body_sha256": "98c7a550dbf1a3ecdedbe32b85cde0df77c08407473523042f2230dee66a218c"
+  },
+  {
+    "source": "_posts/2023-11-16-kara-vs-node.md",
+    "target": "_japanese-particles/2023-11-16-kara-vs-node.md",
+    "collection": "japanese-particles",
+    "title": "日语助词「から」和「ので」的区别",
+    "url": "/japanese/kara-vs-node/",
+    "body_sha256": "ba60e3d925243eba4e99b724f67fb247f344912de94e175e58f7adb329d7de85"
+  },
+  {
+    "source": "_posts/2024-01-16-two-japanese-grammar-types.md",
+    "target": "_grammar-tutorial/2024-01-16-two-japanese-grammar-types.md",
+    "collection": "grammar-tutorial",
+    "title": "日语文法系统简介：日本语文法 vs 国语文法",
+    "url": "/japanese/two-japanese-grammar-types/",
+    "body_sha256": "8e1351f00a50d1c58f1cac5951c722dc0235850bfcf70895155ef56ebaeb3d94"
+  },
+  {
+    "source": "_posts/2024-06-12-grammar-basics.md",
+    "target": "_grammar-tutorial/2024-06-12-grammar-basics.md",
+    "collection": "grammar-tutorial",
+    "title": "日语语法基础知识",
+    "url": "/japanese/grammar-basics/",
+    "body_sha256": "e67615251a84e69ecdeba2489195118874138ddbf2d86c4df165081c2f9e2b7f"
+  },
+  {
+    "source": "_posts/2024-07-08-grammar-particles.md",
+    "target": "_japanese-particles/2024-07-08-grammar-particles.md",
+    "collection": "japanese-particles",
+    "title": "日语「助词」用法详解",
+    "url": "/japanese/grammar-particles/",
+    "body_sha256": "8679ecd3d5760da3e6e04a6a49e2de2f7a82000617c41e8eccd40a60f2cd7a8a"
+  },
+  {
+    "source": "_posts/2024-07-11-particle-ni-he.md",
+    "target": "_japanese-particles/2024-07-11-particle-ni-he.md",
+    "collection": "japanese-particles",
+    "title": "日语助词「に」和「へ」的用法辨析",
+    "url": "/japanese/particle-ni-he/",
+    "body_sha256": "9253b1ecc724158791b8dc6b9a8e10a0ba33c69f6ebddc8037ece453ceb86730"
+  },
+  {
+    "source": "_posts/2024-07-12-particle-niha.md",
+    "target": "_japanese-particles/2024-07-12-particle-niha.md",
+    "collection": "japanese-particles",
+    "title": "日语助词组合「には」用法详解",
+    "url": "/japanese/particle-niha/",
+    "body_sha256": "8dc281265dfede258a55b3a13ba6cc670d189df4de054585218b697ae977346f"
+  },
+  {
+    "source": "_posts/2024-07-15-case-marking-particle.md",
+    "target": "_japanese-particles/2024-07-15-case-marking-particle.md",
+    "collection": "japanese-particles",
+    "title": "日语「格助词」用法详解",
+    "url": "/japanese/case-marking-particle/",
+    "body_sha256": "737d01e480d01763b870e7377b480493ee0171851f86bbcf141f61b48f38738c"
+  },
+  {
+    "source": "_posts/2024-07-16-part-of-speech.md",
+    "target": "_grammar-tutorial/2024-07-16-part-of-speech.md",
+    "collection": "grammar-tutorial",
+    "title": "什么是「品词」｜日语语法",
+    "url": "/japanese/part-of-speech/",
+    "body_sha256": "1f1e3b046fdc36927ffcbcec6954432f10a93c56b07604d2fd1add113a863955"
+  },
+  {
+    "source": "_posts/2024-07-19-bunsetsu.md",
+    "target": "_grammar-tutorial/2024-07-19-bunsetsu.md",
+    "collection": "grammar-tutorial",
+    "title": "什么是「句节」｜日语语法",
+    "url": "/japanese/bunsetsu/",
+    "body_sha256": "de3bf7620d937db03468ac93116b12799146b54ad15a7d00e32a690efcc38fc0"
+  },
+  {
+    "source": "_posts/2024-07-20-auxiliary-verbs.md",
+    "target": "_grammar-tutorial/2024-07-20-auxiliary-verbs.md",
+    "collection": "grammar-tutorial",
+    "title": "日语「助动词」用法详解",
+    "url": "/japanese/auxiliary-verbs/",
+    "body_sha256": "092aae1993370d8570a07d62407770bce3893534e17e65785acd45075a862951"
+  },
+  {
+    "source": "_posts/2024-08-20-conjunction.md",
+    "target": "_grammar-tutorial/2024-08-20-conjunction.md",
+    "collection": "grammar-tutorial",
+    "title": "日语「接续词」用法详解",
+    "url": "/japanese/conjunction/",
+    "body_sha256": "6673a0ed37c33d6815b89e019b92b80fd0ee012c349a427f8f6c1d95c7a6c9b7"
+  },
+  {
+    "source": "_posts/2024-09-25-interjection.md",
+    "target": "_grammar-tutorial/2024-09-25-interjection.md",
+    "collection": "grammar-tutorial",
+    "title": "日语「感叹词」用法详解",
+    "url": "/japanese/interjection/",
+    "body_sha256": "63f2fb6f4de4289f3a0e18e2bfaf11c34176e370b92025ddd1169474524daa51"
+  },
+  {
+    "source": "_posts/2024-10-06-adverb.md",
+    "target": "_grammar-tutorial/2024-10-06-adverb.md",
+    "collection": "grammar-tutorial",
+    "title": "日语「副词」用法详解",
+    "url": "/japanese/adverb/",
+    "body_sha256": "96c134dd32abff11b415d51b7aca0c097957f039a655756c96e9ea9c5d1aab19"
+  },
+  {
+    "source": "_posts/2024-10-10-pre-noun-adjectival.md",
+    "target": "_grammar-tutorial/2024-10-10-pre-noun-adjectival.md",
+    "collection": "grammar-tutorial",
+    "title": "日语「连体词」用法详解",
+    "url": "/japanese/pre-noun-adjectival/",
+    "body_sha256": "b2be1f68ebf1638905d39b23ec3c5458d2c5b80a7edb7fe3df06486ce0e981a3"
+  },
+  {
+    "source": "_posts/2024-10-16-noun.md",
+    "target": "_grammar-tutorial/2024-10-16-noun.md",
+    "collection": "grammar-tutorial",
+    "title": "日语「名词」用法详解",
+    "url": "/japanese/noun/",
+    "body_sha256": "ea3525106a98107e10a10497b6af1a3977438b4261b407d72e15ede5887b994f"
+  },
+  {
+    "source": "_posts/2024-10-24-adjective.md",
+    "target": "_grammar-tutorial/2024-10-24-adjective.md",
+    "collection": "grammar-tutorial",
+    "title": "日语「形容词」用法详解",
+    "url": "/japanese/adjective/",
+    "body_sha256": "a9dfe199607f906f84d5665e2e9f6d3874f66c6494cb6c02be33b4ae09acd5d4"
+  },
+  {
+    "source": "_posts/2024-10-25-adjectival_noun.md",
+    "target": "_grammar-tutorial/2024-10-25-adjectival_noun.md",
+    "collection": "grammar-tutorial",
+    "title": "日语「形容动词」用法详解",
+    "url": "/japanese/adjectival_noun/",
+    "body_sha256": "bf6cad8a0abf6d0292c8a5a72b44a1e4add3c90f000853f492a39bdb4f1691bd"
+  },
+  {
+    "source": "_posts/2024-12-04-verb-voices.md",
+    "target": "_grammar-tutorial/2024-12-04-verb-voices.md",
+    "collection": "grammar-tutorial",
+    "title": "日语动词的四种态：主动态、被动态、反身态和相互态",
+    "url": "/japanese/verb-voices/",
+    "body_sha256": "5efe59033c550fefc6f12b8306704c87e95e10ab15b6c5c26091d1a34c53c5e8"
+  },
+  {
+    "source": "_posts/2024-12-12-verb-tense-aspect.md",
+    "target": "_grammar-tutorial/2024-12-12-verb-tense-aspect.md",
+    "collection": "grammar-tutorial",
+    "title": "日语动词的「时」与「体」",
+    "url": "/japanese/verb-tense-aspect-updated/",
+    "body_sha256": "e7265a0d72159a3a7123052724e7e647951fc5d324ff45a2dc409be734d53411"
+  },
+  {
+    "source": "_posts/2024-12-18-verb-transfer.md",
+    "target": "_grammar-tutorial/2024-12-18-verb-transfer.md",
+    "collection": "grammar-tutorial",
+    "title": "日语动词：授受动词",
+    "url": "/japanese/verb-transfer/",
+    "body_sha256": "4746009ffe841bbdf26ac24ff52cd3b5291d19eb8836b189d241cc502216157e"
+  },
+  {
+    "source": "_posts/2025-08-13-verb.md",
+    "target": "_grammar-tutorial/2025-08-13-verb.md",
+    "collection": "grammar-tutorial",
+    "title": "日语「动词」用法详解",
+    "url": "/japanese/verb/",
+    "body_sha256": "093168708abdd63469b3317c4e9ac8c4cc46a09aa8f70c10b6891f9b3b6126f9"
+  },
+  {
+    "source": "_posts/2025-09-27-wa-vs-ga.md",
+    "target": "_japanese-particles/2025-09-27-wa-vs-ga.md",
+    "collection": "japanese-particles",
+    "title": "「は」和「が」的实际应用",
+    "url": "/japanese/wa-vs-ga/",
+    "body_sha256": "d9edabbbefe4f4576a25df03046300722d32157875a5e055e4b5af68f2516ffb"
+  }
+]

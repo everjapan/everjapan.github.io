@@ -1,4 +1,62 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+classes: home-landing
+title: 用科技与文化，打造最懂语言的学习家园
+excerpt: "研发科技产品，创作融合历史文化视角的内容，助力日语学习者用科学方法掌握日语"
+header:
+  overlay_color: "#303b58"
+  actions:
+    - label: 联系作者
+      url: /about/
+feature_row:
+  - title: '<span class="home-card-icon" aria-hidden="true">🧩</span>助词通关攻略'
+    excerpt: "从基本用法到相近表达辨析，读懂小小助词背后的逻辑。"
+    url: /products/particles/
+    btn_label: 查看专栏目录
+    btn_class: btn--primary
+  - title: '<span class="home-card-icon" aria-hidden="true">📚</span>日语系统语法'
+    excerpt: "从句子结构、词类到活用，逐步建立完整的日语语法框架。"
+    url: /products/systematic-grammar/
+    btn_label: 探索语法体系
+    btn_class: btn--primary
+learning:
+  - title: '<span class="home-card-icon" aria-hidden="true">🎯</span>JLPT 语法'
+    excerpt: "结合例句理解句型，从易混语法开始巩固备考基础。"
+    url: /jlpt-grammars/
+    btn_label: 开始学习
+    btn_class: btn--primary
+  - title: '<span class="home-card-icon" aria-hidden="true">✍️</span>日语说文解字'
+    excerpt: "追溯文字、读音与词汇的来路，在文化中理解语言。"
+    url: /japanese-etymology/
+    btn_label: 探索文字
+    btn_class: btn--primary
+  - title: '<span class="home-card-icon" aria-hidden="true">🏯</span>历史文化'
+    excerpt: "从历史、饮食与阅读出发，认识语言背后的日本。"
+    url: /reading-history-culture/
+    btn_label: 阅读文化故事
+    btn_class: btn--primary
 ---
+
+<section class="home-section home-products" aria-labelledby="home-products-title">
+<h2 id="home-products-title">深入学习，从这里开始</h2>
+<p class="home-section-intro">把零散的知识，变成自己的语言能力。</p>
+{% include feature_row %}
+</section>
+<section class="home-section home-learning" aria-labelledby="home-learning-title">
+<h2 id="home-learning-title">免费学习与文化阅读</h2>
+<p class="home-section-intro">备考、识字、读文化，找到今天想探索的方向。</p>
+{% include feature_row id="learning" %}
+</section>
+<section class="home-section" aria-labelledby="home-news-title">
+<h2 id="home-news-title"><span aria-hidden="true">📝</span> 产品动态</h2>
+{% if site.posts.size > 0 %}
+<div class="entries-list">
+  {% for post in site.posts limit:3 %}
+    {% include archive-single.html type="list" %}
+  {% endfor %}
+</div>
+{% else %}
+<p>产品上线与更新消息将在这里发布。现在可以先探索上面的学习专栏。</p>
+{% endif %}
+<p><a class="btn btn--primary" href="{{ '/blog/' | relative_url }}">查看全部更新</a></p>
+</section>

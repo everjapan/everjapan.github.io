@@ -1,0 +1,7 @@
+{% assign groups = site.data.product_catalogues[page.product] %}
+{% for group in groups %}
+<h3>{{ group.title }}</h3>
+<ol class="product-catalogue">
+  {% for chapter in group.chapters %}<li>{{ chapter | escape }}</li>{% endfor %}
+</ol>
+{% endfor %}
