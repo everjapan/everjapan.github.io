@@ -2,6 +2,8 @@
 
 面向社交平台访客的日语学习与文化阅读网站。使用 Jekyll / GitHub Pages 与固定版本的 Minimal Mistakes 主题，保留主题的 SEO、响应式导航和基础组件，以本地布局统一内容体验。
 
+AI 助手参与维护时遵循 [AGENTS.md](AGENTS.md)，其中记录内容归类、设计约束、验证和发布约定。
+
 ## 本地运行与检查
 
 ```sh
