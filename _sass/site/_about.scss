@@ -1,0 +1,92 @@
+/* About: an introduction, reading paths, and a clear place to get in touch. */
+.about-landing {
+    .about-intro {
+        display: grid;
+        grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr);
+        align-items: center;
+        gap: 3em;
+        padding-block: 3.5em;
+        h1 { margin: 0.35em 0 0.65em; font-size: clamp(1.8em, 3.4vw, 2.8em); line-height: 1.4; }
+    }
+    .about-eyebrow { color: $primary-color; font-size: 0.8em; font-weight: 600; letter-spacing: 0.12em; }
+    .about-lead { font-size: 1.15em; }
+    .about-wave { display: inline-block; font-size: 0.8em; }
+    .about-actions { display: flex; align-items: center; flex-wrap: wrap; gap: 1em; margin-top: 1.5em; }
+    .about-text-link { font-size: 0.9em; text-underline-offset: 0.25em; }
+    .about-note {
+        padding: 2em;
+        border: 1px solid #dedee9;
+        border-radius: 24px;
+        background: linear-gradient(145deg, #eceefa, #f5eff3 70%, #faf7ef);
+        box-shadow: 0 16px 40px rgba(48, 59, 88, 0.06);
+        > p:last-of-type { color: $muted-text-color; font-size: 0.85em; }
+    }
+    .about-note-icon { font-size: 2.6em; }
+    .about-note-japanese { margin: 0.6em 0; font-family: "Hiragino Mincho ProN", "Songti SC", serif; font-size: 1.8em; }
+    .about-note-tags { display: flex; flex-wrap: wrap; gap: 0.6em; }
+    .about-note-tags span { padding: 0.3em 0.9em; border: 1px solid #d2d4e1; border-radius: 2em; font-size: 0.75em; }
+    .about-section { margin-block: 1em 3.5em; }
+    .about-section h2, .about-contact h2 { margin-top: 0; border: 0; }
+    .about-experience-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.2em; }
+    .about-card {
+        padding: 1.5em;
+        border: 1px solid $border-color;
+        border-radius: 16px;
+        background: #fff;
+        h3 { margin-top: 0.7em; font-size: 1.05em; }
+        p { margin-bottom: 0; color: $muted-text-color; font-size: 0.9em; }
+    }
+    .about-card-icon { font-size: 1.8em; }
+    .about-topics {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 1em;
+        > a { display: flex; align-items: center; gap: 1em; padding: 1.2em; border: 1px solid $border-color; border-radius: 12px; text-decoration: none; color: $text-color; }
+        > a > span:first-child { font-size: 1.6em; }
+        > a > span:last-child { margin-left: auto; color: $primary-color; }
+        > a:hover, > a:focus-visible { border-color: $primary-color; background: rgba($primary-color, 0.04); }
+        h3 { margin: 0 0 0.25em; font-size: 1em; }
+        p { margin: 0; color: $muted-text-color; font-size: 0.85em; }
+    }
+    .about-contact {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) 240px;
+        gap: 2em;
+        align-items: center;
+        margin-bottom: 3em;
+        padding: 2.2em;
+        background: #edf0f7;
+        border: 1px solid #dce1ec;
+        border-radius: 20px;
+        scroll-margin-top: 2em;
+    }
+    .about-social-label { margin: 1.5em 0 0.6em; font-size: 0.85em; color: $muted-text-color; }
+    .about-social-links { display: flex; flex-wrap: wrap; gap: 0.6em 1.2em; font-size: 0.85em; }
+    .about-qr {
+        display: block;
+        margin: 0;
+        padding: 1em;
+        text-align: center;
+        background: #fff;
+        border-radius: 14px;
+        img { display: block; margin: 0 auto; max-width: 100%; height: auto; border-radius: 0; }
+        figcaption { margin-top: 0.8em; color: #626775; font-size: 0.7em; line-height: 1.8; }
+        strong { color: #292d39; }
+    }
+    @media (max-width: 48em) {
+        .about-intro { grid-template-columns: minmax(0, 1fr); gap: 1.5em; padding-block: 2em; }
+        .about-note { padding: 1.5em; }
+        .about-experience-grid, .about-topics, .about-contact { grid-template-columns: minmax(0, 1fr); }
+        .about-contact { padding: 1.25em; }
+        .about-qr { width: 240px; max-width: 100%; justify-self: center; }
+    }
+    @media (prefers-color-scheme: dark) {
+        .about-eyebrow, .about-topics > a > span:last-child { color: #a9bce8; }
+        .about-note { background: linear-gradient(145deg, #2d3347, #352e3d); border-color: #454b60; }
+        .about-card, .about-contact { background: #252833; border-color: #454b60; }
+        .about-note-tags span, .about-topics > a { border-color: #454b60; }
+        .about-topics > a { color: #e0e0e0; }
+        .about-card p, .about-topics p, .about-social-label, .about-note > p:last-of-type { color: #b0b6c5; }
+        .about-topics > a:hover, .about-topics > a:focus-visible { border-color: #a9bce8; background: #2d3347; }
+    }
+}

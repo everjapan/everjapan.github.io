@@ -11,7 +11,7 @@ date: 2023-08-26
 permalink: /japanese/verb-tense-aspect/
 content_group: article
 ---
-日语中的动词知识确实非常丰富，我们在过去的一周已经介绍了[动词分类](https：//mp.weixin.qq.com/s/jzz4MqxzL61mzl3ovqVqVA)、[自动词和他动词](https：//mp.weixin.qq.com/s/TpOLH-lOUbUI1PImJnRxDQ)、[持续动词和瞬时动词](https：//mp.weixin.qq.com/s/0bmjvJqVCZvzT0ER_Vka7w)以及[动词活用](https：//mp.weixin.qq.com/s/5edETBMhWF44D6g_9kj6mA)。
+日语中的动词知识确实非常丰富，我们在过去的一周已经介绍了[动词分类](https://mp.weixin.qq.com/s/jzz4MqxzL61mzl3ovqVqVA)、[自动词和他动词](https://mp.weixin.qq.com/s/TpOLH-lOUbUI1PImJnRxDQ)、[持续动词和瞬时动词](https://mp.weixin.qq.com/s/0bmjvJqVCZvzT0ER_Vka7w)以及[动词活用](https://mp.weixin.qq.com/s/5edETBMhWF44D6g_9kj6mA)。
 
 本篇文章我们将讨论动词的时态。
 

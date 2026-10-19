@@ -1,0 +1,16 @@
+---
+layout: hub
+hide_title: true
+---
+{% assign product = site.data.products | where: 'id', page.product | first %}
+{% assign groups = site.data.product_catalogues[product.id] %}
+{% assign total = 0 %}{% for group in groups %}{% assign total = total | plus: group.chapters.size %}{% endfor %}
+<header class="product-hero product-hero--{{ product.id }}">
+  <div><p class="eyebrow">{{ product.label }} · {{ total }} 个目录主题</p><h1 id="page-title">{{ product.title }}</h1><p class="product-tagline">{{ product.tagline }}</p><p>{{ product.description }}</p><div class="button-row"><a class="btn btn--primary" href="#purchase">获取完整专栏</a><a class="text-link" href="#catalogue">先看内容目录 ↓</a></div></div>
+  <div class="product-cover" aria-hidden="true"><span>日系生活家 · 学习专栏</span><strong lang="ja">{{ product.mark }}</strong><span>{{ product.title }}</span></div>
+</header>
+<section class="hub-section product-intro" aria-labelledby="audience-title"><div><p class="eyebrow">从你的学习问题出发</p><h2 id="audience-title">这份专栏适合你吗？</h2><p>{{ product.audience }}</p></div><div><h2>你将梳理这些问题</h2><ul class="outcome-list">{% for outcome in product.outcomes %}<li>{{ outcome }}</li>{% endfor %}</ul></div></section>
+<section class="hub-section" id="catalogue" aria-labelledby="catalogue-title"><div class="section-heading"><h2 id="catalogue-title">专栏内容目录</h2><span class="muted">{{ total }} 个主题</span></div><p class="section-intro">目录根据现有稿件整理，完整正文、更新进度与价格以购买平台展示为准。</p>{% include product-catalogue.html %}</section>
+<section class="hub-section" aria-labelledby="sample-title"><div class="section-heading"><h2 id="sample-title">先读一篇，再做决定</h2></div><p class="section-intro">以下是本站公开文章，可以先了解讲解方式。</p><ul class="reading-list">{% for sample in product.samples %}<li class="reading-item"><a href="{{ sample.url | relative_url }}"><span class="reading-title">{{ sample.title }}</span><span class="reading-arrow" aria-hidden="true">↗</span></a></li>{% endfor %}</ul></section>
+<section id="purchase" class="purchase-panel" aria-labelledby="purchase-title"><p class="eyebrow">开始系统学习</p><h2 id="purchase-title">获取完整专栏</h2><p>选择你习惯的平台，查看正文与购买信息。</p><div class="button-row">{% for channel in product.channels %}<a class="btn btn--primary" href="{{ channel.url | escape }}" data-track="purchase_click" data-item="{{ product.id }}" data-channel="{{ channel.label }}">前往{{ channel.label }} ↗</a>{% endfor %}</div><p class="purchase-note">购买和阅读在对应平台完成。如需其他阅读方式，或不确定是否适合自己，<a href="{{ '/about/#contact' | relative_url }}">先联系作者</a>。</p></section>
+<section class="hub-section faq" aria-labelledby="faq-title"><h2 id="faq-title">购买前，你可能还想了解</h2><details><summary>可以先免费阅读吗？</summary><p>可以。上方的公开文章和<a href="{{ '/language/' | relative_url }}">日语学习中心</a>都可以直接阅读，先熟悉讲解方式，再决定是否购买完整专栏。</p></details><details><summary>在哪里买、在哪里读？</summary><p>通过上方按钮进入专栏平台，按平台说明购买与阅读。价格、正文范围、更新情况及售后规则以平台展示为准。</p></details><details><summary>有问题怎样联系作者？</summary><p>前往<a href="{{ '/about/#contact' | relative_url }}">联系页面</a>，通过邮箱、公众号或社交平台交流。</p></details></section>

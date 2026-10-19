@@ -1,0 +1,8 @@
+{% assign item = include.doc %}
+<li class="reading-item"{% if include.filter %} data-filter-item data-filter-text="{{ item.title | append: ' ' | append: item.tags | strip_html | escape }}"{% endif %}>
+  <a href="{{ item.url | relative_url }}">
+    <span class="reading-title">{{ item.title }}</span>
+    {% if include.summary %}<span class="reading-summary">{{ item.excerpt | default: item.content | strip_html | normalize_whitespace | truncate: 100 }}</span>{% endif %}
+    <span class="reading-arrow" aria-hidden="true">↗</span>
+  </a>
+</li>

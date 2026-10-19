@@ -179,15 +179,12 @@ content_group: article
 
 通过这些组合，可以更细腻地表达人与人之间的恩惠关系。
 
-## TODO
-- [ ] [题目](http：//nihongo.hum.tmu.ac.jp/mic-j/juju/html/japanese/40_kakunin.html)更新至小程序
-
 ## 参考资料
 
-- [日本語の授受動詞とは・用法・例](https：//wordrabbit.jp/grammar/transfer)
-- [N4文法28「授受動詞」あげる、くれる、もらう](https：//www.sigure.tw/learn-japanese/grammar/n4/28)
-- http：//nihongo.hum.tmu.ac.jp/mic-j/juju/index.html
-- https：//www7a.biglobe.ne.jp/nifongo/1h93fy/jyujyu.html
-- https：//www2.lit.kyushu-u.ac.jp/~linguist/kupl/doc/kupl35_Tokunaga.pdf
-- https：//www.tjf.or.jp/hidamari/3_migakou/manabikata17.html
-- https：//www.jiu.ac.jp/files/user/graduate/human/publish/pdf/lcr1_05_paper.pdf
+- [日本語の授受動詞とは・用法・例](https://wordrabbit.jp/grammar/transfer)
+- [N4文法28「授受動詞」あげる、くれる、もらう](https://www.sigure.tw/learn-japanese/grammar/n4/28)
+- http://nihongo.hum.tmu.ac.jp/mic-j/juju/index.html
+- https://www7a.biglobe.ne.jp/nifongo/1h93fy/jyujyu.html
+- https://www2.lit.kyushu-u.ac.jp/~linguist/kupl/doc/kupl35_Tokunaga.pdf
+- https://www.tjf.or.jp/hidamari/3_migakou/manabikata17.html
+- https://www.jiu.ac.jp/files/user/graduate/human/publish/pdf/lcr1_05_paper.pdf

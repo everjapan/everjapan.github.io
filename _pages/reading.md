@@ -1,30 +1,11 @@
 ---
-title: 读书
-layout: single
+title: 读书笔记
+layout: hub
 permalink: /reading/
-author_profile: false
-toc: false
+eyebrow: 读一本书，多一种理解
+description: "记录语言与文化阅读中的发现，把书里的线索带回日常学习。"
 ---
-
-## 读书笔记
-
-记录阅读过程中的思考与感悟，分享有价值的书籍内容。
-
-### 核心专栏
-
-<div class="feature-grid">
-  <div class="feature-item">
-    <h3><a href="/reading-japanese-learning/">📚 日语学习</a></h3>
-    <p>日语语法、词汇、教材等语言学习类书籍的阅读笔记。</p>
-  </div>
-
-  <div class="feature-item">
-    <h3><a href="/reading-history-culture/">🏛️ 历史文化</a></h3>
-    <p>日本历史、传统文化、社会变迁等主题的深度阅读。</p>
-  </div>
-
-  <div class="feature-item">
-    <h3><a href="/reading-politics-economy/">💼 政治经济</a></h3>
-    <p>日本政治制度、经济发展、社会政策等领域的研究笔记。</p>
-  </div>
-</div>
+{% assign topic = site.data.learning_collections | where: 'collection', 'reading-japanese-learning' | first %}
+{% include hub/collection-card.html topic=topic %}
+<section class="hub-section"><h2>阅读笔记</h2><ul class="reading-list">{% for doc in site.reading-japanese-learning %}{% include hub/article-link.html doc=doc summary=true %}{% endfor %}{% for doc in site.reading-history-culture %}{% include hub/article-link.html doc=doc summary=true %}{% endfor %}{% for doc in site.reading-politics-economy %}{% include hub/article-link.html doc=doc summary=true %}{% endfor %}</ul></section>
+<div class="section-end"><a class="text-link" href="{{ '/reading-history-culture/' | relative_url }}">探索更多历史文化 →</a></div>

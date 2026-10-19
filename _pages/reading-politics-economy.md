@@ -1,6 +1,7 @@
 ---
 title: 政治经济
 layout: collection
+hide_title: true
 permalink: /reading-politics-economy/
 collection: reading-politics-economy
 entries_layout: grid

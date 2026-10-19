@@ -1,0 +1,72 @@
+[
+  {
+    "id": "particles",
+    "title": "助词通关攻略",
+    "url": "/products/particles/",
+    "tagline": "吃透助词，才算真正懂日语",
+    "description": "从分类与基本用法，到相近表达辨析，把每一个小小的助词学明白。",
+    "mark": "は / が",
+    "label": "助词专题",
+    "icon": "🧩",
+    "collection": "japanese-particles",
+    "audience": "已经学过基础日语，却仍在「は」与「が」、「に」与「へ」之间犹豫的学习者。",
+    "outcomes": [
+      "梳理助词分类，知道每类助词在句子中做什么。",
+      "结合例句比较相近用法，理解语义与语气的差别。",
+      "从单个知识点走向实际表达，建立判断依据。"
+    ],
+    "samples": [
+      {
+        "title": "先了解助词分类与用法",
+        "url": "/japanese/grammar-particles/"
+      },
+      {
+        "title": "试着辨清「に」和「へ」",
+        "url": "/japanese/particle-ni-he/"
+      }
+    ],
+    "channels": [
+      {
+        "label": "微信专栏",
+        "url": "https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUzMzM3Nzg3NA==&action=getalbum&album_id=4156030834635390994"
+      },
+      {
+        "label": "知乎专栏",
+        "url": "https://www.zhihu.com/column/c_2060335403073287993"
+      }
+    ]
+  },
+  {
+    "id": "grammar",
+    "title": "日语系统语法",
+    "url": "/products/systematic-grammar/",
+    "tagline": "把零散知识，串成完整的语法体系",
+    "description": "从语言单位、句子成分与品词出发，逐步理解活用、动词与助词。",
+    "mark": "ことば",
+    "label": "系统学习",
+    "icon": "📚",
+    "collection": "grammar-tutorial",
+    "audience": "希望梳理基础、摆脱零散记忆，建立可以反复查阅的语法框架的自学者。",
+    "outcomes": [
+      "从句子结构理解日语，建立语法知识的整体地图。",
+      "连接品词、活用与表达，理解知识点之间的关系。",
+      "遇到问题时，知道回到哪一部分复习与查阅。"
+    ],
+    "samples": [
+      {
+        "title": "从语法基础开始阅读",
+        "url": "/grammar/basic"
+      },
+      {
+        "title": "了解日语中的品词",
+        "url": "/grammar/part-of-speech"
+      }
+    ],
+    "channels": [
+      {
+        "label": "知乎专栏",
+        "url": "https://www.zhihu.com/column/c_1949264993611682087"
+      }
+    ]
+  }
+]

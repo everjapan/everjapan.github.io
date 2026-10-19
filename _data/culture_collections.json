@@ -1,0 +1,18 @@
+[
+  {
+    "collection": "japanese-culture",
+    "title": "日本文化",
+    "description": "从侘寂、折纸到花火大会，走近日本的审美与日常。",
+    "url": "/japanese-culture/",
+    "icon": "🏯",
+    "start_url": "/culture/wabisabi/"
+  },
+  {
+    "collection": "japanese-food",
+    "title": "日本料理",
+    "description": "拉面、咖喱与寿司：餐桌上的味道，也有自己的历史。",
+    "url": "/japanese-food/",
+    "icon": "🍜",
+    "start_url": "/culture/ramen/"
+  }
+]

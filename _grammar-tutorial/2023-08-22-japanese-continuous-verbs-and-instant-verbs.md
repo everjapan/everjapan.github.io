@@ -11,7 +11,7 @@ date: 2023-08-22
 permalink: /japanese/japanese-continuous-verbs-and-instant-verbs/
 content_group: article
 ---
-[上一篇文章](/japanese/japanese-verb-classification/)简单介绍了6种日语动词的分类方法，其实这么多分类方法并没有绝对的规则，视角不同而已。
+[上一篇文章](/japanese/verb-classification/)简单介绍了6种日语动词的分类方法，其实这么多分类方法并没有绝对的规则，视角不同而已。
 
 今天我们再来介绍一种新的动词类别——「持续动词（<ruby>継続動詞<rt>けいぞくどうし</rt></ruby>）」和「瞬时动词（<ruby>瞬間動詞<rt>しゅんかんどうし</rt></ruby>）」。
 

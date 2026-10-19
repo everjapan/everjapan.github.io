@@ -53,7 +53,7 @@ content_group: article
 * 就寝、交流、執筆、山脈、河川
 * <span class='more'>（和制汉语）</span>哲学、経済、科学、自由
 
-关于日语中汉字的读音，可参考我之前写的[为什么很多日语发音听起来像我们的方言？详解「吴音」「汉音」「唐音」的历史起源](https：//mp.weixin.qq.com/s/oNHNVPi60_kbXEMgf5EQ5A)。
+关于日语中汉字的读音，可参考我之前写的[为什么很多日语发音听起来像我们的方言？详解「吴音」「汉音」「唐音」的历史起源](https://mp.weixin.qq.com/s/oNHNVPi60_kbXEMgf5EQ5A)。
 
 ## 外来词
 

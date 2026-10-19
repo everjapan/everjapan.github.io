@@ -3,7 +3,7 @@ title: 助词
 permalink: /grammar/particles
 ---
 
-上一篇关于[日语语法基础知识](/japanese/japanese-grammar-basics/)的文章中我们介绍过，日语词汇可以分为「独立词<span class="more">（<ruby>独立語<rt>どくりつご</rt></ruby>）</span>」和「附属词<span class="more">（<ruby>付属語<rt>ふぞくご</rt></ruby>）</span>」两个大类。
+上一篇关于[日语语法基础知识](/japanese/grammar-basics/)的文章中我们介绍过，日语词汇可以分为「独立词<span class="more">（<ruby>独立語<rt>どくりつご</rt></ruby>）</span>」和「附属词<span class="more">（<ruby>付属語<rt>ふぞくご</rt></ruby>）</span>」两个大类。
 
 独立词是指单独一个词就能表达完整意义并构成句节的词语。附属词无法独立存在，只有依附在独立词之后才能构成句节。
 

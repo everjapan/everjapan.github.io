@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<main id="main" class="hub-main" role="main">
+  {% unless page.hide_title %}
+  <header class="hub-heading">
+    {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
+    <h1 id="page-title">{{ page.title }}</h1>
+    {% if page.description %}<p class="lead">{{ page.description }}</p>{% endif %}
+  </header>
+  {% endunless %}
+  {{ content }}
+</main>

@@ -1,18 +1,9 @@
 ---
-layout: archive
+layout: hub
 title: 产品动态
-classes: wide blog-wide
-author_profile: false
+eyebrow: 每一次更新，都在这里
+description: "产品上线、功能更新与专栏公告。日语学习文章请前往学习中心阅读。"
 ---
-
-产品上线、功能更新与专栏公告。
-
 {% if paginator %}{% assign updates = paginator.posts %}{% else %}{% assign updates = site.posts %}{% endif %}
-{% if updates.size > 0 %}
-<div class="entries-list">
-  {% for post in updates %}{% include archive-single.html type="list" %}{% endfor %}
-</div>
-{% include paginator.html %}
-{% else %}
-<p>暂时还没有产品公告。欢迎先了解<a href="{{ '/products/' | relative_url }}">学习产品</a>，或前往<a href="{{ '/language/' | relative_url }}">日语学习专栏</a>阅读。</p>
-{% endif %}
+{% if updates.size > 0 %}<ul class="reading-list">{% for post in updates %}{% include hub/article-link.html doc=post summary=true %}{% endfor %}</ul>{% include paginator.html %}
+{% else %}<section class="empty-state"><span class="empty-icon" aria-hidden="true">📬</span><h2>新的产品消息，会在这里与你见面。</h2><p>目前还没有公告。可以先看看已有的学习产品，或从免费文章开始阅读。</p><div class="button-row"><a class="btn btn--primary" href="{{ '/products/' | relative_url }}">了解学习产品</a><a class="text-link" href="{{ '/language/' | relative_url }}">阅读学习文章 →</a></div></section>{% endif %}

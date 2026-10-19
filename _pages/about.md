@@ -1,7 +1,8 @@
 ---
 title: 关于
 permalink: /about/
-layout: splash
+layout: hub
+hide_title: true
 classes: about-landing
 author_profile: false
 toc: false

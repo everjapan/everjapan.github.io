@@ -11,7 +11,7 @@ date: 2023-08-18
 permalink: /japanese/hentai-kana/
 content_group: article
 ---
-在介绍假名起源的[这篇文章](/japanese/2023-08-14-manyou-kana.md)中提到过，日语的平假名和片假名都是起源于中国的汉字。
+在介绍假名起源的[这篇文章](/japanese/manyou-kana/)中提到过，日语的平假名和片假名都是起源于中国的汉字。
 
 平假名起源于平安时代，但直到明治初期，表示一个平假名音所使用的字源（<ruby>字母<rt>じぼ</rt></ruby>和字形都不止一个。
 

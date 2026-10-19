@@ -9,7 +9,7 @@ date: 2023-08-04
 permalink: /japanese/learn-japanese-by-song/
 content_group: article
 ---
-=> [歌曲链接](https：//www.youtube.com/watch？v=ySjH_HonJ08)
+=> [歌曲链接](https://www.youtube.com/watch?v=ySjH_HonJ08)
 
 大家好，欢迎来到我们的「**听歌学日语**」专栏！
 

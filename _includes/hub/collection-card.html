@@ -1,0 +1,6 @@
+{% assign topic = include.topic %}
+{% assign collection = site.collections | where: 'label', topic.collection | first %}
+<a class="topic-card" href="{{ topic.url | relative_url }}">
+  <span class="topic-icon" aria-hidden="true">{{ topic.icon }}</span>
+  <span class="topic-copy"><strong>{{ topic.title }}</strong><span>{{ topic.description }}</span><small>{{ collection.docs.size }} 篇内容 <span aria-hidden="true">↗</span></small></span>
+</a>

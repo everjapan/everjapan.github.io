@@ -11,18 +11,18 @@ title                    : "日系生活家"
 title_separator          : "-"
 subtitle                 : "语言、生活、读书"
 name                     : &name "日系生活家" # &name is a YAML anchor which can be *referenced later
-description              : &description "用科技与文化，打造最懂语言的学习家园"
+description              : &description "用科技与文化，打造最懂语言的学习家园。免费日语学习内容、系统语法专栏与日本文化阅读。"
 url                      : https://everjapan.com
 baseurl                  : "" # Remove any subpath since your site is at root level
 repository               : "everjapan/everjapan.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+og_image                 : "/assets/images/site-cover.png"
 logo                     : "/assets/images/logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # Disable breadcrumbs site-wide
 # words_per_minute         : 100
-search                   : true # true, false (default)
+search                   : false # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : lunr # lunr (default), algolia, google
+search_provider          : lunr # Theme overlay disabled; /search/ uses search-index.json
 
 github_metadata          : false
 
@@ -84,6 +84,9 @@ exclude:
   - _layouts_backup
   - docs
   - scripts
+  - sever-log.txt
+  - everjapan.xmind
+  - _includes_backup
   - test
 keep_files:
   - .git
@@ -163,191 +166,22 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Defaults
+# Defaults: all content uses the shared reading layout unless a page selects a hub.
 defaults:
   - scope:
       path: ""
     values:
-      author_profile: false
       layout: single
+      author_profile: false
       share: false
-  - scope:
-      path: ""
-      type: japanese-etymology
-    values:
-      layout: single
-      author_profile: false
       toc: true
       toc_label: 目录
-  - scope:
-      path: ""
-      type: learning-methods
-    values:
-      layout: single
-      toc: true
-      toc_label: 目录
-  - scope:
-      path: ""
-      type: pronunciation
-    values:
-      layout: single
-      toc: true
-      toc_label: 目录
-  - scope:
-      path: ""
-      type: linguistics
-    values:
-      layout: single
-      toc: true
-      toc_label: 目录
-  - scope:
-      path: ""
-      type: japanese-particles
-    values:
-      layout: single
-      toc: true
-      toc_label: 目录
-  - scope:
-      path: ""
-      type: vocabulary
-    values:
-      layout: single
-      toc: true
-      toc_label: 目录
-  # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: false
-      share: false
-      related: true
-      toc: true
-      toc_label: '目录'
       permalink: /:categories/:title/
-
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      toc: true
-      toc_label: '目录'
-
-  # _grammar
-  - scope:
-      path: ""
-      type: grammar-tutorial
-    values:
-      layout: single
-      author_profile: false
-      toc: true
-      toc_label: '目录'
-
-  # JLPT Grammars/Exams
-  - scope:
-      path: ""
-      type: jlpt
-    values:
-      layout: single
-      author_profile: false
-      toc: true
-      toc_label: '目录'
-
-  # JLPT Grammars
-  - scope:
-      path: ""
-      type: jlpt-grammars
-    values:
-      layout: single
-      author_profile: false
-      toc: true
-      toc_label: '目录'
-
-  # _proverbs
-  - scope:
-      path: ""
-      type: proverbs
-    values:
-      layout: single
-      author_profile: false
-      toc: true
-      toc_label: '目录'
-
-  # _daily
-  - scope:
-      path: ""
-      type: daily
-    values:
-      layout: single
-      author_profile: false
-      toc: true
-      toc_label: '目录'
-
-  # _japanese-food
-  - scope:
-      path: ""
-      type: japanese-food
-    values:
-      layout: single
-      author_profile: false
-      toc: true
-      toc_label: '目录'
-
-  # _japanese-culture
-  - scope:
-      path: ""
-      type: japanese-culture
-    values:
-      layout: single
-      author_profile: false
-      toc: true
-      toc_label: '目录'
-
-  # _travel
-  - scope:
-      path: ""
-      type: travel
-    values:
-      layout: single
-      author_profile: false
-      toc: true
-      toc_label: '目录'
-
-  # _reading-japanese-learning
-  - scope:
-      path: ""
-      type: reading-japanese-learning
-    values:
-      layout: single
-      author_profile: false
-      toc: true
-      toc_label: '目录'
-
-  # _reading-history-culture
-  - scope:
-      path: ""
-      type: reading-history-culture
-    values:
-      layout: single
-      author_profile: false
-      toc: true
-      toc_label: '目录'
-
-  # _reading-politics-economy
-  - scope:
-      path: ""
-      type: reading-politics-economy
-    values:
-      layout: single
-      author_profile: false
-      toc: true
-      toc_label: '目录'
+      comments: false
 
 # Sass/SCSS
 sass:
@@ -387,8 +221,12 @@ tag_archive:
   type: liquid
   path: /tags/
 
-ompress_html:
+compress_html:
   clippings: all
   ignore:
     envs: development
 
+
+# Enhancements for collection filtering, Chinese/Japanese search and CTA events.
+after_footer_scripts:
+  - /assets/js/site.js

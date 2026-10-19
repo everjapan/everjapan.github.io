@@ -1,0 +1,13 @@
+{% assign product = include.product %}
+<article class="product-card product-card--{{ product.id }}">
+  <a class="product-art" href="{{ product.url | relative_url }}" aria-label="了解{{ product.title }}">
+    <span class="product-art-label">{{ product.label }}</span>
+    <span class="product-art-mark" lang="ja" aria-hidden="true">{{ product.mark }}</span>
+    <span class="product-art-caption">{{ product.title }} <span aria-hidden="true">↗</span></span>
+  </a>
+  <div class="product-card-body">
+    <h3><a href="{{ product.url | relative_url }}">{{ product.title }}</a></h3>
+    <p>{{ product.description }}</p>
+    <a class="text-link" href="{{ product.url | relative_url }}" data-track="product_view" data-item="{{ product.id }}">查看目录与阅读方式 <span aria-hidden="true">→</span></a>
+  </div>
+</article>

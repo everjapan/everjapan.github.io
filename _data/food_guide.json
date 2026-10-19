@@ -1,0 +1,102 @@
+[
+  {
+    "name": "寿司",
+    "reading": "sushi",
+    "image": "/assets/images/food/sushi.jpg"
+  },
+  {
+    "name": "鶏の唐揚げ",
+    "reading": "niwatori-no-karaage",
+    "image": "/assets/images/food/niwatori-no-karaage.jpg"
+  },
+  {
+    "name": "天ぷら",
+    "reading": "tenpura",
+    "image": "/assets/images/food/tenpura.jpg"
+  },
+  {
+    "name": "とんかつ",
+    "reading": "tonkatsu",
+    "image": "/assets/images/food/tonkatsu.jpg"
+  },
+  {
+    "name": "うどん",
+    "reading": "udon",
+    "image": "/assets/images/food/udon.jpg"
+  },
+  {
+    "name": "刺身",
+    "reading": "sashimi",
+    "image": "/assets/images/food/sashimi.jpg"
+  },
+  {
+    "name": "すき焼き",
+    "reading": "suki-yaki",
+    "image": "/assets/images/food/suki-yaki.jpg"
+  },
+  {
+    "name": "肉じゃが",
+    "reading": "niku-jaga",
+    "image": "/assets/images/food/niku-jaga.jpg"
+  },
+  {
+    "name": "焼肉",
+    "reading": "yakiniku",
+    "image": "/assets/images/food/yakiniku.jpg"
+  },
+  {
+    "name": "豚汁",
+    "reading": "tonjiru",
+    "image": "/assets/images/food/tonjiru.jpg"
+  },
+  {
+    "name": "うな重",
+    "reading": "una-juu",
+    "image": "/assets/images/food/una-juu.jpg"
+  },
+  {
+    "name": "味噌汁",
+    "reading": "misoshiru",
+    "image": "/assets/images/food/misoshiru.jpg"
+  },
+  {
+    "name": "たこ焼き",
+    "reading": "tako-yaki",
+    "image": "/assets/images/food/tako-yaki.jpg"
+  },
+  {
+    "name": "ステーキ",
+    "reading": "suteeki",
+    "image": "/assets/images/food/suteeki.jpg"
+  },
+  {
+    "name": "しゃぶしゃぶ",
+    "reading": "shabushabu",
+    "image": "/assets/images/food/shabushabu.jpg"
+  },
+  {
+    "name": "カレーライス",
+    "reading": "kareeraisu",
+    "image": "/assets/images/food/kareeraisu.jpg"
+  },
+  {
+    "name": "そば",
+    "reading": "soba",
+    "image": "/assets/images/food/soba.jpg"
+  },
+  {
+    "name": "醤油ラーメン",
+    "reading": "shouyu-raamen",
+    "image": "/assets/images/food/shouyu-raamen.jpg"
+  },
+  {
+    "name": "焼き鳥",
+    "reading": "yakitori",
+    "image": "/assets/images/food/yakitori.jpg"
+  },
+  {
+    "name": "カツ丼",
+    "reading": "katsu-donburi",
+    "image": "/assets/images/food/katsu-donburi.jpg"
+  }
+]

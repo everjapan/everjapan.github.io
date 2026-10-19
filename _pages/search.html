@@ -1,0 +1,16 @@
+---
+title: 搜索内容
+layout: hub
+permalink: /search/
+eyebrow: 带着一个问题来
+description: "查找语法、词汇、发音与文化文章。支持中文、日语和多个关键词。"
+search: false
+sitemap: false
+noindex: true
+---
+<section data-site-search data-index-url="{{ '/search-index.json' | relative_url }}">
+<form class="search-form" action="{{ '/search/' | relative_url }}" method="get" role="search"><label for="site-query">输入关键词</label><div><input id="site-query" name="q" type="search" placeholder="例如：は が、助词、寿司" autocomplete="off" maxlength="160" required><button class="btn btn--primary" type="submit">搜索</button></div></form>
+<div class="topic-tabs" aria-label="搜索示例"><a href="{{ '/search/?q=助词' | relative_url }}">助词</a><a href="{{ '/search/?q=五十音' | relative_url }}">五十音</a><a href="{{ '/search/?q=敬语' | relative_url }}">敬语</a><a href="{{ '/search/?q=文化' | relative_url }}">文化</a></div>
+<p data-search-status role="status">输入关键词，查找学习内容。</p><ul class="reading-list" data-search-results></ul>
+<noscript><p>搜索需要启用 JavaScript。也可以直接浏览<a href="{{ '/language/' | relative_url }}">学习主题目录</a>或<a href="{{ '/reading-history-culture/' | relative_url }}">历史文化</a>。</p></noscript>
+</section>

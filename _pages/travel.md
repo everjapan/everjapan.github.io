@@ -1,12 +1,12 @@
 ---
-title: 旅行探索
-layout: collection
+title: 旅行前的日语准备
+layout: hub
 permalink: /travel/
-collection: travel
-entries_layout: grid
-sort_by: date
-sort_order: reverse
-author_profile: false
+eyebrow: 带着几句日语出发
+description: "从游玩、住宿与日常交流的表达入手，为日本旅行做一点语言准备。"
 ---
-
-发现日本各地的独特风光，从繁华东京到古都京都，从北国雪景到南国海岛，开启你的日本之旅。
+<ul class="reading-list">
+{% assign routes = '/japanese/travelling-japanese/|/japanese/hotel-japanese/|/japanese/thanks-japanese/' | split: '|' %}
+{% for url in routes %}{% assign doc = site.documents | where: 'url', url | first %}{% if doc %}{% include hub/article-link.html doc=doc summary=true %}{% endif %}{% endfor %}
+</ul>
+<div class="section-end"><a class="text-link" href="{{ '/daily/' | relative_url }}">更多日常表达 →</a><a class="text-link" href="{{ '/reading-history-culture/' | relative_url }}">探索历史文化 →</a></div>

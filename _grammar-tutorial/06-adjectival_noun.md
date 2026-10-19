@@ -7,7 +7,7 @@ permalink: /grammar/adjectival-noun
 
 「形容动词」是日语国语文法中的概念，对应日本语文法中的「ナ形容词」。
 
-⇨ [日语文法系统简介：日本语文法 vs 国语文法](japanese/two-japanese-grammar-types/)
+⇨ [日语文法系统简介：日本语文法 vs 国语文法](/japanese/two-japanese-grammar-types/)
 
 「形容动词」这个名称的由来与其词性特点和活用形式有关。它结合了形容词和动词的特性，具体来说有以下几个方面的原因：
 

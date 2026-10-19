@@ -1,62 +1,25 @@
 ---
-layout: splash
-classes: home-landing
-title: 用科技与文化，打造最懂语言的学习家园
-excerpt: "研发科技产品，创作融合历史文化视角的内容，助力日语学习者用科学方法掌握日语"
-header:
-  overlay_color: "#303b58"
-  actions:
-    - label: 联系作者
-      url: /about/
-feature_row:
-  - title: '<span class="home-card-icon" aria-hidden="true">🧩</span>助词通关攻略'
-    excerpt: "从基本用法到相近表达辨析，读懂小小助词背后的逻辑。"
-    url: /products/particles/
-    btn_label: 查看专栏目录
-    btn_class: btn--primary
-  - title: '<span class="home-card-icon" aria-hidden="true">📚</span>日语系统语法'
-    excerpt: "从句子结构、词类到活用，逐步建立完整的日语语法框架。"
-    url: /products/systematic-grammar/
-    btn_label: 探索语法体系
-    btn_class: btn--primary
-learning:
-  - title: '<span class="home-card-icon" aria-hidden="true">🎯</span>JLPT 语法'
-    excerpt: "结合例句理解句型，从易混语法开始巩固备考基础。"
-    url: /jlpt-grammars/
-    btn_label: 开始学习
-    btn_class: btn--primary
-  - title: '<span class="home-card-icon" aria-hidden="true">✍️</span>日语说文解字'
-    excerpt: "追溯文字、读音与词汇的来路，在文化中理解语言。"
-    url: /japanese-etymology/
-    btn_label: 探索文字
-    btn_class: btn--primary
-  - title: '<span class="home-card-icon" aria-hidden="true">🏯</span>历史文化'
-    excerpt: "从历史、饮食与阅读出发，认识语言背后的日本。"
-    url: /reading-history-culture/
-    btn_label: 阅读文化故事
-    btn_class: btn--primary
+layout: hub
+hide_title: true
+title: 日语学习、文化阅读与系统专栏
+excerpt: "用科技与文化，打造最懂语言的学习家园。免费学习日语语法、词汇与发音，探索日本文化，找到适合自己的系统学习专栏。"
 ---
-
-<section class="home-section home-products" aria-labelledby="home-products-title">
-<h2 id="home-products-title">深入学习，从这里开始</h2>
-<p class="home-section-intro">把零散的知识，变成自己的语言能力。</p>
-{% include feature_row %}
-</section>
-<section class="home-section home-learning" aria-labelledby="home-learning-title">
-<h2 id="home-learning-title">免费学习与文化阅读</h2>
-<p class="home-section-intro">备考、识字、读文化，找到今天想探索的方向。</p>
-{% include feature_row id="learning" %}
-</section>
-<section class="home-section" aria-labelledby="home-news-title">
-<h2 id="home-news-title"><span aria-hidden="true">📝</span> 产品动态</h2>
-{% if site.posts.size > 0 %}
-<div class="entries-list">
-  {% for post in site.posts limit:3 %}
-    {% include archive-single.html type="list" %}
-  {% endfor %}
-</div>
-{% else %}
-<p>产品上线与更新消息将在这里发布。现在可以先探索上面的学习专栏。</p>
-{% endif %}
-<p><a class="btn btn--primary" href="{{ '/blog/' | relative_url }}">查看全部更新</a></p>
-</section>
+<header class="home-hero">
+  <div class="home-hero-copy"><p class="eyebrow">日系生活家 · 语言、生活、读书</p><h1 id="page-title">用科技与文化，<br>打造最懂语言的<br><em>学习家园。</em></h1><p class="lead">研发科技产品，创作融合历史文化视角的内容，助力日语学习者用科学方法掌握日语。</p><div class="button-row"><a class="btn btn--primary" href="{{ '/language/' | relative_url }}" data-track="learning_start">探索免费学习内容 →</a><a class="text-link" href="{{ '/products/' | relative_url }}">了解学习产品</a><a class="text-link" href="{{ '/about/#contact' | relative_url }}">联系作者</a></div></div>
+  <a class="hero-study-card" href="{{ '/japanese/grammar-particles/' | relative_url }}"><span class="eyebrow">从一个小问题，开始理解日语</span><span class="hero-kana" lang="ja" aria-hidden="true"><span>は</span><span>が</span></span><span class="hero-study-title">一个助词，<br>为什么能改变一句话？</span><span class="hero-study-note">从助词的分类与用法开始，找到语言背后的逻辑。</span><span class="text-link">读一篇免费文章 <span aria-hidden="true">↗</span></span><span class="hero-card-foot">日语学习笔记 / 助词专题</span></a>
+</header>
+<section class="hub-section" aria-labelledby="paths-title"><div class="section-heading"><div><p class="eyebrow">找到适合你的起点</p><h2 id="paths-title">今天，想从哪里开始？</h2></div></div><div class="path-grid">
+<a class="path-card" href="{{ '/jumpstart/' | relative_url }}"><span class="step-number">01</span><h3>刚开始学日语</h3><p>从学习方法、五十音到基础语法，按步骤找到第一篇该读的文章。</p><span class="text-link">查看入门路线 →</span></a>
+<a class="path-card" href="{{ '/language/' | relative_url }}"><span class="step-number">02</span><h3>有一个问题想弄懂</h3><p>按主题查语法、辨词汇、练表达，让一个个疑问得到具体解答。</p><span class="text-link">浏览学习主题 →</span></a>
+<a class="path-card" href="{{ '/products/' | relative_url }}"><span class="step-number">03</span><h3>想把知识串成体系</h3><p>看看助词与系统语法专栏，先读公开内容，再选择学习方式。</p><span class="text-link">了解系统专栏 →</span></a>
+</div></section>
+<section class="hub-section" aria-labelledby="featured-title"><div class="section-heading"><div><p class="eyebrow">从这些文章读起</p><h2 id="featured-title">把“好像懂了”，变成“真的明白”。</h2></div><a class="text-link" href="{{ '/language/' | relative_url }}">全部学习主题 →</a></div>
+<div class="featured-grid">
+{% assign featured_urls = '/japanese/how-to-learn-japanese-efficently-and-effectively/|/japanese/gojuon/|/japanese/particle-ni-he/|/japanese/kanji-kata-origin/' | split: '|' %}
+{% assign featured_labels = '学习方法|五十音入门|助词辨析|文字起源' | split: '|' %}
+{% for url in featured_urls %}{% assign doc = site.documents | where: 'url', url | first %}{% assign i = forloop.index0 %}{% if doc %}<a class="featured-card" href="{{ doc.url | relative_url }}"><span class="eyebrow">{{ featured_labels[i] }}</span><h3>{{ doc.title }}</h3><span class="text-link">开始阅读 ↗</span></a>{% endif %}{% endfor %}
+</div></section>
+<section class="hub-section" aria-labelledby="products-title"><div class="section-heading"><div><p class="eyebrow">值得反复读的学习专栏</p><h2 id="products-title">从零散知识，到清晰体系。</h2></div><a class="text-link" href="{{ '/products/' | relative_url }}">查看全部产品 →</a></div><div class="product-grid">{% for product in site.data.products %}{% include hub/product-card.html product=product %}{% endfor %}</div></section>
+<section class="culture-band" aria-labelledby="culture-title"><div><p class="eyebrow">语言之外，还有生活</p><h2 id="culture-title">读懂一个词，<br>也走近一种文化。</h2><p>从文字的来路，到餐桌上的历史，让语言学习与真实的世界相遇。</p><a class="text-link" href="{{ '/reading-history-culture/' | relative_url }}">探索历史文化 →</a></div><div class="culture-band-topics">{% for topic in site.data.culture_collections %}{% include hub/collection-card.html topic=topic %}{% endfor %}</div></section>
+{% if site.posts.size > 0 %}<section class="hub-section" aria-labelledby="updates-title"><div class="section-heading"><h2 id="updates-title">产品动态</h2><a class="text-link" href="{{ '/blog/' | relative_url }}">全部公告 →</a></div><ul class="reading-list">{% for post in site.posts limit:3 %}{% include hub/article-link.html doc=post %}{% endfor %}</ul></section>{% endif %}
+{% include hub/follow.html %}

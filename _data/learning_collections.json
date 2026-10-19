@@ -3,66 +3,99 @@
     "collection": "learning-methods",
     "title": "学习方法",
     "description": "自学经验、学习路径与听歌学日语。",
-    "url": "/learning-methods/"
+    "url": "/learning-methods/",
+    "group": "开始学习",
+    "icon": "🧭",
+    "start_url": "/japanese/how-to-learn-japanese-efficently-and-effectively/"
   },
   {
     "collection": "pronunciation",
     "title": "五十音与发音",
     "description": "假名入门、节拍、词调、语调与音便。",
-    "url": "/pronunciation/"
+    "url": "/pronunciation/",
+    "group": "开始学习",
+    "icon": "あ",
+    "start_url": "/japanese/gojuon/"
   },
   {
     "collection": "grammar-tutorial",
-    "title": "日语系统语法",
+    "title": "语法体系与教程",
     "description": "句子结构、品词、动词活用与敬语。",
-    "url": "/grammar/"
+    "url": "/grammar/",
+    "group": "建立体系",
+    "icon": "📚",
+    "start_url": "/grammar/basic"
   },
   {
     "collection": "japanese-particles",
     "title": "助词用法与辨析",
     "description": "格助词、提示助词及相近助词的用法区别。",
-    "url": "/japanese-particles/"
+    "url": "/japanese-particles/",
+    "group": "建立体系",
+    "icon": "🧩",
+    "start_url": "/japanese/grammar-particles/"
   },
   {
     "collection": "jlpt-grammars",
     "title": "JLPT 语法与句型",
-    "description": "条件、推量、否定等常见句型与易混表达，不预设考试等级。",
-    "url": "/jlpt-grammars/"
+    "description": "结合例句理解条件、推量与否定，辨清容易混淆的句型。",
+    "url": "/jlpt-grammars/",
+    "group": "建立体系",
+    "icon": "🎯",
+    "start_url": "/japanese/to-ba-tara-nara/"
   },
   {
     "collection": "vocabulary",
     "title": "词汇辨析",
     "description": "相近词、数量表达与连接词的使用差异。",
-    "url": "/vocabulary/"
+    "url": "/vocabulary/",
+    "group": "用好日语",
+    "icon": "言",
+    "start_url": "/japanese/nan-and-nani/"
   },
   {
     "collection": "daily",
     "title": "日常表达",
     "description": "感谢、寒暄、旅行与住宿场景中的日语。",
-    "url": "/daily/"
+    "url": "/daily/",
+    "group": "用好日语",
+    "icon": "💬",
+    "start_url": "/japanese/thanks-japanese/"
   },
   {
     "collection": "japanese-etymology",
     "title": "日语说文解字",
     "description": "文字起源、汉字读音、词汇来源与演变。",
-    "url": "/japanese-etymology/"
+    "url": "/japanese-etymology/",
+    "group": "理解语言",
+    "icon": "字",
+    "start_url": "/japanese/kanji-kata-origin/"
   },
   {
     "collection": "linguistics",
     "title": "语言学基础",
     "description": "语言类型与语素等理解语言的基础概念。",
-    "url": "/linguistics/"
+    "url": "/linguistics/",
+    "group": "理解语言",
+    "icon": "🔎",
+    "start_url": "/japanese/language-types/"
   },
   {
     "collection": "proverbs",
     "title": "谚语与惯用语",
     "description": "认识谚语、惯用语、故事成语与四字熟语。",
-    "url": "/proverbs/"
+    "url": "/proverbs/",
+    "group": "用好日语",
+    "icon": "諺",
+    "start_url": "/japanese/proverbs/"
   },
   {
     "collection": "reading-japanese-learning",
     "title": "日语学习读书笔记",
     "description": "从语言类书籍中理解日语表达与思维。",
-    "url": "/reading-japanese-learning/"
+    "url": "/reading-japanese-learning/",
+    "group": "理解语言",
+    "icon": "📖",
+    "start_url": "/japanese/reading-notes-of-nihongo/"
   }
 ]

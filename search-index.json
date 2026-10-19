@@ -1,0 +1,21 @@
+---
+layout: null
+permalink: /search-index.json
+sitemap: false
+search: false
+---
+[
+{% assign topics = site.data.learning_collections | concat: site.data.culture_collections %}
+{% assign docs = site.documents | where_exp: 'doc', 'doc.search != false' %}
+{% for doc in docs %}
+{% assign topic = topics | where: 'collection', doc.collection | first %}
+{
+  "title": {{ doc.title | strip_html | jsonify }},
+  "url": {{ doc.url | relative_url | jsonify }},
+  "topic": {{ topic.title | default: '产品动态' | jsonify }},
+  "tags": {{ doc.tags | join: ' ' | jsonify }},
+  "excerpt": {{ doc.excerpt | default: doc.content | strip_html | normalize_whitespace | truncate: 160 | jsonify }},
+  "text": {{ doc.content | strip_html | normalize_whitespace | jsonify }}
+}{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]

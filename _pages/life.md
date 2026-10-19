@@ -1,29 +1,9 @@
 ---
-title: 生活
-layout: single
+title: 日本生活
+layout: hub
 permalink: /life/
-toc: false
+eyebrow: 让语言回到生活
+description: "从餐桌、风俗与日常表达出发，认识具体而真实的日本。"
 ---
-
-## 日本生活
-
-探索日本的美食、文化和生活方式，感受地道的日系生活。
-
-### 核心专栏
-
-<div class="feature-grid">
-  <div class="feature-item">
-    <h3><a href="/japanese-food/">🍱 日本美食</a></h3>
-    <p>寿司、拉面、咖喱等日本料理，探索日本饮食文化的魅力。</p>
-  </div>
-
-  <div class="feature-item">
-    <h3><a href="/japanese-culture/">🎎 日本文化</a></h3>
-    <p>传统艺术、节日庆典、美学理念，深入了解日本文化的精髓。</p>
-  </div>
-
-  <div class="feature-item">
-    <h3><a href="/travel/">✈️ 旅行探索</a></h3>
-    <p>东京、京都、北海道、冲绳，发现日本各地的独特风光。</p>
-  </div>
-</div>
+<div class="topic-grid">{% for topic in site.data.culture_collections %}{% include hub/collection-card.html topic=topic %}{% endfor %}{% assign topic = site.data.learning_collections | where: 'collection', 'daily' | first %}{% include hub/collection-card.html topic=topic %}</div>
+<section class="hub-section"><h2>出发之前，学几句实用日语</h2><ul class="reading-list"><li class="reading-item"><a href="{{ '/japanese/travelling-japanese/' | relative_url }}"><span class="reading-title">游玩日本必备的实用日语</span><span class="reading-arrow" aria-hidden="true">↗</span></a></li><li class="reading-item"><a href="{{ '/japanese/hotel-japanese/' | relative_url }}"><span class="reading-title">在日本住酒店时的常用表达</span><span class="reading-arrow" aria-hidden="true">↗</span></a></li></ul></section>
