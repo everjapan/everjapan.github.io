@@ -11,6 +11,11 @@ from urllib.parse import unquote, urljoin, urlsplit
 
 ROOT = Path(sys.argv[1] if len(sys.argv) > 1 else '_site').resolve()
 REPO = Path(__file__).resolve().parents[1]
+# These reading projects share the domain but are deployed by separate repositories.
+HOSTED_READING_URLS = {
+    reading['url']
+    for reading in json.loads((REPO / '_data/history_readings.json').read_text())
+}
 
 class Page(HTMLParser):
     def __init__(self, text):
@@ -50,6 +55,8 @@ for path in html_files:
             errors['Invalid URL: ' + link].add(relative)
             continue
         if url.scheme not in ('http', 'https') or url.netloc != 'everjapan.com':
+            continue
+        if url.geturl() in HOSTED_READING_URLS:
             continue
         target = ROOT / unquote(url.path).lstrip('/')
         candidates = (target, target / 'index.html', Path(str(target) + '.html'))
