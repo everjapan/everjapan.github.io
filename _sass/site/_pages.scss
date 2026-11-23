@@ -32,6 +32,8 @@
 .start-link > span:last-child { margin-left: auto; }
 .start-link strong, .start-link div span { display: block; }
 .start-link div span { font-size: .82rem; color: var(--muted); margin-top: .3rem; }
+.learning-search-shortcut { margin: .65rem 0 0; font-size: .85rem; color: var(--muted); }
+.learning-search-shortcut > span { margin-inline-start: .4rem; }
 .collection-heading .btn { margin-top: 1.3rem; }
 .library > h3 { margin-top: 2rem; }
 .product-hero { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 4rem; align-items: center; padding-block: 3.5rem; }
